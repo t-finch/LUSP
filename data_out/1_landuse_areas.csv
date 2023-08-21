@@ -1,0 +1,1177 @@
+"scenario","year","lcm","area"
+"0: Baseline",2015,"Arable and horticulture",5546511.5625
+"0: Baseline",2015,"Bog",1089384.9375
+"0: Baseline",2015,"Broadleaved woodland",1614906.1875
+"0: Baseline",2015,"Coastal",388057.875
+"0: Baseline",2015,"Coniferous woodland",1766968.9375
+"0: Baseline",2015,"Fen, marsh & swamp",166634.625
+"0: Baseline",2015,"Freshwater",312163.0625
+"0: Baseline",2015,"Heather",2694729
+"0: Baseline",2015,"Improved grassland",7004817
+"0: Baseline",2015,"Inland rock",126968.75
+"0: Baseline",2015,"Saltmarsh",71372.875
+"0: Baseline",2015,"Semi-natural grassland",2236996.6875
+"0: Baseline",2015,"Urban and suburban",1705801.625
+"0: Baseline",2020,"Arable and horticulture",5525213.75
+"0: Baseline",2020,"Bog",1089384.9375
+"0: Baseline",2020,"Broadleaved woodland",1614906.1875
+"0: Baseline",2020,"Coastal",388057.875
+"0: Baseline",2020,"Coniferous woodland",1766968.9375
+"0: Baseline",2020,"Fen, marsh & swamp",166634.625
+"0: Baseline",2020,"Freshwater",312163.0625
+"0: Baseline",2020,"Heather",2694729
+"0: Baseline",2020,"Improved grassland",6960252.875
+"0: Baseline",2020,"Inland rock",126968.75
+"0: Baseline",2020,"Saltmarsh",71372.875
+"0: Baseline",2020,"Semi-natural grassland",2236996.6875
+"0: Baseline",2020,"Urban and suburban",1771663.5625
+"0: Baseline",2025,"Arable and horticulture",5503989.9375
+"0: Baseline",2025,"Bog",1089384.9375
+"0: Baseline",2025,"Broadleaved woodland",1614906.1875
+"0: Baseline",2025,"Coastal",388057.875
+"0: Baseline",2025,"Coniferous woodland",1766968.9375
+"0: Baseline",2025,"Fen, marsh & swamp",166634.625
+"0: Baseline",2025,"Freshwater",312163.0625
+"0: Baseline",2025,"Heather",2694729
+"0: Baseline",2025,"Improved grassland",6915614.9375
+"0: Baseline",2025,"Inland rock",126968.75
+"0: Baseline",2025,"Saltmarsh",71372.875
+"0: Baseline",2025,"Semi-natural grassland",2236996.6875
+"0: Baseline",2025,"Urban and suburban",1837525.3125
+"0: Baseline",2030,"Arable and horticulture",5482717.5
+"0: Baseline",2030,"Bog",1089384.9375
+"0: Baseline",2030,"Broadleaved woodland",1614906.1875
+"0: Baseline",2030,"Coastal",388057.875
+"0: Baseline",2030,"Coniferous woodland",1766968.9375
+"0: Baseline",2030,"Fen, marsh & swamp",166634.625
+"0: Baseline",2030,"Freshwater",312163.0625
+"0: Baseline",2030,"Heather",2694729
+"0: Baseline",2030,"Improved grassland",6871025.375
+"0: Baseline",2030,"Inland rock",126968.75
+"0: Baseline",2030,"Saltmarsh",71372.875
+"0: Baseline",2030,"Semi-natural grassland",2236996.6875
+"0: Baseline",2030,"Urban and suburban",1903387.3125
+"0: Baseline",2035,"Arable and horticulture",5461438.5625
+"0: Baseline",2035,"Bog",1089384.9375
+"0: Baseline",2035,"Broadleaved woodland",1614906.1875
+"0: Baseline",2035,"Coastal",388057.875
+"0: Baseline",2035,"Coniferous woodland",1766968.9375
+"0: Baseline",2035,"Fen, marsh & swamp",166634.625
+"0: Baseline",2035,"Freshwater",312163.0625
+"0: Baseline",2035,"Heather",2694729
+"0: Baseline",2035,"Improved grassland",6826442.4375
+"0: Baseline",2035,"Inland rock",126968.75
+"0: Baseline",2035,"Saltmarsh",71372.875
+"0: Baseline",2035,"Semi-natural grassland",2236996.6875
+"0: Baseline",2035,"Urban and suburban",1969249.1875
+"0: Baseline",2040,"Arable and horticulture",5439727.125
+"0: Baseline",2040,"Bog",1089384.9375
+"0: Baseline",2040,"Broadleaved woodland",1614906.1875
+"0: Baseline",2040,"Coastal",388057.875
+"0: Baseline",2040,"Coniferous woodland",1766968.9375
+"0: Baseline",2040,"Fen, marsh & swamp",166634.625
+"0: Baseline",2040,"Freshwater",312163.0625
+"0: Baseline",2040,"Heather",2694729
+"0: Baseline",2040,"Improved grassland",6782292
+"0: Baseline",2040,"Inland rock",126968.75
+"0: Baseline",2040,"Saltmarsh",71372.875
+"0: Baseline",2040,"Semi-natural grassland",2236996.6875
+"0: Baseline",2040,"Urban and suburban",2035111.0625
+"0: Baseline",2045,"Arable and horticulture",5417902.375
+"0: Baseline",2045,"Bog",1089384.9375
+"0: Baseline",2045,"Broadleaved woodland",1614906.1875
+"0: Baseline",2045,"Coastal",388057.875
+"0: Baseline",2045,"Coniferous woodland",1766968.9375
+"0: Baseline",2045,"Fen, marsh & swamp",166634.625
+"0: Baseline",2045,"Freshwater",312163.0625
+"0: Baseline",2045,"Heather",2694729
+"0: Baseline",2045,"Improved grassland",6738254.9375
+"0: Baseline",2045,"Inland rock",126968.75
+"0: Baseline",2045,"Saltmarsh",71372.875
+"0: Baseline",2045,"Semi-natural grassland",2236996.6875
+"0: Baseline",2045,"Urban and suburban",2100972.875
+"0: Baseline",2050,"Arable and horticulture",5395349
+"0: Baseline",2050,"Bog",1089384.9375
+"0: Baseline",2050,"Broadleaved woodland",1614906.1875
+"0: Baseline",2050,"Coastal",388057.875
+"0: Baseline",2050,"Coniferous woodland",1766968.9375
+"0: Baseline",2050,"Fen, marsh & swamp",166634.625
+"0: Baseline",2050,"Freshwater",312163.0625
+"0: Baseline",2050,"Heather",2694729
+"0: Baseline",2050,"Improved grassland",6694946.375
+"0: Baseline",2050,"Inland rock",126968.75
+"0: Baseline",2050,"Saltmarsh",71372.875
+"0: Baseline",2050,"Semi-natural grassland",2236996.6875
+"0: Baseline",2050,"Urban and suburban",2166834.8125
+"1: On Farm Measures (Organic)",2015,"Arable and horticulture",5546511.5625
+"1: On Farm Measures (Organic)",2015,"Bog",1089384.9375
+"1: On Farm Measures (Organic)",2015,"Broadleaved woodland",1614906.1875
+"1: On Farm Measures (Organic)",2015,"Coastal",388057.875
+"1: On Farm Measures (Organic)",2015,"Coniferous woodland",1766968.9375
+"1: On Farm Measures (Organic)",2015,"Fen, marsh & swamp",166634.625
+"1: On Farm Measures (Organic)",2015,"Freshwater",312163.0625
+"1: On Farm Measures (Organic)",2015,"Heather",2694729
+"1: On Farm Measures (Organic)",2015,"Improved grassland",7004817
+"1: On Farm Measures (Organic)",2015,"Inland rock",126968.75
+"1: On Farm Measures (Organic)",2015,"Saltmarsh",71372.875
+"1: On Farm Measures (Organic)",2015,"Semi-natural grassland",2236996.6875
+"1: On Farm Measures (Organic)",2015,"Urban and suburban",1705801.625
+"1: On Farm Measures (Organic)",2020,"Arable and horticulture",5525213.75
+"1: On Farm Measures (Organic)",2020,"Bog",1089384.9375
+"1: On Farm Measures (Organic)",2020,"Broadleaved woodland",1614906.1875
+"1: On Farm Measures (Organic)",2020,"Coastal",388057.875
+"1: On Farm Measures (Organic)",2020,"Coniferous woodland",1766968.9375
+"1: On Farm Measures (Organic)",2020,"Fen, marsh & swamp",166634.625
+"1: On Farm Measures (Organic)",2020,"Freshwater",312163.0625
+"1: On Farm Measures (Organic)",2020,"Heather",2694729
+"1: On Farm Measures (Organic)",2020,"Improved grassland",6960252.875
+"1: On Farm Measures (Organic)",2020,"Inland rock",126968.75
+"1: On Farm Measures (Organic)",2020,"Saltmarsh",71372.875
+"1: On Farm Measures (Organic)",2020,"Semi-natural grassland",2236996.6875
+"1: On Farm Measures (Organic)",2020,"Urban and suburban",1771663.5625
+"1: On Farm Measures (Organic)",2025,"Arable and horticulture",5004568.75
+"1: On Farm Measures (Organic)",2025,"Arable and horticulture (agroforestry)",54769.3125
+"1: On Farm Measures (Organic)",2025,"Arable and horticulture (organic and agroforestry)",197.375
+"1: On Farm Measures (Organic)",2025,"Arable and horticulture (organic)",441173.0625
+"1: On Farm Measures (Organic)",2025,"Bog",1334847.625
+"1: On Farm Measures (Organic)",2025,"Broadleaved woodland",1614906.1875
+"1: On Farm Measures (Organic)",2025,"Coastal",388057.875
+"1: On Farm Measures (Organic)",2025,"Coniferous woodland",1770223.3125
+"1: On Farm Measures (Organic)",2025,"Fen, marsh & swamp",196358.125
+"1: On Farm Measures (Organic)",2025,"Freshwater",312163.0625
+"1: On Farm Measures (Organic)",2025,"Heather",2469819.5625
+"1: On Farm Measures (Organic)",2025,"Improved grassland",6245056.5625
+"1: On Farm Measures (Organic)",2025,"Improved grassland (agroforestry)",121994.5
+"1: On Farm Measures (Organic)",2025,"Improved grassland (organic and agroforestry)",2948.3125
+"1: On Farm Measures (Organic)",2025,"Improved grassland (organic)",541139
+"1: On Farm Measures (Organic)",2025,"Inland rock",126968.75
+"1: On Farm Measures (Organic)",2025,"Paludiculture",3051.5625
+"1: On Farm Measures (Organic)",2025,"Saltmarsh",71372.875
+"1: On Farm Measures (Organic)",2025,"Semi-natural grassland",2188172
+"1: On Farm Measures (Organic)",2025,"Urban and suburban",1837525.3125
+"1: On Farm Measures (Organic)",2030,"Arable and horticulture",4485297.75
+"1: On Farm Measures (Organic)",2030,"Arable and horticulture (agroforestry)",109280.3125
+"1: On Farm Measures (Organic)",2030,"Arable and horticulture (organic and agroforestry)",649.375
+"1: On Farm Measures (Organic)",2030,"Arable and horticulture (organic)",880945.8125
+"1: On Farm Measures (Organic)",2030,"Bog",1568365.1875
+"1: On Farm Measures (Organic)",2030,"Broadleaved woodland",1614906.1875
+"1: On Farm Measures (Organic)",2030,"Coastal",388057.875
+"1: On Farm Measures (Organic)",2030,"Coniferous woodland",1773489.8125
+"1: On Farm Measures (Organic)",2030,"Fen, marsh & swamp",237900.75
+"1: On Farm Measures (Organic)",2030,"Freshwater",312163.0625
+"1: On Farm Measures (Organic)",2030,"Heather",2253381.625
+"1: On Farm Measures (Organic)",2030,"Improved grassland",5534089.8125
+"1: On Farm Measures (Organic)",2030,"Improved grassland (agroforestry)",238770.5625
+"1: On Farm Measures (Organic)",2030,"Improved grassland (organic and agroforestry)",11142.3125
+"1: On Farm Measures (Organic)",2030,"Improved grassland (organic)",1078244.0625
+"1: On Farm Measures (Organic)",2030,"Inland rock",126968.75
+"1: On Farm Measures (Organic)",2030,"Paludiculture",6101.75
+"1: On Farm Measures (Organic)",2030,"Saltmarsh",71372.875
+"1: On Farm Measures (Organic)",2030,"Semi-natural grassland",2130797.9375
+"1: On Farm Measures (Organic)",2030,"Urban and suburban",1903387.3125
+"1: On Farm Measures (Organic)",2035,"Arable and horticulture",3965737.0625
+"1: On Farm Measures (Organic)",2035,"Arable and horticulture (agroforestry)",163620.1875
+"1: On Farm Measures (Organic)",2035,"Arable and horticulture (organic and agroforestry)",1271.1875
+"1: On Farm Measures (Organic)",2035,"Arable and horticulture (organic)",1321052
+"1: On Farm Measures (Organic)",2035,"Bog",1808002.5
+"1: On Farm Measures (Organic)",2035,"Broadleaved woodland",1614906.1875
+"1: On Farm Measures (Organic)",2035,"Coastal",388057.875
+"1: On Farm Measures (Organic)",2035,"Coniferous woodland",1776736.6875
+"1: On Farm Measures (Organic)",2035,"Fen, marsh & swamp",273648.5625
+"1: On Farm Measures (Organic)",2035,"Freshwater",312163.0625
+"1: On Farm Measures (Organic)",2035,"Heather",2053989.1875
+"1: On Farm Measures (Organic)",2035,"Improved grassland",4828744.5625
+"1: On Farm Measures (Organic)",2035,"Improved grassland (agroforestry)",350249.1875
+"1: On Farm Measures (Organic)",2035,"Improved grassland (organic and agroforestry)",24626.875
+"1: On Farm Measures (Organic)",2035,"Improved grassland (organic)",1609541.5625
+"1: On Farm Measures (Organic)",2035,"Inland rock",126968.75
+"1: On Farm Measures (Organic)",2035,"Paludiculture",9098.625
+"1: On Farm Measures (Organic)",2035,"Saltmarsh",71372.875
+"1: On Farm Measures (Organic)",2035,"Semi-natural grassland",2056277
+"1: On Farm Measures (Organic)",2035,"Urban and suburban",1969249.1875
+"1: On Farm Measures (Organic)",2040,"Arable and horticulture",3905825.875
+"1: On Farm Measures (Organic)",2040,"Arable and horticulture (agroforestry)",205079.875
+"1: On Farm Measures (Organic)",2040,"Arable and horticulture (organic and agroforestry)",14772.75
+"1: On Farm Measures (Organic)",2040,"Arable and horticulture (organic)",1301166.4375
+"1: On Farm Measures (Organic)",2040,"Bog",2032798.3125
+"1: On Farm Measures (Organic)",2040,"Broadleaved woodland",1614906.1875
+"1: On Farm Measures (Organic)",2040,"Coastal",388057.875
+"1: On Farm Measures (Organic)",2040,"Coniferous woodland",1776736.6875
+"1: On Farm Measures (Organic)",2040,"Fen, marsh & swamp",305904.1875
+"1: On Farm Measures (Organic)",2040,"Freshwater",312163.0625
+"1: On Farm Measures (Organic)",2040,"Heather",1873159.4375
+"1: On Farm Measures (Organic)",2040,"Improved grassland",4701147.25
+"1: On Farm Measures (Organic)",2040,"Improved grassland (agroforestry)",444858.875
+"1: On Farm Measures (Organic)",2040,"Improved grassland (organic and agroforestry)",54980.4375
+"1: On Farm Measures (Organic)",2040,"Improved grassland (organic)",1568025.1875
+"1: On Farm Measures (Organic)",2040,"Inland rock",126968.75
+"1: On Farm Measures (Organic)",2040,"Paludiculture",12222.6875
+"1: On Farm Measures (Organic)",2040,"Saltmarsh",71372.875
+"1: On Farm Measures (Organic)",2040,"Semi-natural grassland",1980055.3125
+"1: On Farm Measures (Organic)",2040,"Urban and suburban",2035111.0625
+"1: On Farm Measures (Organic)",2045,"Arable and horticulture",3845963.125
+"1: On Farm Measures (Organic)",2045,"Arable and horticulture (agroforestry)",246246.5625
+"1: On Farm Measures (Organic)",2045,"Arable and horticulture (organic and agroforestry)",28575.6875
+"1: On Farm Measures (Organic)",2045,"Arable and horticulture (organic)",1281189
+"1: On Farm Measures (Organic)",2045,"Bog",2250375.5625
+"1: On Farm Measures (Organic)",2045,"Broadleaved woodland",1614906.1875
+"1: On Farm Measures (Organic)",2045,"Coastal",388057.875
+"1: On Farm Measures (Organic)",2045,"Coniferous woodland",1776736.6875
+"1: On Farm Measures (Organic)",2045,"Fen, marsh & swamp",330128.5625
+"1: On Farm Measures (Organic)",2045,"Freshwater",312163.0625
+"1: On Farm Measures (Organic)",2045,"Heather",1708784
+"1: On Farm Measures (Organic)",2045,"Improved grassland",4573500.875
+"1: On Farm Measures (Organic)",2045,"Improved grassland (agroforestry)",539578.25
+"1: On Farm Measures (Organic)",2045,"Improved grassland (organic and agroforestry)",85239.375
+"1: On Farm Measures (Organic)",2045,"Improved grassland (organic)",1526656.1875
+"1: On Farm Measures (Organic)",2045,"Inland rock",126968.75
+"1: On Farm Measures (Organic)",2045,"Paludiculture",15268.5
+"1: On Farm Measures (Organic)",2045,"Saltmarsh",71372.875
+"1: On Farm Measures (Organic)",2045,"Semi-natural grassland",1902629.125
+"1: On Farm Measures (Organic)",2045,"Urban and suburban",2100972.875
+"1: On Farm Measures (Organic)",2050,"Arable and horticulture",3785554.625
+"1: On Farm Measures (Organic)",2050,"Arable and horticulture (agroforestry)",287313.375
+"1: On Farm Measures (Organic)",2050,"Arable and horticulture (organic and agroforestry)",42486.1875
+"1: On Farm Measures (Organic)",2050,"Arable and horticulture (organic)",1260999.375
+"1: On Farm Measures (Organic)",2050,"Bog",2442453.6875
+"1: On Farm Measures (Organic)",2050,"Broadleaved woodland",1614906.1875
+"1: On Farm Measures (Organic)",2050,"Coastal",388057.875
+"1: On Farm Measures (Organic)",2050,"Coniferous woodland",1776736.6875
+"1: On Farm Measures (Organic)",2050,"Fen, marsh & swamp",378397.8125
+"1: On Farm Measures (Organic)",2050,"Freshwater",312163.0625
+"1: On Farm Measures (Organic)",2050,"Heather",1544031.6875
+"1: On Farm Measures (Organic)",2050,"Improved grassland",4447527.875
+"1: On Farm Measures (Organic)",2050,"Improved grassland (agroforestry)",633198.5
+"1: On Farm Measures (Organic)",2050,"Improved grassland (organic and agroforestry)",116572.625
+"1: On Farm Measures (Organic)",2050,"Improved grassland (organic)",1484367.125
+"1: On Farm Measures (Organic)",2050,"Inland rock",126968.75
+"1: On Farm Measures (Organic)",2050,"Paludiculture",18335.9375
+"1: On Farm Measures (Organic)",2050,"Saltmarsh",71372.875
+"1: On Farm Measures (Organic)",2050,"Semi-natural grassland",1827034.0625
+"1: On Farm Measures (Organic)",2050,"Urban and suburban",2166834.8125
+"2: On Farm Measures (Balanced)",2015,"Arable and horticulture",5546511.5625
+"2: On Farm Measures (Balanced)",2015,"Bog",1089384.9375
+"2: On Farm Measures (Balanced)",2015,"Broadleaved woodland",1614906.1875
+"2: On Farm Measures (Balanced)",2015,"Coastal",388057.875
+"2: On Farm Measures (Balanced)",2015,"Coniferous woodland",1766968.9375
+"2: On Farm Measures (Balanced)",2015,"Fen, marsh & swamp",166634.625
+"2: On Farm Measures (Balanced)",2015,"Freshwater",312163.0625
+"2: On Farm Measures (Balanced)",2015,"Heather",2694729
+"2: On Farm Measures (Balanced)",2015,"Improved grassland",7004817
+"2: On Farm Measures (Balanced)",2015,"Inland rock",126968.75
+"2: On Farm Measures (Balanced)",2015,"Saltmarsh",71372.875
+"2: On Farm Measures (Balanced)",2015,"Semi-natural grassland",2236996.6875
+"2: On Farm Measures (Balanced)",2015,"Urban and suburban",1705801.625
+"2: On Farm Measures (Balanced)",2020,"Arable and horticulture",5525213.75
+"2: On Farm Measures (Balanced)",2020,"Bog",1089384.9375
+"2: On Farm Measures (Balanced)",2020,"Broadleaved woodland",1614906.1875
+"2: On Farm Measures (Balanced)",2020,"Coastal",388057.875
+"2: On Farm Measures (Balanced)",2020,"Coniferous woodland",1766968.9375
+"2: On Farm Measures (Balanced)",2020,"Fen, marsh & swamp",166634.625
+"2: On Farm Measures (Balanced)",2020,"Freshwater",312163.0625
+"2: On Farm Measures (Balanced)",2020,"Heather",2694729
+"2: On Farm Measures (Balanced)",2020,"Improved grassland",6960252.875
+"2: On Farm Measures (Balanced)",2020,"Inland rock",126968.75
+"2: On Farm Measures (Balanced)",2020,"Saltmarsh",71372.875
+"2: On Farm Measures (Balanced)",2020,"Semi-natural grassland",2236996.6875
+"2: On Farm Measures (Balanced)",2020,"Urban and suburban",1771663.5625
+"2: On Farm Measures (Balanced)",2025,"Arable and horticulture",5437086.4375
+"2: On Farm Measures (Balanced)",2025,"Arable and horticulture (agroforestry)",54966.6875
+"2: On Farm Measures (Balanced)",2025,"Biomass crops",12984.5
+"2: On Farm Measures (Balanced)",2025,"Bog",1334847.625
+"2: On Farm Measures (Balanced)",2025,"Broadleaved woodland",1614906.1875
+"2: On Farm Measures (Balanced)",2025,"Coastal",388057.875
+"2: On Farm Measures (Balanced)",2025,"Coniferous woodland",1770223.3125
+"2: On Farm Measures (Balanced)",2025,"Fen, marsh & swamp",196358.125
+"2: On Farm Measures (Balanced)",2025,"Freshwater",312163.0625
+"2: On Farm Measures (Balanced)",2025,"Heather",2469819.5625
+"2: On Farm Measures (Balanced)",2025,"Improved grassland",6823491.375
+"2: On Farm Measures (Balanced)",2025,"Improved grassland (agroforestry)",83317.875
+"2: On Farm Measures (Balanced)",2025,"Inland rock",126968.75
+"2: On Farm Measures (Balanced)",2025,"Paludiculture",3051.5625
+"2: On Farm Measures (Balanced)",2025,"Saltmarsh",71372.875
+"2: On Farm Measures (Balanced)",2025,"Semi-natural grassland",2188172
+"2: On Farm Measures (Balanced)",2025,"Urban and suburban",1837525.3125
+"2: On Farm Measures (Balanced)",2030,"Arable and horticulture",5296257.9375
+"2: On Farm Measures (Balanced)",2030,"Arable and horticulture (agroforestry)",109929.6875
+"2: On Farm Measures (Balanced)",2030,"Biomass crops",104978.25
+"2: On Farm Measures (Balanced)",2030,"Bog",1568365.1875
+"2: On Farm Measures (Balanced)",2030,"Broadleaved woodland",1614906.1875
+"2: On Farm Measures (Balanced)",2030,"Coastal",388057.875
+"2: On Farm Measures (Balanced)",2030,"Coniferous woodland",1773489.8125
+"2: On Farm Measures (Balanced)",2030,"Fen, marsh & swamp",237900.75
+"2: On Farm Measures (Balanced)",2030,"Freshwater",312163.0625
+"2: On Farm Measures (Balanced)",2030,"Heather",2253381.625
+"2: On Farm Measures (Balanced)",2030,"Improved grassland",6660620.3125
+"2: On Farm Measures (Balanced)",2030,"Improved grassland (agroforestry)",166633.8125
+"2: On Farm Measures (Balanced)",2030,"Inland rock",126968.75
+"2: On Farm Measures (Balanced)",2030,"Paludiculture",6101.75
+"2: On Farm Measures (Balanced)",2030,"Saltmarsh",71372.875
+"2: On Farm Measures (Balanced)",2030,"Semi-natural grassland",2130797.9375
+"2: On Farm Measures (Balanced)",2030,"Urban and suburban",1903387.3125
+"2: On Farm Measures (Balanced)",2035,"Arable and horticulture",5116811.375
+"2: On Farm Measures (Balanced)",2035,"Arable and horticulture (agroforestry)",164891.375
+"2: On Farm Measures (Balanced)",2035,"Biomass crops",254965.0625
+"2: On Farm Measures (Balanced)",2035,"Bog",1808002.5
+"2: On Farm Measures (Balanced)",2035,"Broadleaved woodland",1614906.1875
+"2: On Farm Measures (Balanced)",2035,"Coastal",388057.875
+"2: On Farm Measures (Balanced)",2035,"Coniferous woodland",1776736.6875
+"2: On Farm Measures (Balanced)",2035,"Fen, marsh & swamp",273648.5625
+"2: On Farm Measures (Balanced)",2035,"Freshwater",312163.0625
+"2: On Farm Measures (Balanced)",2035,"Heather",2053989.1875
+"2: On Farm Measures (Balanced)",2035,"Improved grassland",6478227.6875
+"2: On Farm Measures (Balanced)",2035,"Improved grassland (agroforestry)",249947.125
+"2: On Farm Measures (Balanced)",2035,"Inland rock",126968.75
+"2: On Farm Measures (Balanced)",2035,"Paludiculture",9098.625
+"2: On Farm Measures (Balanced)",2035,"Saltmarsh",71372.875
+"2: On Farm Measures (Balanced)",2035,"Semi-natural grassland",2056277
+"2: On Farm Measures (Balanced)",2035,"Urban and suburban",1969249.1875
+"2: On Farm Measures (Balanced)",2040,"Arable and horticulture",4936996.9375
+"2: On Farm Measures (Balanced)",2040,"Arable and horticulture (agroforestry)",219852.625
+"2: On Farm Measures (Balanced)",2040,"Biomass crops",404991.4375
+"2: On Farm Measures (Balanced)",2040,"Bog",2032798.3125
+"2: On Farm Measures (Balanced)",2040,"Broadleaved woodland",1614906.1875
+"2: On Farm Measures (Balanced)",2040,"Coastal",388057.875
+"2: On Farm Measures (Balanced)",2040,"Coniferous woodland",1776736.6875
+"2: On Farm Measures (Balanced)",2040,"Fen, marsh & swamp",305904.1875
+"2: On Farm Measures (Balanced)",2040,"Freshwater",312163.0625
+"2: On Farm Measures (Balanced)",2040,"Heather",1873159.4375
+"2: On Farm Measures (Balanced)",2040,"Improved grassland",6300764.9375
+"2: On Farm Measures (Balanced)",2040,"Improved grassland (agroforestry)",333250.75
+"2: On Farm Measures (Balanced)",2040,"Inland rock",126968.75
+"2: On Farm Measures (Balanced)",2040,"Paludiculture",12222.6875
+"2: On Farm Measures (Balanced)",2040,"Saltmarsh",71372.875
+"2: On Farm Measures (Balanced)",2040,"Semi-natural grassland",1980055.3125
+"2: On Farm Measures (Balanced)",2040,"Urban and suburban",2035111.0625
+"2: On Farm Measures (Balanced)",2045,"Arable and horticulture",4757155.4375
+"2: On Farm Measures (Balanced)",2045,"Arable and horticulture (agroforestry)",274822.25
+"2: On Farm Measures (Balanced)",2045,"Biomass crops",554989.5
+"2: On Farm Measures (Balanced)",2045,"Bog",2250375.5625
+"2: On Farm Measures (Balanced)",2045,"Broadleaved woodland",1614906.1875
+"2: On Farm Measures (Balanced)",2045,"Coastal",388057.875
+"2: On Farm Measures (Balanced)",2045,"Coniferous woodland",1776736.6875
+"2: On Farm Measures (Balanced)",2045,"Fen, marsh & swamp",330128.5625
+"2: On Farm Measures (Balanced)",2045,"Freshwater",312163.0625
+"2: On Farm Measures (Balanced)",2045,"Heather",1708784
+"2: On Farm Measures (Balanced)",2045,"Improved grassland",6123424.375
+"2: On Farm Measures (Balanced)",2045,"Improved grassland (agroforestry)",416557.5
+"2: On Farm Measures (Balanced)",2045,"Inland rock",126968.75
+"2: On Farm Measures (Balanced)",2045,"Paludiculture",15268.5
+"2: On Farm Measures (Balanced)",2045,"Saltmarsh",71372.875
+"2: On Farm Measures (Balanced)",2045,"Semi-natural grassland",1902629.125
+"2: On Farm Measures (Balanced)",2045,"Urban and suburban",2100972.875
+"2: On Farm Measures (Balanced)",2050,"Arable and horticulture",4576562.5625
+"2: On Farm Measures (Balanced)",2050,"Arable and horticulture (agroforestry)",329799.5625
+"2: On Farm Measures (Balanced)",2050,"Biomass crops",704980.5
+"2: On Farm Measures (Balanced)",2050,"Bog",2442453.6875
+"2: On Farm Measures (Balanced)",2050,"Broadleaved woodland",1614906.1875
+"2: On Farm Measures (Balanced)",2050,"Coastal",388057.875
+"2: On Farm Measures (Balanced)",2050,"Coniferous woodland",1776736.6875
+"2: On Farm Measures (Balanced)",2050,"Fen, marsh & swamp",378397.8125
+"2: On Farm Measures (Balanced)",2050,"Freshwater",312163.0625
+"2: On Farm Measures (Balanced)",2050,"Heather",1544031.6875
+"2: On Farm Measures (Balanced)",2050,"Improved grassland",5946825.375
+"2: On Farm Measures (Balanced)",2050,"Improved grassland (agroforestry)",499851.6875
+"2: On Farm Measures (Balanced)",2050,"Inland rock",126968.75
+"2: On Farm Measures (Balanced)",2050,"Paludiculture",18335.9375
+"2: On Farm Measures (Balanced)",2050,"Saltmarsh",71372.875
+"2: On Farm Measures (Balanced)",2050,"Semi-natural grassland",1827034.0625
+"2: On Farm Measures (Balanced)",2050,"Urban and suburban",2166834.8125
+"3: Balanced Pathway",2015,"Arable and horticulture",5546511.5625
+"3: Balanced Pathway",2015,"Bog",1089384.9375
+"3: Balanced Pathway",2015,"Broadleaved woodland",1614906.1875
+"3: Balanced Pathway",2015,"Coastal",388057.875
+"3: Balanced Pathway",2015,"Coniferous woodland",1766968.9375
+"3: Balanced Pathway",2015,"Fen, marsh & swamp",166634.625
+"3: Balanced Pathway",2015,"Freshwater",312163.0625
+"3: Balanced Pathway",2015,"Heather",2694729
+"3: Balanced Pathway",2015,"Improved grassland",7004817
+"3: Balanced Pathway",2015,"Inland rock",126968.75
+"3: Balanced Pathway",2015,"Saltmarsh",71372.875
+"3: Balanced Pathway",2015,"Semi-natural grassland",2236996.6875
+"3: Balanced Pathway",2015,"Urban and suburban",1705801.625
+"3: Balanced Pathway",2020,"Arable and horticulture",5525213.75
+"3: Balanced Pathway",2020,"Bog",1089384.9375
+"3: Balanced Pathway",2020,"Broadleaved woodland",1614906.1875
+"3: Balanced Pathway",2020,"Coastal",388057.875
+"3: Balanced Pathway",2020,"Coniferous woodland",1766968.9375
+"3: Balanced Pathway",2020,"Fen, marsh & swamp",166634.625
+"3: Balanced Pathway",2020,"Freshwater",312163.0625
+"3: Balanced Pathway",2020,"Heather",2694729
+"3: Balanced Pathway",2020,"Improved grassland",6960252.875
+"3: Balanced Pathway",2020,"Inland rock",126968.75
+"3: Balanced Pathway",2020,"Saltmarsh",71372.875
+"3: Balanced Pathway",2020,"Semi-natural grassland",2236996.6875
+"3: Balanced Pathway",2020,"Urban and suburban",1771663.5625
+"3: Balanced Pathway",2025,"Arable and horticulture",5421402.5625
+"3: Balanced Pathway",2025,"Arable and horticulture (agroforestry)",54992.9375
+"3: Balanced Pathway",2025,"Biomass crops",12967.9375
+"3: Balanced Pathway",2025,"Bog",1386291.9375
+"3: Balanced Pathway",2025,"Broadleaved woodland",1709604.375
+"3: Balanced Pathway",2025,"Coastal",388057.875
+"3: Balanced Pathway",2025,"Coniferous woodland",1819022.4375
+"3: Balanced Pathway",2025,"Fen, marsh & swamp",214296.6875
+"3: Balanced Pathway",2025,"Freshwater",312163.0625
+"3: Balanced Pathway",2025,"Heather",2406949.0625
+"3: Balanced Pathway",2025,"Improved grassland",6743993.625
+"3: Balanced Pathway",2025,"Improved grassland (agroforestry)",83292.5625
+"3: Balanced Pathway",2025,"Inland rock",126968.75
+"3: Balanced Pathway",2025,"Paludiculture",4541.125
+"3: Balanced Pathway",2025,"Saltmarsh",71372.875
+"3: Balanced Pathway",2025,"Semi-natural grassland",2131870
+"3: Balanced Pathway",2025,"Urban and suburban",1837525.3125
+"3: Balanced Pathway",2030,"Arable and horticulture",5250208.5625
+"3: Balanced Pathway",2030,"Arable and horticulture (agroforestry)",109979.125
+"3: Balanced Pathway",2030,"Biomass crops",104979.5625
+"3: Balanced Pathway",2030,"Bog",1671274.5
+"3: Balanced Pathway",2030,"Broadleaved woodland",1826037
+"3: Balanced Pathway",2030,"Coastal",388057.875
+"3: Balanced Pathway",2030,"Coniferous woodland",1882289.25
+"3: Balanced Pathway",2030,"Fen, marsh & swamp",274562.4375
+"3: Balanced Pathway",2030,"Freshwater",312163.0625
+"3: Balanced Pathway",2030,"Heather",2144465.875
+"3: Balanced Pathway",2030,"Improved grassland",6463257.125
+"3: Balanced Pathway",2030,"Improved grassland (agroforestry)",166606.25
+"3: Balanced Pathway",2030,"Inland rock",126968.75
+"3: Balanced Pathway",2030,"Paludiculture",9180.5625
+"3: Balanced Pathway",2030,"Saltmarsh",71372.875
+"3: Balanced Pathway",2030,"Semi-natural grassland",2020523
+"3: Balanced Pathway",2030,"Urban and suburban",1903387.3125
+"3: Balanced Pathway",2035,"Arable and horticulture",5034851.625
+"3: Balanced Pathway",2035,"Arable and horticulture (agroforestry)",164953.25
+"3: Balanced Pathway",2035,"Biomass crops",254970.375
+"3: Balanced Pathway",2035,"Bog",1961186.875
+"3: Balanced Pathway",2035,"Broadleaved woodland",1957994.1875
+"3: Balanced Pathway",2035,"Coastal",388057.875
+"3: Balanced Pathway",2035,"Coniferous woodland",1953549.6875
+"3: Balanced Pathway",2035,"Fen, marsh & swamp",329816.8125
+"3: Balanced Pathway",2035,"Freshwater",312163.0625
+"3: Balanced Pathway",2035,"Heather",1909819.3125
+"3: Balanced Pathway",2035,"Improved grassland",6132088.0625
+"3: Balanced Pathway",2035,"Improved grassland (agroforestry)",249920.1875
+"3: Balanced Pathway",2035,"Inland rock",126968.75
+"3: Balanced Pathway",2035,"Paludiculture",13780.25
+"3: Balanced Pathway",2035,"Saltmarsh",71372.875
+"3: Balanced Pathway",2035,"Semi-natural grassland",1894570.75
+"3: Balanced Pathway",2035,"Urban and suburban",1969249.1875
+"3: Balanced Pathway",2040,"Arable and horticulture",4807933.875
+"3: Balanced Pathway",2040,"Arable and horticulture (agroforestry)",219906.4375
+"3: Balanced Pathway",2040,"Biomass crops",404980.375
+"3: Balanced Pathway",2040,"Bog",2237467.0625
+"3: Balanced Pathway",2040,"Broadleaved woodland",2152088.8125
+"3: Balanced Pathway",2040,"Coastal",388057.875
+"3: Balanced Pathway",2040,"Coniferous woodland",2053501
+"3: Balanced Pathway",2040,"Fen, marsh & swamp",368685.1875
+"3: Balanced Pathway",2040,"Freshwater",312163.0625
+"3: Balanced Pathway",2040,"Heather",1692808.4375
+"3: Balanced Pathway",2040,"Improved grassland",5742363.375
+"3: Balanced Pathway",2040,"Improved grassland (agroforestry)",333224.8125
+"3: Balanced Pathway",2040,"Inland rock",126968.75
+"3: Balanced Pathway",2040,"Paludiculture",18336.125
+"3: Balanced Pathway",2040,"Saltmarsh",71372.875
+"3: Balanced Pathway",2040,"Semi-natural grassland",1760344
+"3: Balanced Pathway",2040,"Urban and suburban",2035111.0625
+"3: Balanced Pathway",2045,"Arable and horticulture",4572013.0625
+"3: Balanced Pathway",2045,"Arable and horticulture (agroforestry)",274888.625
+"3: Balanced Pathway",2045,"Biomass crops",554987.9375
+"3: Balanced Pathway",2045,"Bog",2479844.375
+"3: Balanced Pathway",2045,"Broadleaved woodland",2346147.5
+"3: Balanced Pathway",2045,"Coastal",388057.875
+"3: Balanced Pathway",2045,"Coniferous woodland",2153471.75
+"3: Balanced Pathway",2045,"Fen, marsh & swamp",433046.8125
+"3: Balanced Pathway",2045,"Freshwater",312163.0625
+"3: Balanced Pathway",2045,"Heather",1484865.5625
+"3: Balanced Pathway",2045,"Improved grassland",5350618.25
+"3: Balanced Pathway",2045,"Improved grassland (agroforestry)",416534.5
+"3: Balanced Pathway",2045,"Inland rock",126968.75
+"3: Balanced Pathway",2045,"Paludiculture",22966.125
+"3: Balanced Pathway",2045,"Saltmarsh",71372.875
+"3: Balanced Pathway",2045,"Semi-natural grassland",1636393.1875
+"3: Balanced Pathway",2045,"Urban and suburban",2100972.875
+"3: Balanced Pathway",2050,"Arable and horticulture",4309402.0625
+"3: Balanced Pathway",2050,"Arable and horticulture (agroforestry)",329871.25
+"3: Balanced Pathway",2050,"Biomass crops",704969.0625
+"3: Balanced Pathway",2050,"Bog",2484817.0625
+"3: Balanced Pathway",2050,"Broadleaved woodland",2540208.75
+"3: Balanced Pathway",2050,"Coastal",388057.875
+"3: Balanced Pathway",2050,"Coniferous woodland",2253436.125
+"3: Balanced Pathway",2050,"Fen, marsh & swamp",444308.5
+"3: Balanced Pathway",2050,"Freshwater",312163.0625
+"3: Balanced Pathway",2050,"Heather",1481468.8125
+"3: Balanced Pathway",2050,"Improved grassland",4972758.375
+"3: Balanced Pathway",2050,"Improved grassland (agroforestry)",499841.1875
+"3: Balanced Pathway",2050,"Inland rock",126968.75
+"3: Balanced Pathway",2050,"Paludiculture",27535.5625
+"3: Balanced Pathway",2050,"Saltmarsh",71372.875
+"3: Balanced Pathway",2050,"Semi-natural grassland",1611299
+"3: Balanced Pathway",2050,"Urban and suburban",2166834.8125
+"4: Widespread Engagement",2015,"Arable and horticulture",5546511.5625
+"4: Widespread Engagement",2015,"Bog",1089384.9375
+"4: Widespread Engagement",2015,"Broadleaved woodland",1614906.1875
+"4: Widespread Engagement",2015,"Coastal",388057.875
+"4: Widespread Engagement",2015,"Coniferous woodland",1766968.9375
+"4: Widespread Engagement",2015,"Fen, marsh & swamp",166634.625
+"4: Widespread Engagement",2015,"Freshwater",312163.0625
+"4: Widespread Engagement",2015,"Heather",2694729
+"4: Widespread Engagement",2015,"Improved grassland",7004817
+"4: Widespread Engagement",2015,"Inland rock",126968.75
+"4: Widespread Engagement",2015,"Saltmarsh",71372.875
+"4: Widespread Engagement",2015,"Semi-natural grassland",2236996.6875
+"4: Widespread Engagement",2015,"Urban and suburban",1705801.625
+"4: Widespread Engagement",2020,"Arable and horticulture",5525213.75
+"4: Widespread Engagement",2020,"Bog",1089384.9375
+"4: Widespread Engagement",2020,"Broadleaved woodland",1614906.1875
+"4: Widespread Engagement",2020,"Coastal",388057.875
+"4: Widespread Engagement",2020,"Coniferous woodland",1766968.9375
+"4: Widespread Engagement",2020,"Fen, marsh & swamp",166634.625
+"4: Widespread Engagement",2020,"Freshwater",312163.0625
+"4: Widespread Engagement",2020,"Heather",2694729
+"4: Widespread Engagement",2020,"Improved grassland",6960252.875
+"4: Widespread Engagement",2020,"Inland rock",126968.75
+"4: Widespread Engagement",2020,"Saltmarsh",71372.875
+"4: Widespread Engagement",2020,"Semi-natural grassland",2236996.6875
+"4: Widespread Engagement",2020,"Urban and suburban",1771663.5625
+"4: Widespread Engagement",2025,"Arable and horticulture",5424092.25
+"4: Widespread Engagement",2025,"Arable and horticulture (agroforestry)",54965.9375
+"4: Widespread Engagement",2025,"Biomass crops",5989.4375
+"4: Widespread Engagement",2025,"Bog",1386291.9375
+"4: Widespread Engagement",2025,"Broadleaved woodland",1709604.375
+"4: Widespread Engagement",2025,"Coastal",388057.875
+"4: Widespread Engagement",2025,"Coniferous woodland",1819022.4375
+"4: Widespread Engagement",2025,"Fen, marsh & swamp",214296.6875
+"4: Widespread Engagement",2025,"Freshwater",312163.0625
+"4: Widespread Engagement",2025,"Heather",2406949.0625
+"4: Widespread Engagement",2025,"Improved grassland",6706631.125
+"4: Widespread Engagement",2025,"Improved grassland (agroforestry)",124970.875
+"4: Widespread Engagement",2025,"Inland rock",126968.75
+"4: Widespread Engagement",2025,"Paludiculture",4541.125
+"4: Widespread Engagement",2025,"Saltmarsh",71372.875
+"4: Widespread Engagement",2025,"Semi-natural grassland",2131870
+"4: Widespread Engagement",2025,"Urban and suburban",1837525.3125
+"4: Widespread Engagement",2030,"Arable and horticulture",5276503.9375
+"4: Widespread Engagement",2030,"Arable and horticulture (agroforestry)",109958.25
+"4: Widespread Engagement",2030,"Biomass crops",34984.4375
+"4: Widespread Engagement",2030,"Bog",1670921.3125
+"4: Widespread Engagement",2030,"Broadleaved woodland",1872633.3125
+"4: Widespread Engagement",2030,"Coastal",388057.875
+"4: Widespread Engagement",2030,"Coniferous woodland",1906296.8125
+"4: Widespread Engagement",2030,"Fen, marsh & swamp",274512.375
+"4: Widespread Engagement",2030,"Freshwater",312163.0625
+"4: Widespread Engagement",2030,"Heather",2141071.4375
+"4: Widespread Engagement",2030,"Improved grassland",6371173.4375
+"4: Widespread Engagement",2030,"Improved grassland (agroforestry)",249918.0625
+"4: Widespread Engagement",2030,"Inland rock",126968.75
+"4: Widespread Engagement",2030,"Paludiculture",9180.5625
+"4: Widespread Engagement",2030,"Saltmarsh",71372.875
+"4: Widespread Engagement",2030,"Semi-natural grassland",2006209.3125
+"4: Widespread Engagement",2030,"Urban and suburban",1903387.3125
+"4: Widespread Engagement",2035,"Arable and horticulture",5089126.5
+"4: Widespread Engagement",2035,"Arable and horticulture (agroforestry)",164936.375
+"4: Widespread Engagement",2035,"Biomass crops",84988.625
+"4: Widespread Engagement",2035,"Bog",1960494.6875
+"4: Widespread Engagement",2035,"Broadleaved woodland",2113285.9375
+"4: Widespread Engagement",2035,"Coastal",388057.875
+"4: Widespread Engagement",2035,"Coniferous woodland",2033525.25
+"4: Widespread Engagement",2035,"Fen, marsh & swamp",329788.75
+"4: Widespread Engagement",2035,"Freshwater",312163.0625
+"4: Widespread Engagement",2035,"Heather",1899637.3125
+"4: Widespread Engagement",2035,"Improved grassland",5930947.5
+"4: Widespread Engagement",2035,"Improved grassland (agroforestry)",374908.0625
+"4: Widespread Engagement",2035,"Inland rock",126968.75
+"4: Widespread Engagement",2035,"Paludiculture",13780.25
+"4: Widespread Engagement",2035,"Saltmarsh",71372.875
+"4: Widespread Engagement",2035,"Semi-natural grassland",1862082.125
+"4: Widespread Engagement",2035,"Urban and suburban",1969249.1875
+"4: Widespread Engagement",2040,"Arable and horticulture",4880402.0625
+"4: Widespread Engagement",2040,"Arable and horticulture (agroforestry)",219918.5625
+"4: Widespread Engagement",2040,"Biomass crops",134988.875
+"4: Widespread Engagement",2040,"Bog",2236557.625
+"4: Widespread Engagement",2040,"Broadleaved woodland",2384989.0625
+"4: Widespread Engagement",2040,"Coastal",388057.875
+"4: Widespread Engagement",2040,"Coniferous woodland",2173495.25
+"4: Widespread Engagement",2040,"Fen, marsh & swamp",368657.625
+"4: Widespread Engagement",2040,"Freshwater",312163.0625
+"4: Widespread Engagement",2040,"Heather",1682845.0625
+"4: Widespread Engagement",2040,"Improved grassland",5471147.3125
+"4: Widespread Engagement",2040,"Improved grassland (agroforestry)",499884.625
+"4: Widespread Engagement",2040,"Inland rock",126968.75
+"4: Widespread Engagement",2040,"Paludiculture",18336.125
+"4: Widespread Engagement",2040,"Saltmarsh",71372.875
+"4: Widespread Engagement",2040,"Semi-natural grassland",1720417.3125
+"4: Widespread Engagement",2040,"Urban and suburban",2035111.0625
+"4: Widespread Engagement",2045,"Arable and horticulture",4635132.8125
+"4: Widespread Engagement",2045,"Arable and horticulture (agroforestry)",274879.75
+"4: Widespread Engagement",2045,"Biomass crops",184992.5
+"4: Widespread Engagement",2045,"Bog",2478825.875
+"4: Widespread Engagement",2045,"Broadleaved woodland",2656721.5
+"4: Widespread Engagement",2045,"Coastal",388057.875
+"4: Widespread Engagement",2045,"Coniferous woodland",2313453.5625
+"4: Widespread Engagement",2045,"Fen, marsh & swamp",432981.75
+"4: Widespread Engagement",2045,"Freshwater",312163.0625
+"4: Widespread Engagement",2045,"Heather",1479141.6875
+"4: Widespread Engagement",2045,"Improved grassland",5019807
+"4: Widespread Engagement",2045,"Improved grassland (agroforestry)",624864.125
+"4: Widespread Engagement",2045,"Inland rock",126968.75
+"4: Widespread Engagement",2045,"Paludiculture",22966.125
+"4: Widespread Engagement",2045,"Saltmarsh",71372.875
+"4: Widespread Engagement",2045,"Semi-natural grassland",1602011
+"4: Widespread Engagement",2045,"Urban and suburban",2100972.875
+"4: Widespread Engagement",2050,"Arable and horticulture",4370129.8125
+"4: Widespread Engagement",2050,"Arable and horticulture (agroforestry)",329868.75
+"4: Widespread Engagement",2050,"Biomass crops",234988.5
+"4: Widespread Engagement",2050,"Bog",2483872.25
+"4: Widespread Engagement",2050,"Broadleaved woodland",2928446.0625
+"4: Widespread Engagement",2050,"Coastal",388057.875
+"4: Widespread Engagement",2050,"Coniferous woodland",2453398.25
+"4: Widespread Engagement",2050,"Fen, marsh & swamp",444244.5
+"4: Widespread Engagement",2050,"Freshwater",312163.0625
+"4: Widespread Engagement",2050,"Heather",1476638
+"4: Widespread Engagement",2050,"Improved grassland",4568483.25
+"4: Widespread Engagement",2050,"Improved grassland (agroforestry)",749831.625
+"4: Widespread Engagement",2050,"Inland rock",126968.75
+"4: Widespread Engagement",2050,"Paludiculture",27535.5625
+"4: Widespread Engagement",2050,"Saltmarsh",71372.875
+"4: Widespread Engagement",2050,"Semi-natural grassland",1592479.1875
+"4: Widespread Engagement",2050,"Urban and suburban",2166834.8125
+"5: NBS",2015,"Arable and horticulture",5546511.5625
+"5: NBS",2015,"Bog",1089384.9375
+"5: NBS",2015,"Broadleaved woodland",1614906.1875
+"5: NBS",2015,"Coastal",388057.875
+"5: NBS",2015,"Coniferous woodland",1766968.9375
+"5: NBS",2015,"Fen, marsh & swamp",166634.625
+"5: NBS",2015,"Freshwater",312163.0625
+"5: NBS",2015,"Heather",2694729
+"5: NBS",2015,"Improved grassland",7004817
+"5: NBS",2015,"Inland rock",126968.75
+"5: NBS",2015,"Saltmarsh",71372.875
+"5: NBS",2015,"Semi-natural grassland",2236996.6875
+"5: NBS",2015,"Urban and suburban",1705801.625
+"5: NBS",2020,"Arable and horticulture",5525213.75
+"5: NBS",2020,"Bog",1089384.9375
+"5: NBS",2020,"Broadleaved woodland",1614906.1875
+"5: NBS",2020,"Coastal",388057.875
+"5: NBS",2020,"Coniferous woodland",1766968.9375
+"5: NBS",2020,"Fen, marsh & swamp",166634.625
+"5: NBS",2020,"Freshwater",312163.0625
+"5: NBS",2020,"Heather",2694729
+"5: NBS",2020,"Improved grassland",6960252.875
+"5: NBS",2020,"Inland rock",126968.75
+"5: NBS",2020,"Saltmarsh",71372.875
+"5: NBS",2020,"Semi-natural grassland",2236996.6875
+"5: NBS",2020,"Urban and suburban",1771663.5625
+"5: NBS",2025,"Arable and horticulture",5384858.375
+"5: NBS",2025,"Arable and horticulture (agroforestry)",54980.8125
+"5: NBS",2025,"Bog",1420965.125
+"5: NBS",2025,"Broadleaved woodland",1709634.625
+"5: NBS",2025,"Coastal",388057.875
+"5: NBS",2025,"Coniferous woodland",1823938.375
+"5: NBS",2025,"Fen, marsh & swamp",236751.5
+"5: NBS",2025,"Freshwater",312152.1875
+"5: NBS",2025,"Heather",2387286.5
+"5: NBS",2025,"Improved grassland",6628035.375
+"5: NBS",2025,"Improved grassland (agroforestry)",124989.5625
+"5: NBS",2025,"Inland rock",126968.75
+"5: NBS",2025,"Paludiculture",30733.9375
+"5: NBS",2025,"Saltmarsh",73546.4375
+"5: NBS",2025,"Semi-natural grassland",2129920
+"5: NBS",2025,"Semi-natural wood pasture",54973.8125
+"5: NBS",2025,"Urban and suburban",1837519.875
+"5: NBS",2030,"Arable and horticulture",5219931.625
+"5: NBS",2030,"Arable and horticulture (agroforestry)",109963.75
+"5: NBS",2030,"Bog",1743431.8125
+"5: NBS",2030,"Broadleaved woodland",1872656.5
+"5: NBS",2030,"Coastal",388057.875
+"5: NBS",2030,"Coniferous woodland",1916138.625
+"5: NBS",2030,"Fen, marsh & swamp",316653.5625
+"5: NBS",2030,"Freshwater",312084.875
+"5: NBS",2030,"Heather",2116119.3125
+"5: NBS",2030,"Improved grassland",6199164.375
+"5: NBS",2030,"Improved grassland (agroforestry)",249970.1875
+"5: NBS",2030,"Inland rock",126968.75
+"5: NBS",2030,"Paludiculture",61397.75
+"5: NBS",2030,"Saltmarsh",76020.4375
+"5: NBS",2030,"Semi-natural grassland",2003463.1875
+"5: NBS",2030,"Semi-natural wood pasture",109942.0625
+"5: NBS",2030,"Urban and suburban",1903348.4375
+"5: NBS",2035,"Arable and horticulture",5035333
+"5: NBS",2035,"Arable and horticulture (agroforestry)",164935.625
+"5: NBS",2035,"Bog",2064316.625
+"5: NBS",2035,"Broadleaved woodland",2113326.3125
+"5: NBS",2035,"Coastal",388057.875
+"5: NBS",2035,"Coniferous woodland",2048347.0625
+"5: NBS",2035,"Fen, marsh & swamp",395833.3125
+"5: NBS",2035,"Freshwater",312039.875
+"5: NBS",2035,"Heather",1863057.1875
+"5: NBS",2035,"Improved grassland",5662978.1875
+"5: NBS",2035,"Improved grassland (agroforestry)",374962.25
+"5: NBS",2035,"Inland rock",126968.75
+"5: NBS",2035,"Paludiculture",93051.75
+"5: NBS",2035,"Saltmarsh",78522.5625
+"5: NBS",2035,"Semi-natural grassland",1869533.0625
+"5: NBS",2035,"Semi-natural wood pasture",164919.5625
+"5: NBS",2035,"Urban and suburban",1969130.125
+"5: NBS",2040,"Arable and horticulture",4820253.25
+"5: NBS",2040,"Arable and horticulture (agroforestry)",219921.125
+"5: NBS",2040,"Bog",2377738.4375
+"5: NBS",2040,"Broadleaved woodland",2385113.5625
+"5: NBS",2040,"Coastal",388057.875
+"5: NBS",2040,"Coniferous woodland",2194691.1875
+"5: NBS",2040,"Fen, marsh & swamp",460598.625
+"5: NBS",2040,"Freshwater",311836.75
+"5: NBS",2040,"Heather",1646289.8125
+"5: NBS",2040,"Improved grassland",5080003.8125
+"5: NBS",2040,"Improved grassland (agroforestry)",499952.1875
+"5: NBS",2040,"Inland rock",126968.75
+"5: NBS",2040,"Paludiculture",124826.25
+"5: NBS",2040,"Saltmarsh",80824
+"5: NBS",2040,"Semi-natural grassland",1753387.1875
+"5: NBS",2040,"Semi-natural wood pasture",219876.125
+"5: NBS",2040,"Urban and suburban",2034974.1875
+"5: NBS",2045,"Arable and horticulture",4605209.125
+"5: NBS",2045,"Arable and horticulture (agroforestry)",274898.375
+"5: NBS",2045,"Bog",2643206.5
+"5: NBS",2045,"Broadleaved woodland",2656852.6875
+"5: NBS",2045,"Coastal",388057.875
+"5: NBS",2045,"Coniferous woodland",2340817.25
+"5: NBS",2045,"Fen, marsh & swamp",517750.1875
+"5: NBS",2045,"Freshwater",311805.5
+"5: NBS",2045,"Heather",1443347.875
+"5: NBS",2045,"Improved grassland",4542117.6875
+"5: NBS",2045,"Improved grassland (agroforestry)",624929.625
+"5: NBS",2045,"Inland rock",126968.6875
+"5: NBS",2045,"Paludiculture",124996.375
+"5: NBS",2045,"Saltmarsh",83103.6875
+"5: NBS",2045,"Semi-natural grassland",1665603.0625
+"5: NBS",2045,"Semi-natural wood pasture",274838.4375
+"5: NBS",2045,"Urban and suburban",2100810.1875
+"5: NBS",2050,"Arable and horticulture",4351409.375
+"5: NBS",2050,"Arable and horticulture (agroforestry)",329892.9375
+"5: NBS",2050,"Bog",2675609.9375
+"5: NBS",2050,"Broadleaved woodland",2928571.9375
+"5: NBS",2050,"Coastal",388057.875
+"5: NBS",2050,"Coniferous woodland",2487497.8125
+"5: NBS",2050,"Fen, marsh & swamp",523004.9375
+"5: NBS",2050,"Freshwater",311788.125
+"5: NBS",2050,"Heather",1441377.875
+"5: NBS",2050,"Improved grassland",4017627.5
+"5: NBS",2050,"Improved grassland (agroforestry)",749889.1875
+"5: NBS",2050,"Inland rock",126968.6875
+"5: NBS",2050,"Paludiculture",124996.375
+"5: NBS",2050,"Saltmarsh",85742.375
+"5: NBS",2050,"Semi-natural grassland",1686386.375
+"5: NBS",2050,"Semi-natural wood pasture",329822
+"5: NBS",2050,"Urban and suburban",2166669.8125
+"6: NBS with biomass crops",2015,"Arable and horticulture",5546511.5625
+"6: NBS with biomass crops",2015,"Bog",1089384.9375
+"6: NBS with biomass crops",2015,"Broadleaved woodland",1614906.1875
+"6: NBS with biomass crops",2015,"Coastal",388057.875
+"6: NBS with biomass crops",2015,"Coniferous woodland",1766968.9375
+"6: NBS with biomass crops",2015,"Fen, marsh & swamp",166634.625
+"6: NBS with biomass crops",2015,"Freshwater",312163.0625
+"6: NBS with biomass crops",2015,"Heather",2694729
+"6: NBS with biomass crops",2015,"Improved grassland",7004817
+"6: NBS with biomass crops",2015,"Inland rock",126968.75
+"6: NBS with biomass crops",2015,"Saltmarsh",71372.875
+"6: NBS with biomass crops",2015,"Semi-natural grassland",2236996.6875
+"6: NBS with biomass crops",2015,"Urban and suburban",1705801.625
+"6: NBS with biomass crops",2020,"Arable and horticulture",5525213.75
+"6: NBS with biomass crops",2020,"Bog",1089384.9375
+"6: NBS with biomass crops",2020,"Broadleaved woodland",1614906.1875
+"6: NBS with biomass crops",2020,"Coastal",388057.875
+"6: NBS with biomass crops",2020,"Coniferous woodland",1766968.9375
+"6: NBS with biomass crops",2020,"Fen, marsh & swamp",166634.625
+"6: NBS with biomass crops",2020,"Freshwater",312163.0625
+"6: NBS with biomass crops",2020,"Heather",2694729
+"6: NBS with biomass crops",2020,"Improved grassland",6960252.875
+"6: NBS with biomass crops",2020,"Inland rock",126968.75
+"6: NBS with biomass crops",2020,"Saltmarsh",71372.875
+"6: NBS with biomass crops",2020,"Semi-natural grassland",2236996.6875
+"6: NBS with biomass crops",2020,"Urban and suburban",1771663.5625
+"6: NBS with biomass crops",2025,"Arable and horticulture",5378864.625
+"6: NBS with biomass crops",2025,"Arable and horticulture (agroforestry)",54980.8125
+"6: NBS with biomass crops",2025,"Biomass crops",5993.75
+"6: NBS with biomass crops",2025,"Bog",1420965.125
+"6: NBS with biomass crops",2025,"Broadleaved woodland",1709634.625
+"6: NBS with biomass crops",2025,"Coastal",388057.875
+"6: NBS with biomass crops",2025,"Coniferous woodland",1823938.375
+"6: NBS with biomass crops",2025,"Fen, marsh & swamp",236751.5
+"6: NBS with biomass crops",2025,"Freshwater",312152.1875
+"6: NBS with biomass crops",2025,"Heather",2387286.5
+"6: NBS with biomass crops",2025,"Improved grassland",6628035.375
+"6: NBS with biomass crops",2025,"Improved grassland (agroforestry)",124989.5625
+"6: NBS with biomass crops",2025,"Inland rock",126968.75
+"6: NBS with biomass crops",2025,"Paludiculture",30733.9375
+"6: NBS with biomass crops",2025,"Saltmarsh",73546.4375
+"6: NBS with biomass crops",2025,"Semi-natural grassland",2129920
+"6: NBS with biomass crops",2025,"Semi-natural wood pasture",54973.8125
+"6: NBS with biomass crops",2025,"Urban and suburban",1837519.875
+"6: NBS with biomass crops",2030,"Arable and horticulture",5184942.5
+"6: NBS with biomass crops",2030,"Arable and horticulture (agroforestry)",109963.75
+"6: NBS with biomass crops",2030,"Biomass crops",34989.125
+"6: NBS with biomass crops",2030,"Bog",1743431.8125
+"6: NBS with biomass crops",2030,"Broadleaved woodland",1872656.5
+"6: NBS with biomass crops",2030,"Coastal",388057.875
+"6: NBS with biomass crops",2030,"Coniferous woodland",1916138.625
+"6: NBS with biomass crops",2030,"Fen, marsh & swamp",316653.5625
+"6: NBS with biomass crops",2030,"Freshwater",312084.875
+"6: NBS with biomass crops",2030,"Heather",2116119.3125
+"6: NBS with biomass crops",2030,"Improved grassland",6199164.375
+"6: NBS with biomass crops",2030,"Improved grassland (agroforestry)",249970.1875
+"6: NBS with biomass crops",2030,"Inland rock",126968.75
+"6: NBS with biomass crops",2030,"Paludiculture",61397.75
+"6: NBS with biomass crops",2030,"Saltmarsh",76020.4375
+"6: NBS with biomass crops",2030,"Semi-natural grassland",2003463.1875
+"6: NBS with biomass crops",2030,"Semi-natural wood pasture",109942.0625
+"6: NBS with biomass crops",2030,"Urban and suburban",1903348.4375
+"6: NBS with biomass crops",2035,"Arable and horticulture",4950336.875
+"6: NBS with biomass crops",2035,"Arable and horticulture (agroforestry)",164935.625
+"6: NBS with biomass crops",2035,"Biomass crops",84996.125
+"6: NBS with biomass crops",2035,"Bog",2064316.625
+"6: NBS with biomass crops",2035,"Broadleaved woodland",2113326.3125
+"6: NBS with biomass crops",2035,"Coastal",388057.875
+"6: NBS with biomass crops",2035,"Coniferous woodland",2048347.0625
+"6: NBS with biomass crops",2035,"Fen, marsh & swamp",395833.3125
+"6: NBS with biomass crops",2035,"Freshwater",312039.875
+"6: NBS with biomass crops",2035,"Heather",1863057.1875
+"6: NBS with biomass crops",2035,"Improved grassland",5662978.1875
+"6: NBS with biomass crops",2035,"Improved grassland (agroforestry)",374962.25
+"6: NBS with biomass crops",2035,"Inland rock",126968.75
+"6: NBS with biomass crops",2035,"Paludiculture",93051.75
+"6: NBS with biomass crops",2035,"Saltmarsh",78522.5625
+"6: NBS with biomass crops",2035,"Semi-natural grassland",1869533.0625
+"6: NBS with biomass crops",2035,"Semi-natural wood pasture",164919.5625
+"6: NBS with biomass crops",2035,"Urban and suburban",1969130.125
+"6: NBS with biomass crops",2040,"Arable and horticulture",4685264.875
+"6: NBS with biomass crops",2040,"Arable and horticulture (agroforestry)",219921.125
+"6: NBS with biomass crops",2040,"Biomass crops",134988.375
+"6: NBS with biomass crops",2040,"Bog",2377738.4375
+"6: NBS with biomass crops",2040,"Broadleaved woodland",2385113.5625
+"6: NBS with biomass crops",2040,"Coastal",388057.875
+"6: NBS with biomass crops",2040,"Coniferous woodland",2194691.1875
+"6: NBS with biomass crops",2040,"Fen, marsh & swamp",460598.625
+"6: NBS with biomass crops",2040,"Freshwater",311836.75
+"6: NBS with biomass crops",2040,"Heather",1646289.8125
+"6: NBS with biomass crops",2040,"Improved grassland",5080003.8125
+"6: NBS with biomass crops",2040,"Improved grassland (agroforestry)",499952.1875
+"6: NBS with biomass crops",2040,"Inland rock",126968.75
+"6: NBS with biomass crops",2040,"Paludiculture",124826.25
+"6: NBS with biomass crops",2040,"Saltmarsh",80824
+"6: NBS with biomass crops",2040,"Semi-natural grassland",1753387.1875
+"6: NBS with biomass crops",2040,"Semi-natural wood pasture",219876.125
+"6: NBS with biomass crops",2040,"Urban and suburban",2034974.1875
+"6: NBS with biomass crops",2045,"Arable and horticulture",4420222.9375
+"6: NBS with biomass crops",2045,"Arable and horticulture (agroforestry)",274898.375
+"6: NBS with biomass crops",2045,"Biomass crops",184986.1875
+"6: NBS with biomass crops",2045,"Bog",2643206.5
+"6: NBS with biomass crops",2045,"Broadleaved woodland",2656852.6875
+"6: NBS with biomass crops",2045,"Coastal",388057.875
+"6: NBS with biomass crops",2045,"Coniferous woodland",2340817.25
+"6: NBS with biomass crops",2045,"Fen, marsh & swamp",517750.1875
+"6: NBS with biomass crops",2045,"Freshwater",311805.5
+"6: NBS with biomass crops",2045,"Heather",1443347.875
+"6: NBS with biomass crops",2045,"Improved grassland",4542117.6875
+"6: NBS with biomass crops",2045,"Improved grassland (agroforestry)",624929.625
+"6: NBS with biomass crops",2045,"Inland rock",126968.6875
+"6: NBS with biomass crops",2045,"Paludiculture",124996.375
+"6: NBS with biomass crops",2045,"Saltmarsh",83103.6875
+"6: NBS with biomass crops",2045,"Semi-natural grassland",1665603.0625
+"6: NBS with biomass crops",2045,"Semi-natural wood pasture",274838.4375
+"6: NBS with biomass crops",2045,"Urban and suburban",2100810.1875
+"6: NBS with biomass crops",2050,"Arable and horticulture",4116419.875
+"6: NBS with biomass crops",2050,"Arable and horticulture (agroforestry)",329892.9375
+"6: NBS with biomass crops",2050,"Biomass crops",234989.5
+"6: NBS with biomass crops",2050,"Bog",2675609.9375
+"6: NBS with biomass crops",2050,"Broadleaved woodland",2928571.9375
+"6: NBS with biomass crops",2050,"Coastal",388057.875
+"6: NBS with biomass crops",2050,"Coniferous woodland",2487497.8125
+"6: NBS with biomass crops",2050,"Fen, marsh & swamp",523004.9375
+"6: NBS with biomass crops",2050,"Freshwater",311788.125
+"6: NBS with biomass crops",2050,"Heather",1441377.875
+"6: NBS with biomass crops",2050,"Improved grassland",4017627.5
+"6: NBS with biomass crops",2050,"Improved grassland (agroforestry)",749889.1875
+"6: NBS with biomass crops",2050,"Inland rock",126968.6875
+"6: NBS with biomass crops",2050,"Paludiculture",124996.375
+"6: NBS with biomass crops",2050,"Saltmarsh",85742.375
+"6: NBS with biomass crops",2050,"Semi-natural grassland",1686386.375
+"6: NBS with biomass crops",2050,"Semi-natural wood pasture",329822
+"6: NBS with biomass crops",2050,"Urban and suburban",2166669.8125
+"7: NBS with organic farming",2015,"Arable and horticulture",5546511.5625
+"7: NBS with organic farming",2015,"Bog",1089384.9375
+"7: NBS with organic farming",2015,"Broadleaved woodland",1614906.1875
+"7: NBS with organic farming",2015,"Coastal",388057.875
+"7: NBS with organic farming",2015,"Coniferous woodland",1766968.9375
+"7: NBS with organic farming",2015,"Fen, marsh & swamp",166634.625
+"7: NBS with organic farming",2015,"Freshwater",312163.0625
+"7: NBS with organic farming",2015,"Heather",2694729
+"7: NBS with organic farming",2015,"Improved grassland",7004817
+"7: NBS with organic farming",2015,"Inland rock",126968.75
+"7: NBS with organic farming",2015,"Saltmarsh",71372.875
+"7: NBS with organic farming",2015,"Semi-natural grassland",2236996.6875
+"7: NBS with organic farming",2015,"Urban and suburban",1705801.625
+"7: NBS with organic farming",2020,"Arable and horticulture",5525213.75
+"7: NBS with organic farming",2020,"Bog",1089384.9375
+"7: NBS with organic farming",2020,"Broadleaved woodland",1614906.1875
+"7: NBS with organic farming",2020,"Coastal",388057.875
+"7: NBS with organic farming",2020,"Coniferous woodland",1766968.9375
+"7: NBS with organic farming",2020,"Fen, marsh & swamp",166634.625
+"7: NBS with organic farming",2020,"Freshwater",312163.0625
+"7: NBS with organic farming",2020,"Heather",2694729
+"7: NBS with organic farming",2020,"Improved grassland",6960252.875
+"7: NBS with organic farming",2020,"Inland rock",126968.75
+"7: NBS with organic farming",2020,"Saltmarsh",71372.875
+"7: NBS with organic farming",2020,"Semi-natural grassland",2236996.6875
+"7: NBS with organic farming",2020,"Urban and suburban",1771663.5625
+"7: NBS with organic farming",2025,"Arable and horticulture",4960538.3125
+"7: NBS with organic farming",2025,"Arable and horticulture (agroforestry)",54883
+"7: NBS with organic farming",2025,"Arable and horticulture (organic and agroforestry)",97.8125
+"7: NBS with organic farming",2025,"Arable and horticulture (organic)",424320.0625
+"7: NBS with organic farming",2025,"Bog",1420965.125
+"7: NBS with organic farming",2025,"Broadleaved woodland",1709634.625
+"7: NBS with organic farming",2025,"Coastal",388057.875
+"7: NBS with organic farming",2025,"Coniferous woodland",1823938.375
+"7: NBS with organic farming",2025,"Fen, marsh & swamp",236751.5
+"7: NBS with organic farming",2025,"Freshwater",312152.1875
+"7: NBS with organic farming",2025,"Heather",2387286.5
+"7: NBS with organic farming",2025,"Improved grassland",6155011.5625
+"7: NBS with organic farming",2025,"Improved grassland (agroforestry)",122638.4375
+"7: NBS with organic farming",2025,"Improved grassland (organic and agroforestry)",2351.125
+"7: NBS with organic farming",2025,"Improved grassland (organic)",473023.8125
+"7: NBS with organic farming",2025,"Inland rock",126968.75
+"7: NBS with organic farming",2025,"Paludiculture",30733.9375
+"7: NBS with organic farming",2025,"Saltmarsh",73546.4375
+"7: NBS with organic farming",2025,"Semi-natural grassland",2129920
+"7: NBS with organic farming",2025,"Semi-natural wood pasture",54973.8125
+"7: NBS with organic farming",2025,"Urban and suburban",1837519.875
+"7: NBS with organic farming",2030,"Arable and horticulture",4375705.25
+"7: NBS with organic farming",2030,"Arable and horticulture (agroforestry)",109362.1875
+"7: NBS with organic farming",2030,"Arable and horticulture (organic and agroforestry)",601.5625
+"7: NBS with organic farming",2030,"Arable and horticulture (organic)",844226.375
+"7: NBS with organic farming",2030,"Bog",1743431.8125
+"7: NBS with organic farming",2030,"Broadleaved woodland",1872656.5
+"7: NBS with organic farming",2030,"Coastal",388057.875
+"7: NBS with organic farming",2030,"Coniferous woodland",1916138.625
+"7: NBS with organic farming",2030,"Fen, marsh & swamp",316653.5625
+"7: NBS with organic farming",2030,"Freshwater",312084.875
+"7: NBS with organic farming",2030,"Heather",2116119.3125
+"7: NBS with organic farming",2030,"Improved grassland",5254473.3125
+"7: NBS with organic farming",2030,"Improved grassland (agroforestry)",239661.75
+"7: NBS with organic farming",2030,"Improved grassland (organic and agroforestry)",10308.4375
+"7: NBS with organic farming",2030,"Improved grassland (organic)",944691.0625
+"7: NBS with organic farming",2030,"Inland rock",126968.75
+"7: NBS with organic farming",2030,"Paludiculture",61397.75
+"7: NBS with organic farming",2030,"Saltmarsh",76020.4375
+"7: NBS with organic farming",2030,"Semi-natural grassland",2003463.1875
+"7: NBS with organic farming",2030,"Semi-natural wood pasture",109942.0625
+"7: NBS with organic farming",2030,"Urban and suburban",1903348.4375
+"7: NBS with organic farming",2035,"Arable and horticulture",3773540.1875
+"7: NBS with organic farming",2035,"Arable and horticulture (agroforestry)",163646.25
+"7: NBS with organic farming",2035,"Arable and horticulture (organic and agroforestry)",1289.375
+"7: NBS with organic farming",2035,"Arable and horticulture (organic)",1261792.8125
+"7: NBS with organic farming",2035,"Bog",2064316.625
+"7: NBS with organic farming",2035,"Broadleaved woodland",2113326.3125
+"7: NBS with organic farming",2035,"Coastal",388057.875
+"7: NBS with organic farming",2035,"Coniferous woodland",2048347.0625
+"7: NBS with organic farming",2035,"Fen, marsh & swamp",395833.3125
+"7: NBS with organic farming",2035,"Freshwater",312039.875
+"7: NBS with organic farming",2035,"Heather",1863057.1875
+"7: NBS with organic farming",2035,"Improved grassland",4249516.25
+"7: NBS with organic farming",2035,"Improved grassland (agroforestry)",351600.125
+"7: NBS with organic farming",2035,"Improved grassland (organic and agroforestry)",23362.125
+"7: NBS with organic farming",2035,"Improved grassland (organic)",1413461.9375
+"7: NBS with organic farming",2035,"Inland rock",126968.75
+"7: NBS with organic farming",2035,"Paludiculture",93051.75
+"7: NBS with organic farming",2035,"Saltmarsh",78522.5625
+"7: NBS with organic farming",2035,"Semi-natural grassland",1869533.0625
+"7: NBS with organic farming",2035,"Semi-natural wood pasture",164919.5625
+"7: NBS with organic farming",2035,"Urban and suburban",1969130.125
+"7: NBS with organic farming",2040,"Arable and horticulture",3612078.9375
+"7: NBS with organic farming",2040,"Arable and horticulture (agroforestry)",205005.1875
+"7: NBS with organic farming",2040,"Arable and horticulture (organic and agroforestry)",14915.9375
+"7: NBS with organic farming",2040,"Arable and horticulture (organic)",1208174.3125
+"7: NBS with organic farming",2040,"Bog",2377738.4375
+"7: NBS with organic farming",2040,"Broadleaved woodland",2385113.5625
+"7: NBS with organic farming",2040,"Coastal",388057.875
+"7: NBS with organic farming",2040,"Coniferous woodland",2194691.1875
+"7: NBS with organic farming",2040,"Fen, marsh & swamp",460598.625
+"7: NBS with organic farming",2040,"Freshwater",311836.75
+"7: NBS with organic farming",2040,"Heather",1646289.8125
+"7: NBS with organic farming",2040,"Improved grassland",3812767.5
+"7: NBS with organic farming",2040,"Improved grassland (agroforestry)",445259.375
+"7: NBS with organic farming",2040,"Improved grassland (organic and agroforestry)",54692.8125
+"7: NBS with organic farming",2040,"Improved grassland (organic)",1267236.3125
+"7: NBS with organic farming",2040,"Inland rock",126968.75
+"7: NBS with organic farming",2040,"Paludiculture",124826.25
+"7: NBS with organic farming",2040,"Saltmarsh",80824
+"7: NBS with organic farming",2040,"Semi-natural grassland",1753387.1875
+"7: NBS with organic farming",2040,"Semi-natural wood pasture",219876.125
+"7: NBS with organic farming",2040,"Urban and suburban",2034974.1875
+"7: NBS with organic farming",2045,"Arable and horticulture",3451025.5625
+"7: NBS with organic farming",2045,"Arable and horticulture (agroforestry)",246315.3125
+"7: NBS with organic farming",2045,"Arable and horticulture (organic and agroforestry)",28583.0625
+"7: NBS with organic farming",2045,"Arable and horticulture (organic)",1154183.5625
+"7: NBS with organic farming",2045,"Bog",2643206.5
+"7: NBS with organic farming",2045,"Broadleaved woodland",2656852.6875
+"7: NBS with organic farming",2045,"Coastal",388057.875
+"7: NBS with organic farming",2045,"Coniferous woodland",2340817.25
+"7: NBS with organic farming",2045,"Fen, marsh & swamp",517750.1875
+"7: NBS with organic farming",2045,"Freshwater",311805.5
+"7: NBS with organic farming",2045,"Heather",1443347.875
+"7: NBS with organic farming",2045,"Improved grassland",3410496.75
+"7: NBS with organic farming",2045,"Improved grassland (agroforestry)",539138.6875
+"7: NBS with organic farming",2045,"Improved grassland (organic and agroforestry)",85790.9375
+"7: NBS with organic farming",2045,"Improved grassland (organic)",1131620.9375
+"7: NBS with organic farming",2045,"Inland rock",126968.6875
+"7: NBS with organic farming",2045,"Paludiculture",124996.375
+"7: NBS with organic farming",2045,"Saltmarsh",83103.6875
+"7: NBS with organic farming",2045,"Semi-natural grassland",1665603.0625
+"7: NBS with organic farming",2045,"Semi-natural wood pasture",274838.4375
+"7: NBS with organic farming",2045,"Urban and suburban",2100810.1875
+"7: NBS with organic farming",2050,"Arable and horticulture",3260944.5
+"7: NBS with organic farming",2050,"Arable and horticulture (agroforestry)",287528.375
+"7: NBS with organic farming",2050,"Arable and horticulture (organic and agroforestry)",42364.5625
+"7: NBS with organic farming",2050,"Arable and horticulture (organic)",1090464.875
+"7: NBS with organic farming",2050,"Bog",2675609.9375
+"7: NBS with organic farming",2050,"Broadleaved woodland",2928571.9375
+"7: NBS with organic farming",2050,"Coastal",388057.875
+"7: NBS with organic farming",2050,"Coniferous woodland",2487497.8125
+"7: NBS with organic farming",2050,"Fen, marsh & swamp",523004.9375
+"7: NBS with organic farming",2050,"Freshwater",311788.125
+"7: NBS with organic farming",2050,"Heather",1441377.875
+"7: NBS with organic farming",2050,"Improved grassland",3016289
+"7: NBS with organic farming",2050,"Improved grassland (agroforestry)",633164.8125
+"7: NBS with organic farming",2050,"Improved grassland (organic and agroforestry)",116724.375
+"7: NBS with organic farming",2050,"Improved grassland (organic)",1001338.5
+"7: NBS with organic farming",2050,"Inland rock",126968.6875
+"7: NBS with organic farming",2050,"Paludiculture",124996.375
+"7: NBS with organic farming",2050,"Saltmarsh",85742.375
+"7: NBS with organic farming",2050,"Semi-natural grassland",1686386.375
+"7: NBS with organic farming",2050,"Semi-natural wood pasture",329822
+"7: NBS with organic farming",2050,"Urban and suburban",2166669.8125
+"8: NBS extra",2015,"Arable and horticulture",5546511.5625
+"8: NBS extra",2015,"Bog",1089384.9375
+"8: NBS extra",2015,"Broadleaved woodland",1614906.1875
+"8: NBS extra",2015,"Coastal",388057.875
+"8: NBS extra",2015,"Coniferous woodland",1766968.9375
+"8: NBS extra",2015,"Fen, marsh & swamp",166634.625
+"8: NBS extra",2015,"Freshwater",312163.0625
+"8: NBS extra",2015,"Heather",2694729
+"8: NBS extra",2015,"Improved grassland",7004817
+"8: NBS extra",2015,"Inland rock",126968.75
+"8: NBS extra",2015,"Saltmarsh",71372.875
+"8: NBS extra",2015,"Semi-natural grassland",2236996.6875
+"8: NBS extra",2015,"Urban and suburban",1705801.625
+"8: NBS extra",2020,"Arable and horticulture",5525213.75
+"8: NBS extra",2020,"Bog",1089384.9375
+"8: NBS extra",2020,"Broadleaved woodland",1614906.1875
+"8: NBS extra",2020,"Coastal",388057.875
+"8: NBS extra",2020,"Coniferous woodland",1766968.9375
+"8: NBS extra",2020,"Fen, marsh & swamp",166634.625
+"8: NBS extra",2020,"Freshwater",312163.0625
+"8: NBS extra",2020,"Heather",2694729
+"8: NBS extra",2020,"Improved grassland",6960252.875
+"8: NBS extra",2020,"Inland rock",126968.75
+"8: NBS extra",2020,"Saltmarsh",71372.875
+"8: NBS extra",2020,"Semi-natural grassland",2236996.6875
+"8: NBS extra",2020,"Urban and suburban",1771663.5625
+"8: NBS extra",2025,"Arable and horticulture",5369889.25
+"8: NBS extra",2025,"Arable and horticulture (agroforestry)",54974.875
+"8: NBS extra",2025,"Bog",1420965.125
+"8: NBS extra",2025,"Broadleaved woodland",1709634.625
+"8: NBS extra",2025,"Coastal",388057.875
+"8: NBS extra",2025,"Coniferous woodland",1823938.375
+"8: NBS extra",2025,"Fen, marsh & swamp",236751.5
+"8: NBS extra",2025,"Freshwater",312152.1875
+"8: NBS extra",2025,"Heather",2383126.875
+"8: NBS extra",2025,"Improved grassland",6583845.625
+"8: NBS extra",2025,"Improved grassland (agroforestry)",124989.5625
+"8: NBS extra",2025,"Inland rock",126968.75
+"8: NBS extra",2025,"Paludiculture",30733.9375
+"8: NBS extra",2025,"Saltmarsh",73546.4375
+"8: NBS extra",2025,"Semi-natural grassland",2164922.5
+"8: NBS extra",2025,"Semi-natural wood pasture",83295.75
+"8: NBS extra",2025,"Urban and suburban",1837519.875
+"8: NBS extra",2030,"Arable and horticulture",5189964.25
+"8: NBS extra",2030,"Arable and horticulture (agroforestry)",109963.375
+"8: NBS extra",2030,"Bog",1743431.8125
+"8: NBS extra",2030,"Broadleaved woodland",1872656.5
+"8: NBS extra",2030,"Coastal",388057.875
+"8: NBS extra",2030,"Coniferous woodland",1916138.625
+"8: NBS extra",2030,"Fen, marsh & swamp",316653.5625
+"8: NBS extra",2030,"Freshwater",312084.875
+"8: NBS extra",2030,"Heather",2106624.6875
+"8: NBS extra",2030,"Improved grassland",6110783.625
+"8: NBS extra",2030,"Improved grassland (agroforestry)",249968.375
+"8: NBS extra",2030,"Inland rock",126968.75
+"8: NBS extra",2030,"Paludiculture",61397.75
+"8: NBS extra",2030,"Saltmarsh",76020.4375
+"8: NBS extra",2030,"Semi-natural grassland",2074650.5
+"8: NBS extra",2030,"Semi-natural wood pasture",166599.6875
+"8: NBS extra",2030,"Urban and suburban",1903348.4375
+"8: NBS extra",2035,"Arable and horticulture",4990325.8125
+"8: NBS extra",2035,"Arable and horticulture (agroforestry)",164957.625
+"8: NBS extra",2035,"Bog",2064316.625
+"8: NBS extra",2035,"Broadleaved woodland",2113326.3125
+"8: NBS extra",2035,"Coastal",388057.875
+"8: NBS extra",2035,"Coniferous woodland",2048347.0625
+"8: NBS extra",2035,"Fen, marsh & swamp",395833.3125
+"8: NBS extra",2035,"Freshwater",312039.875
+"8: NBS extra",2035,"Heather",1856072.75
+"8: NBS extra",2035,"Improved grassland",5510407.75
+"8: NBS extra",2035,"Improved grassland (agroforestry)",374937.5625
+"8: NBS extra",2035,"Inland rock",126968.75
+"8: NBS extra",2035,"Paludiculture",93051.75
+"8: NBS extra",2035,"Saltmarsh",78522.5625
+"8: NBS extra",2035,"Semi-natural grassland",1989121.625
+"8: NBS extra",2035,"Semi-natural wood pasture",249895.75
+"8: NBS extra",2035,"Urban and suburban",1969130.125
+"8: NBS extra",2040,"Arable and horticulture",4760267.625
+"8: NBS extra",2040,"Arable and horticulture (agroforestry)",219930.75
+"8: NBS extra",2040,"Bog",2377738.4375
+"8: NBS extra",2040,"Broadleaved woodland",2385113.5625
+"8: NBS extra",2040,"Coastal",388057.875
+"8: NBS extra",2040,"Coniferous woodland",2194691.1875
+"8: NBS extra",2040,"Fen, marsh & swamp",460598.625
+"8: NBS extra",2040,"Freshwater",311836.75
+"8: NBS extra",2040,"Heather",1644535.5
+"8: NBS extra",2040,"Improved grassland",4856097.4375
+"8: NBS extra",2040,"Improved grassland (agroforestry)",499897.25
+"8: NBS extra",2040,"Inland rock",126968.75
+"8: NBS extra",2040,"Paludiculture",124826.25
+"8: NBS extra",2040,"Saltmarsh",80824
+"8: NBS extra",2040,"Semi-natural grassland",1925734.75
+"8: NBS extra",2040,"Semi-natural wood pasture",333220.1875
+"8: NBS extra",2040,"Urban and suburban",2034974.1875
+"8: NBS extra",2045,"Arable and horticulture",4530199.75
+"8: NBS extra",2045,"Arable and horticulture (agroforestry)",274909
+"8: NBS extra",2045,"Bog",2643206.5
+"8: NBS extra",2045,"Broadleaved woodland",2656852.6875
+"8: NBS extra",2045,"Coastal",388057.875
+"8: NBS extra",2045,"Coniferous woodland",2340817.25
+"8: NBS extra",2045,"Fen, marsh & swamp",517750.1875
+"8: NBS extra",2045,"Freshwater",311805.5
+"8: NBS extra",2045,"Heather",1442393.9375
+"8: NBS extra",2045,"Improved grassland",4254695.1875
+"8: NBS extra",2045,"Improved grassland (agroforestry)",624871.1875
+"8: NBS extra",2045,"Inland rock",126968.6875
+"8: NBS extra",2045,"Paludiculture",124996.375
+"8: NBS extra",2045,"Saltmarsh",83103.6875
+"8: NBS extra",2045,"Semi-natural grassland",1887345.625
+"8: NBS extra",2045,"Semi-natural wood pasture",416529.5
+"8: NBS extra",2045,"Urban and suburban",2100810.1875
+"8: NBS extra",2050,"Arable and horticulture",4261419.0625
+"8: NBS extra",2050,"Arable and horticulture (agroforestry)",329877.875
+"8: NBS extra",2050,"Bog",2675609.9375
+"8: NBS extra",2050,"Broadleaved woodland",2928571.9375
+"8: NBS extra",2050,"Coastal",388057.875
+"8: NBS extra",2050,"Coniferous woodland",2487497.8125
+"8: NBS extra",2050,"Fen, marsh & swamp",523004.9375
+"8: NBS extra",2050,"Freshwater",311788.125
+"8: NBS extra",2050,"Heather",1440961.6875
+"8: NBS extra",2050,"Improved grassland",3668971
+"8: NBS extra",2050,"Improved grassland (agroforestry)",749833.9375
+"8: NBS extra",2050,"Inland rock",126968.6875
+"8: NBS extra",2050,"Paludiculture",124996.375
+"8: NBS extra",2050,"Saltmarsh",85742.375
+"8: NBS extra",2050,"Semi-natural grassland",1955494.1875
+"8: NBS extra",2050,"Semi-natural wood pasture",499847.5
+"8: NBS extra",2050,"Urban and suburban",2166669.8125

@@ -1,0 +1,1423 @@
+"scenario","year","category","hwp"
+"0: Baseline",2015,"Timber",8313734.42168548
+"0: Baseline",2016,"Timber",12456478.918239
+"0: Baseline",2017,"Timber",12456478.918239
+"0: Baseline",2018,"Timber",12459326.3558453
+"0: Baseline",2019,"Timber",12691911.7387349
+"0: Baseline",2020,"Timber",12691911.7387349
+"0: Baseline",2021,"Timber",12579238.0818599
+"0: Baseline",2022,"Timber",12579238.0818599
+"0: Baseline",2023,"Timber",12581702.8285172
+"0: Baseline",2024,"Timber",12623394.2327451
+"0: Baseline",2025,"Timber",12623394.2327451
+"0: Baseline",2026,"Timber",11619805.9910208
+"0: Baseline",2027,"Timber",11619805.9910208
+"0: Baseline",2028,"Timber",11872354.4092377
+"0: Baseline",2029,"Timber",12021657.1683271
+"0: Baseline",2030,"Timber",12021657.1683271
+"0: Baseline",2031,"Timber",11968544.1486806
+"0: Baseline",2032,"Timber",11968544.1486806
+"0: Baseline",2033,"Timber",11968545.3384392
+"0: Baseline",2034,"Timber",12082599.7485064
+"0: Baseline",2035,"Timber",12082599.7485064
+"0: Baseline",2036,"Timber",10497494.599214
+"0: Baseline",2037,"Timber",10497494.599214
+"0: Baseline",2038,"Timber",10497496.1528988
+"0: Baseline",2039,"Timber",11746685.584673
+"0: Baseline",2040,"Timber",11746685.584673
+"0: Baseline",2041,"Timber",11578097.8265049
+"0: Baseline",2042,"Timber",11581379.9128273
+"0: Baseline",2043,"Timber",11581381.2285603
+"0: Baseline",2044,"Timber",11746539.0542605
+"0: Baseline",2045,"Timber",11746539.0542605
+"0: Baseline",2046,"Timber",10056412.953438
+"0: Baseline",2047,"Timber",10062775.7560072
+"0: Baseline",2048,"Timber",10062981.5142582
+"0: Baseline",2049,"Timber",10162273.9310266
+"0: Baseline",2050,"Timber",10162273.9310266
+"0: Baseline",2051,"Timber",10084613.5671248
+"0: Baseline",2052,"Timber",10087155.5785827
+"0: Baseline",2053,"Timber",10087155.5785827
+"0: Baseline",2054,"Timber",10188674.0903919
+"0: Baseline",2055,"Timber",10188674.0903919
+"0: Baseline",2056,"Timber",8229078.94153792
+"0: Baseline",2057,"Timber",8232032.18439435
+"0: Baseline",2058,"Timber",8232032.18439435
+"0: Baseline",2059,"Timber",12979590.7892384
+"0: Baseline",2060,"Timber",12979590.7892384
+"0: Baseline",2061,"Timber",13313965.0710663
+"0: Baseline",2062,"Timber",13349466.1078147
+"0: Baseline",2063,"Timber",13349466.1078147
+"0: Baseline",2064,"Timber",13355410.6864716
+"0: Baseline",2065,"Timber",13355410.6864716
+"0: Baseline",2066,"Timber",10611948.7162299
+"0: Baseline",2067,"Timber",10641322.817576
+"0: Baseline",2068,"Timber",10641322.817576
+"0: Baseline",2069,"Timber",10601993.0170258
+"0: Baseline",2070,"Timber",10601993.0170258
+"0: Baseline",2071,"Timber",10582030.2091133
+"0: Baseline",2072,"Timber",10794754.419139
+"0: Baseline",2073,"Timber",10794754.419139
+"0: Baseline",2074,"Timber",10766576.890013
+"0: Baseline",2075,"Timber",10766576.890013
+"0: Baseline",2076,"Timber",8408371.39606197
+"0: Baseline",2077,"Timber",8424959.69500226
+"0: Baseline",2078,"Timber",8424959.69500226
+"0: Baseline",2079,"Timber",11672316.5970398
+"0: Baseline",2080,"Timber",11672316.5970398
+"0: Baseline",2081,"Timber",11675148.4432095
+"0: Baseline",2082,"Timber",11827321.6548563
+"0: Baseline",2083,"Timber",11827321.6548563
+"0: Baseline",2084,"Timber",11751014.6545874
+"0: Baseline",2085,"Timber",11751014.6545874
+"0: Baseline",2086,"Timber",11751559.0118977
+"0: Baseline",2087,"Timber",11877210.294247
+"0: Baseline",2088,"Timber",11877210.294247
+"0: Baseline",2089,"Timber",11747631.3103861
+"0: Baseline",2090,"Timber",11747631.3103861
+"0: Baseline",2091,"Timber",12000181.3242792
+"0: Baseline",2092,"Timber",13105296.5599397
+"0: Baseline",2093,"Timber",13105296.5599397
+"0: Baseline",2094,"Timber",12976149.2100877
+"0: Baseline",2095,"Timber",12979431.2964102
+"0: Baseline",2096,"Timber",12979432.3951872
+"0: Baseline",2097,"Timber",13049012.4456493
+"0: Baseline",2098,"Timber",13049012.4456493
+"0: Baseline",2099,"Timber",9920465.89634702
+"0: Baseline",2100,"Timber",9926828.6989163
+"1: On Farm Measures (Organic)",2015,"Timber",8313734.42168548
+"1: On Farm Measures (Organic)",2016,"Timber",12456478.918239
+"1: On Farm Measures (Organic)",2017,"Timber",12456478.918239
+"1: On Farm Measures (Organic)",2018,"Timber",12459326.3558453
+"1: On Farm Measures (Organic)",2019,"Timber",12691911.7387349
+"1: On Farm Measures (Organic)",2020,"Fuel",0
+"1: On Farm Measures (Organic)",2020,"Timber",13157942.7675564
+"1: On Farm Measures (Organic)",2021,"Fuel",0
+"1: On Farm Measures (Organic)",2021,"Timber",13017331.9009523
+"1: On Farm Measures (Organic)",2022,"Fuel",0
+"1: On Farm Measures (Organic)",2022,"Timber",12989221.1472749
+"1: On Farm Measures (Organic)",2023,"Fuel",0
+"1: On Farm Measures (Organic)",2023,"Timber",12963621.4874027
+"1: On Farm Measures (Organic)",2024,"Fuel",0
+"1: On Farm Measures (Organic)",2024,"Timber",12976918.269059
+"1: On Farm Measures (Organic)",2025,"Fuel",0
+"1: On Farm Measures (Organic)",2025,"Timber",12958034.8577781
+"1: On Farm Measures (Organic)",2026,"Fuel",0
+"1: On Farm Measures (Organic)",2026,"Timber",11946928.742744
+"1: On Farm Measures (Organic)",2027,"Fuel",0
+"1: On Farm Measures (Organic)",2027,"Timber",11923292.050326
+"1: On Farm Measures (Organic)",2028,"Fuel",0
+"1: On Farm Measures (Organic)",2028,"Timber",12146616.9788677
+"1: On Farm Measures (Organic)",2029,"Fuel",0
+"1: On Farm Measures (Organic)",2029,"Timber",12267622.0001969
+"1: On Farm Measures (Organic)",2030,"Fuel",0
+"1: On Farm Measures (Organic)",2030,"Timber",12239868.9628649
+"1: On Farm Measures (Organic)",2031,"Fuel",0
+"1: On Farm Measures (Organic)",2031,"Timber",12162454.2363064
+"1: On Farm Measures (Organic)",2032,"Fuel",0
+"1: On Farm Measures (Organic)",2032,"Timber",12136929.8991711
+"1: On Farm Measures (Organic)",2033,"Fuel",0
+"1: On Farm Measures (Organic)",2033,"Timber",12111465.0204938
+"1: On Farm Measures (Organic)",2034,"Fuel",0
+"1: On Farm Measures (Organic)",2034,"Timber",12196607.7171502
+"1: On Farm Measures (Organic)",2035,"Fuel",0
+"1: On Farm Measures (Organic)",2035,"Timber",11736580.6266144
+"1: On Farm Measures (Organic)",2036,"Fuel",0
+"1: On Farm Measures (Organic)",2036,"Timber",10202296.2459932
+"1: On Farm Measures (Organic)",2037,"Fuel",0
+"1: On Farm Measures (Organic)",2037,"Timber",10202296.2459932
+"1: On Farm Measures (Organic)",2038,"Fuel",0
+"1: On Farm Measures (Organic)",2038,"Timber",10202297.7765499
+"1: On Farm Measures (Organic)",2039,"Fuel",0
+"1: On Farm Measures (Organic)",2039,"Timber",11414919.0788632
+"1: On Farm Measures (Organic)",2040,"Fuel",0
+"1: On Farm Measures (Organic)",2040,"Timber",11437769.564012
+"1: On Farm Measures (Organic)",2041,"Fuel",0
+"1: On Farm Measures (Organic)",2041,"Timber",11273737.4671616
+"1: On Farm Measures (Organic)",2042,"Fuel",0
+"1: On Farm Measures (Organic)",2042,"Timber",11276958.714569
+"1: On Farm Measures (Organic)",2043,"Fuel",0
+"1: On Farm Measures (Organic)",2043,"Timber",11276960.0107161
+"1: On Farm Measures (Organic)",2044,"Fuel",0
+"1: On Farm Measures (Organic)",2044,"Timber",11436928.7863446
+"1: On Farm Measures (Organic)",2045,"Fuel",0
+"1: On Farm Measures (Organic)",2045,"Timber",11459120.3128957
+"1: On Farm Measures (Organic)",2046,"Fuel",0
+"1: On Farm Measures (Organic)",2046,"Timber",9821744.06397238
+"1: On Farm Measures (Organic)",2047,"Fuel",0
+"1: On Farm Measures (Organic)",2047,"Timber",9828063.40404163
+"1: On Farm Measures (Organic)",2048,"Fuel",0
+"1: On Farm Measures (Organic)",2048,"Timber",9828266.09938041
+"1: On Farm Measures (Organic)",2049,"Fuel",0
+"1: On Farm Measures (Organic)",2049,"Timber",9924627.433734
+"1: On Farm Measures (Organic)",2050,"Fuel",0
+"1: On Farm Measures (Organic)",2050,"Timber",9936056.96253968
+"1: On Farm Measures (Organic)",2051,"Fuel",0
+"1: On Farm Measures (Organic)",2051,"Timber",9860596.17424281
+"1: On Farm Measures (Organic)",2052,"Fuel",0
+"1: On Farm Measures (Organic)",2052,"Timber",9863109.48491848
+"1: On Farm Measures (Organic)",2053,"Fuel",0
+"1: On Farm Measures (Organic)",2053,"Timber",9863109.48491848
+"1: On Farm Measures (Organic)",2054,"Fuel",0
+"1: On Farm Measures (Organic)",2054,"Timber",9961725.92438364
+"1: On Farm Measures (Organic)",2055,"Fuel",276890.590764545
+"1: On Farm Measures (Organic)",2055,"Timber",9958996.25833818
+"1: On Farm Measures (Organic)",2056,"Fuel",276890.590764545
+"1: On Farm Measures (Organic)",2056,"Timber",8061696.01552742
+"1: On Farm Measures (Organic)",2057,"Fuel",276890.590764545
+"1: On Farm Measures (Organic)",2057,"Timber",8064620.65000519
+"1: On Farm Measures (Organic)",2058,"Fuel",276890.590764545
+"1: On Farm Measures (Organic)",2058,"Timber",8064620.65000519
+"1: On Farm Measures (Organic)",2059,"Fuel",276890.590764545
+"1: On Farm Measures (Organic)",2059,"Timber",12664110.4840206
+"1: On Farm Measures (Organic)",2060,"Fuel",276872.015258182
+"1: On Farm Measures (Organic)",2060,"Timber",12655502.604049
+"1: On Farm Measures (Organic)",2061,"Fuel",276872.015258182
+"1: On Farm Measures (Organic)",2061,"Timber",12985005.7799947
+"1: On Farm Measures (Organic)",2062,"Fuel",276872.015258182
+"1: On Farm Measures (Organic)",2062,"Timber",13019485.6571351
+"1: On Farm Measures (Organic)",2063,"Fuel",276872.015258182
+"1: On Farm Measures (Organic)",2063,"Timber",13019485.6571351
+"1: On Farm Measures (Organic)",2064,"Fuel",1264851.62588318
+"1: On Farm Measures (Organic)",2064,"Timber",13025321.6797957
+"1: On Farm Measures (Organic)",2065,"Fuel",1264845.01426227
+"1: On Farm Measures (Organic)",2065,"Timber",13020564.9475821
+"1: On Farm Measures (Organic)",2066,"Fuel",1264845.01426227
+"1: On Farm Measures (Organic)",2066,"Timber",10340173.2214528
+"1: On Farm Measures (Organic)",2067,"Fuel",1264845.01426227
+"1: On Farm Measures (Organic)",2067,"Timber",10368792.0209681
+"1: On Farm Measures (Organic)",2068,"Fuel",1264845.01426227
+"1: On Farm Measures (Organic)",2068,"Timber",10368792.0209681
+"1: On Farm Measures (Organic)",2069,"Fuel",1265060.49239864
+"1: On Farm Measures (Organic)",2069,"Timber",10330813.9038152
+"1: On Farm Measures (Organic)",2070,"Fuel",1265058.288525
+"1: On Farm Measures (Organic)",2070,"Timber",10744433.549538
+"1: On Farm Measures (Organic)",2071,"Fuel",1265058.288525
+"1: On Farm Measures (Organic)",2071,"Timber",10725104.6854326
+"1: On Farm Measures (Organic)",2072,"Fuel",1265058.288525
+"1: On Farm Measures (Organic)",2072,"Timber",10935461.3137019
+"1: On Farm Measures (Organic)",2073,"Fuel",1265058.288525
+"1: On Farm Measures (Organic)",2073,"Timber",10935461.3137019
+"1: On Farm Measures (Organic)",2074,"Fuel",1265003.924775
+"1: On Farm Measures (Organic)",2074,"Timber",10908268.4832217
+"1: On Farm Measures (Organic)",2075,"Fuel",1265046.11321318
+"1: On Farm Measures (Organic)",2075,"Timber",10850727.1882751
+"1: On Farm Measures (Organic)",2076,"Fuel",1265046.11321318
+"1: On Farm Measures (Organic)",2076,"Timber",8567907.50767398
+"1: On Farm Measures (Organic)",2077,"Fuel",1265046.11321318
+"1: On Farm Measures (Organic)",2077,"Timber",8584023.21567932
+"1: On Farm Measures (Organic)",2078,"Fuel",1265046.11321318
+"1: On Farm Measures (Organic)",2078,"Timber",8584023.21567932
+"1: On Farm Measures (Organic)",2079,"Fuel",1265046.60742909
+"1: On Farm Measures (Organic)",2079,"Timber",11735646.2530329
+"1: On Farm Measures (Organic)",2080,"Fuel",1265085.33263727
+"1: On Farm Measures (Organic)",2080,"Timber",12267930.4801977
+"1: On Farm Measures (Organic)",2081,"Fuel",1265085.33263727
+"1: On Farm Measures (Organic)",2081,"Timber",12270672.0323869
+"1: On Farm Measures (Organic)",2082,"Fuel",1265085.33263727
+"1: On Farm Measures (Organic)",2082,"Timber",12418009.3357076
+"1: On Farm Measures (Organic)",2083,"Fuel",1265085.33263727
+"1: On Farm Measures (Organic)",2083,"Timber",12418009.3357076
+"1: On Farm Measures (Organic)",2084,"Fuel",1265204.43867136
+"1: On Farm Measures (Organic)",2084,"Timber",12344176.5365125
+"1: On Farm Measures (Organic)",2085,"Fuel",988260.325261364
+"1: On Farm Measures (Organic)",2085,"Timber",12103866.9211682
+"1: On Farm Measures (Organic)",2086,"Fuel",988260.325261364
+"1: On Farm Measures (Organic)",2086,"Timber",12104361.3946187
+"1: On Farm Measures (Organic)",2087,"Fuel",988260.325261364
+"1: On Farm Measures (Organic)",2087,"Timber",12226148.8632105
+"1: On Farm Measures (Organic)",2088,"Fuel",988260.325261364
+"1: On Farm Measures (Organic)",2088,"Timber",12226148.8632105
+"1: On Farm Measures (Organic)",2089,"Fuel",988064.121545454
+"1: On Farm Measures (Organic)",2089,"Timber",12100610.8515312
+"1: On Farm Measures (Organic)",2090,"Fuel",988064.121545454
+"1: On Farm Measures (Organic)",2090,"Timber",12109720.7156937
+"1: On Farm Measures (Organic)",2091,"Fuel",988064.121545454
+"1: On Farm Measures (Organic)",2091,"Timber",12354197.2335474
+"1: On Farm Measures (Organic)",2092,"Fuel",988064.121545454
+"1: On Farm Measures (Organic)",2092,"Timber",13427732.6974884
+"1: On Farm Measures (Organic)",2093,"Fuel",1264954.71231
+"1: On Farm Measures (Organic)",2093,"Timber",13441302.8088998
+"1: On Farm Measures (Organic)",2094,"Fuel",276890.590764545
+"1: On Farm Measures (Organic)",2094,"Timber",13315462.0336525
+"1: On Farm Measures (Organic)",2095,"Fuel",276890.590764545
+"1: On Farm Measures (Organic)",2095,"Timber",12621143.1920258
+"1: On Farm Measures (Organic)",2096,"Fuel",276890.590764545
+"1: On Farm Measures (Organic)",2096,"Timber",12621144.2744465
+"1: On Farm Measures (Organic)",2097,"Fuel",276890.590764545
+"1: On Farm Measures (Organic)",2097,"Timber",12688559.2496356
+"1: On Farm Measures (Organic)",2098,"Fuel",276872.015258182
+"1: On Farm Measures (Organic)",2098,"Timber",12696560.6109481
+"1: On Farm Measures (Organic)",2099,"Fuel",276872.015258182
+"1: On Farm Measures (Organic)",2099,"Timber",9667088.32188208
+"1: On Farm Measures (Organic)",2100,"Fuel",276872.015258182
+"1: On Farm Measures (Organic)",2100,"Timber",9673407.66195133
+"2: On Farm Measures (Balanced)",2015,"Timber",8313734.42168548
+"2: On Farm Measures (Balanced)",2016,"Timber",12456478.918239
+"2: On Farm Measures (Balanced)",2017,"Timber",12456478.918239
+"2: On Farm Measures (Balanced)",2018,"Timber",12459326.3558453
+"2: On Farm Measures (Balanced)",2019,"Timber",12691911.7387349
+"2: On Farm Measures (Balanced)",2020,"Fuel",0
+"2: On Farm Measures (Balanced)",2020,"Timber",13157942.7675564
+"2: On Farm Measures (Balanced)",2021,"Fuel",0
+"2: On Farm Measures (Balanced)",2021,"Timber",13038104.8009523
+"2: On Farm Measures (Balanced)",2022,"Fuel",0
+"2: On Farm Measures (Balanced)",2022,"Timber",13030766.9472749
+"2: On Farm Measures (Balanced)",2023,"Fuel",0
+"2: On Farm Measures (Balanced)",2023,"Timber",13025940.1874027
+"2: On Farm Measures (Balanced)",2024,"Fuel",0
+"2: On Farm Measures (Balanced)",2024,"Timber",13060009.869059
+"2: On Farm Measures (Balanced)",2025,"Fuel",0
+"2: On Farm Measures (Balanced)",2025,"Timber",13061899.3577781
+"2: On Farm Measures (Balanced)",2026,"Fuel",0
+"2: On Farm Measures (Balanced)",2026,"Timber",12197985.842744
+"2: On Farm Measures (Balanced)",2027,"Fuel",0
+"2: On Farm Measures (Balanced)",2027,"Timber",12321541.750326
+"2: On Farm Measures (Balanced)",2028,"Fuel",0
+"2: On Farm Measures (Balanced)",2028,"Timber",12692059.2788677
+"2: On Farm Measures (Balanced)",2029,"Fuel",0
+"2: On Farm Measures (Balanced)",2029,"Timber",12960256.9001969
+"2: On Farm Measures (Balanced)",2030,"Fuel",0
+"2: On Farm Measures (Balanced)",2030,"Timber",13079696.4628649
+"2: On Farm Measures (Balanced)",2031,"Fuel",0
+"2: On Farm Measures (Balanced)",2031,"Timber",13242262.6863064
+"2: On Farm Measures (Balanced)",2032,"Fuel",0
+"2: On Farm Measures (Balanced)",2032,"Timber",13456719.2991711
+"2: On Farm Measures (Balanced)",2033,"Fuel",0
+"2: On Farm Measures (Balanced)",2033,"Timber",13671235.3704938
+"2: On Farm Measures (Balanced)",2034,"Fuel",0
+"2: On Farm Measures (Balanced)",2034,"Timber",13996359.0171502
+"2: On Farm Measures (Balanced)",2035,"Fuel",0
+"2: On Farm Measures (Balanced)",2035,"Timber",13776312.8766144
+"2: On Farm Measures (Balanced)",2036,"Fuel",0
+"2: On Farm Measures (Balanced)",2036,"Timber",12482070.9459932
+"2: On Farm Measures (Balanced)",2037,"Fuel",0
+"2: On Farm Measures (Balanced)",2037,"Timber",12722113.3959932
+"2: On Farm Measures (Balanced)",2038,"Fuel",0
+"2: On Farm Measures (Balanced)",2038,"Timber",12962157.3765499
+"2: On Farm Measures (Balanced)",2039,"Fuel",0
+"2: On Farm Measures (Balanced)",2039,"Timber",14414821.1288632
+"2: On Farm Measures (Balanced)",2040,"Fuel",0
+"2: On Farm Measures (Balanced)",2040,"Timber",14677714.064012
+"2: On Farm Measures (Balanced)",2041,"Fuel",0
+"2: On Farm Measures (Balanced)",2041,"Timber",14753685.1171616
+"2: On Farm Measures (Balanced)",2042,"Fuel",0
+"2: On Farm Measures (Balanced)",2042,"Timber",14996909.514569
+"2: On Farm Measures (Balanced)",2043,"Fuel",0
+"2: On Farm Measures (Balanced)",2043,"Timber",15236913.9607161
+"2: On Farm Measures (Balanced)",2044,"Fuel",0
+"2: On Farm Measures (Balanced)",2044,"Timber",15636885.8863446
+"2: On Farm Measures (Balanced)",2045,"Fuel",0
+"2: On Farm Measures (Balanced)",2045,"Timber",15899080.5628957
+"2: On Farm Measures (Balanced)",2046,"Fuel",0
+"2: On Farm Measures (Balanced)",2046,"Timber",14755989.2391542
+"2: On Farm Measures (Balanced)",2047,"Fuel",0
+"2: On Farm Measures (Balanced)",2047,"Timber",15002295.9792234
+"2: On Farm Measures (Balanced)",2048,"Fuel",0
+"2: On Farm Measures (Balanced)",2048,"Timber",15242486.0745622
+"2: On Farm Measures (Balanced)",2049,"Fuel",0
+"2: On Farm Measures (Balanced)",2049,"Timber",15578834.8089158
+"2: On Farm Measures (Balanced)",2050,"Fuel",0
+"2: On Farm Measures (Balanced)",2050,"Timber",15830251.7377215
+"2: On Farm Measures (Balanced)",2051,"Fuel",0
+"2: On Farm Measures (Balanced)",2051,"Timber",17301700.8653337
+"2: On Farm Measures (Balanced)",2052,"Fuel",0
+"2: On Farm Measures (Balanced)",2052,"Timber",17304214.1760094
+"2: On Farm Measures (Balanced)",2053,"Fuel",0
+"2: On Farm Measures (Balanced)",2053,"Timber",17304214.1760094
+"2: On Farm Measures (Balanced)",2054,"Fuel",0
+"2: On Farm Measures (Balanced)",2054,"Timber",17402830.6154745
+"2: On Farm Measures (Balanced)",2055,"Fuel",276890.590764545
+"2: On Farm Measures (Balanced)",2055,"Timber",17400100.9494291
+"2: On Farm Measures (Balanced)",2056,"Fuel",276890.590764545
+"2: On Farm Measures (Balanced)",2056,"Timber",16638339.4202547
+"2: On Farm Measures (Balanced)",2057,"Fuel",276890.590764545
+"2: On Farm Measures (Balanced)",2057,"Timber",16641264.0547325
+"2: On Farm Measures (Balanced)",2058,"Fuel",276890.590764545
+"2: On Farm Measures (Balanced)",2058,"Timber",16641264.0547325
+"2: On Farm Measures (Balanced)",2059,"Fuel",276890.590764545
+"2: On Farm Measures (Balanced)",2059,"Timber",21240753.8887479
+"2: On Farm Measures (Balanced)",2060,"Fuel",276872.015258182
+"2: On Farm Measures (Balanced)",2060,"Timber",21232146.0087763
+"2: On Farm Measures (Balanced)",2061,"Fuel",276872.015258182
+"2: On Farm Measures (Balanced)",2061,"Timber",21562467.8886765
+"2: On Farm Measures (Balanced)",2062,"Fuel",276872.015258182
+"2: On Farm Measures (Balanced)",2062,"Timber",21596947.7658169
+"2: On Farm Measures (Balanced)",2063,"Fuel",276872.015258182
+"2: On Farm Measures (Balanced)",2063,"Timber",21596947.7658169
+"2: On Farm Measures (Balanced)",2064,"Fuel",935704.324644546
+"2: On Farm Measures (Balanced)",2064,"Timber",21602783.7884775
+"2: On Farm Measures (Balanced)",2065,"Fuel",935697.713023636
+"2: On Farm Measures (Balanced)",2065,"Timber",21598027.0562639
+"2: On Farm Measures (Balanced)",2066,"Fuel",935697.713023636
+"2: On Farm Measures (Balanced)",2066,"Timber",18916934.1083619
+"2: On Farm Measures (Balanced)",2067,"Fuel",935697.713023636
+"2: On Farm Measures (Balanced)",2067,"Timber",18945552.9078772
+"2: On Farm Measures (Balanced)",2068,"Fuel",935697.713023636
+"2: On Farm Measures (Balanced)",2068,"Timber",18945552.9078772
+"2: On Farm Measures (Balanced)",2069,"Fuel",935682.392330455
+"2: On Farm Measures (Balanced)",2069,"Timber",18907574.7907243
+"2: On Farm Measures (Balanced)",2070,"Fuel",935680.188456818
+"2: On Farm Measures (Balanced)",2070,"Timber",19321194.4364471
+"2: On Farm Measures (Balanced)",2071,"Fuel",935680.188456818
+"2: On Farm Measures (Balanced)",2071,"Timber",19301836.2017962
+"2: On Farm Measures (Balanced)",2072,"Fuel",935680.188456818
+"2: On Farm Measures (Balanced)",2072,"Timber",19512192.8300656
+"2: On Farm Measures (Balanced)",2073,"Fuel",935680.188456818
+"2: On Farm Measures (Balanced)",2073,"Timber",19512192.8300656
+"2: On Farm Measures (Balanced)",2074,"Fuel",935659.431388636
+"2: On Farm Measures (Balanced)",2074,"Timber",19484999.9995854
+"2: On Farm Measures (Balanced)",2075,"Fuel",935701.619826818
+"2: On Farm Measures (Balanced)",2075,"Timber",19681756.2298206
+"2: On Farm Measures (Balanced)",2076,"Fuel",935701.619826818
+"2: On Farm Measures (Balanced)",2076,"Timber",14462102.2828558
+"2: On Farm Measures (Balanced)",2077,"Fuel",935701.619826818
+"2: On Farm Measures (Balanced)",2077,"Timber",14478217.9908611
+"2: On Farm Measures (Balanced)",2078,"Fuel",935701.619826818
+"2: On Farm Measures (Balanced)",2078,"Timber",14478217.9908611
+"2: On Farm Measures (Balanced)",2079,"Fuel",935625.016360909
+"2: On Farm Measures (Balanced)",2079,"Timber",17629841.0282147
+"2: On Farm Measures (Balanced)",2080,"Fuel",935663.741569091
+"2: On Farm Measures (Balanced)",2080,"Timber",19709035.1712886
+"2: On Farm Measures (Balanced)",2081,"Fuel",935663.741569091
+"2: On Farm Measures (Balanced)",2081,"Timber",19711776.7234778
+"2: On Farm Measures (Balanced)",2082,"Fuel",935663.741569091
+"2: On Farm Measures (Balanced)",2082,"Timber",19859114.0267985
+"2: On Farm Measures (Balanced)",2083,"Fuel",935663.741569091
+"2: On Farm Measures (Balanced)",2083,"Timber",19859114.0267985
+"2: On Farm Measures (Balanced)",2084,"Fuel",935688.452364546
+"2: On Farm Measures (Balanced)",2084,"Timber",19785281.2276034
+"2: On Farm Measures (Balanced)",2085,"Fuel",658744.338954546
+"2: On Farm Measures (Balanced)",2085,"Timber",20680510.3258955
+"2: On Farm Measures (Balanced)",2086,"Fuel",658744.338954546
+"2: On Farm Measures (Balanced)",2086,"Timber",20681004.799346
+"2: On Farm Measures (Balanced)",2087,"Fuel",658744.338954546
+"2: On Farm Measures (Balanced)",2087,"Timber",20802792.2679378
+"2: On Farm Measures (Balanced)",2088,"Fuel",658744.338954546
+"2: On Farm Measures (Balanced)",2088,"Timber",20802792.2679378
+"2: On Farm Measures (Balanced)",2089,"Fuel",658645.001556818
+"2: On Farm Measures (Balanced)",2089,"Timber",20677254.2562584
+"2: On Farm Measures (Balanced)",2090,"Fuel",658645.001556818
+"2: On Farm Measures (Balanced)",2090,"Timber",20687182.8243755
+"2: On Farm Measures (Balanced)",2091,"Fuel",658645.001556818
+"2: On Farm Measures (Balanced)",2091,"Timber",20931659.3422292
+"2: On Farm Measures (Balanced)",2092,"Fuel",658645.001556818
+"2: On Farm Measures (Balanced)",2092,"Timber",22005194.8061703
+"2: On Farm Measures (Balanced)",2093,"Fuel",935535.592321364
+"2: On Farm Measures (Balanced)",2093,"Timber",22018764.9175816
+"2: On Farm Measures (Balanced)",2094,"Fuel",276890.590764545
+"2: On Farm Measures (Balanced)",2094,"Timber",21892924.1423343
+"2: On Farm Measures (Balanced)",2095,"Fuel",276890.590764545
+"2: On Farm Measures (Balanced)",2095,"Timber",21197904.0789349
+"2: On Farm Measures (Balanced)",2096,"Fuel",276890.590764545
+"2: On Farm Measures (Balanced)",2096,"Timber",21197905.1613556
+"2: On Farm Measures (Balanced)",2097,"Fuel",276890.590764545
+"2: On Farm Measures (Balanced)",2097,"Timber",21265320.1365447
+"2: On Farm Measures (Balanced)",2098,"Fuel",276872.015258182
+"2: On Farm Measures (Balanced)",2098,"Timber",21273321.4978572
+"2: On Farm Measures (Balanced)",2099,"Fuel",276872.015258182
+"2: On Farm Measures (Balanced)",2099,"Timber",18243849.2087912
+"2: On Farm Measures (Balanced)",2100,"Fuel",276872.015258182
+"2: On Farm Measures (Balanced)",2100,"Timber",18250139.178315
+"3: Balanced Pathway",2015,"Timber",8313734.42168548
+"3: Balanced Pathway",2016,"Timber",12456478.918239
+"3: Balanced Pathway",2017,"Timber",12456478.918239
+"3: Balanced Pathway",2018,"Timber",12459326.3558453
+"3: Balanced Pathway",2019,"Timber",12691911.7387349
+"3: Balanced Pathway",2020,"Fuel",0
+"3: Balanced Pathway",2020,"Timber",13157942.7675564
+"3: Balanced Pathway",2021,"Fuel",0
+"3: Balanced Pathway",2021,"Timber",13038097.0009523
+"3: Balanced Pathway",2022,"Fuel",0
+"3: Balanced Pathway",2022,"Timber",13030751.3472749
+"3: Balanced Pathway",2023,"Fuel",0
+"3: Balanced Pathway",2023,"Timber",13025916.7874027
+"3: Balanced Pathway",2024,"Fuel",0
+"3: Balanced Pathway",2024,"Timber",13059978.669059
+"3: Balanced Pathway",2025,"Fuel",0
+"3: Balanced Pathway",2025,"Timber",13061860.3577781
+"3: Balanced Pathway",2026,"Fuel",0
+"3: Balanced Pathway",2026,"Timber",12197954.192744
+"3: Balanced Pathway",2027,"Fuel",0
+"3: Balanced Pathway",2027,"Timber",12321517.450326
+"3: Balanced Pathway",2028,"Fuel",0
+"3: Balanced Pathway",2028,"Timber",12692042.3288677
+"3: Balanced Pathway",2029,"Fuel",0
+"3: Balanced Pathway",2029,"Timber",12960247.3001969
+"3: Balanced Pathway",2030,"Fuel",0
+"3: Balanced Pathway",2030,"Timber",13079694.2128649
+"3: Balanced Pathway",2031,"Fuel",0
+"3: Balanced Pathway",2031,"Timber",13242277.3863064
+"3: Balanced Pathway",2032,"Fuel",0
+"3: Balanced Pathway",2032,"Timber",13456750.9491711
+"3: Balanced Pathway",2033,"Fuel",0
+"3: Balanced Pathway",2033,"Timber",13671283.9704938
+"3: Balanced Pathway",2034,"Fuel",0
+"3: Balanced Pathway",2034,"Timber",13996424.5671502
+"3: Balanced Pathway",2035,"Fuel",0
+"3: Balanced Pathway",2035,"Timber",13776395.3766144
+"3: Balanced Pathway",2036,"Fuel",0
+"3: Balanced Pathway",2036,"Timber",12482126.2959932
+"3: Balanced Pathway",2037,"Fuel",0
+"3: Balanced Pathway",2037,"Timber",12722141.5959932
+"3: Balanced Pathway",2038,"Fuel",0
+"3: Balanced Pathway",2038,"Timber",12962158.4265499
+"3: Balanced Pathway",2039,"Fuel",0
+"3: Balanced Pathway",2039,"Timber",14414795.0288632
+"3: Balanced Pathway",2040,"Fuel",0
+"3: Balanced Pathway",2040,"Timber",14741535.0485155
+"3: Balanced Pathway",2041,"Fuel",0
+"3: Balanced Pathway",2041,"Timber",14817512.4016651
+"3: Balanced Pathway",2042,"Fuel",0
+"3: Balanced Pathway",2042,"Timber",15060743.0990725
+"3: Balanced Pathway",2043,"Fuel",0
+"3: Balanced Pathway",2043,"Timber",15300753.8452196
+"3: Balanced Pathway",2044,"Fuel",0
+"3: Balanced Pathway",2044,"Timber",15700732.070848
+"3: Balanced Pathway",2045,"Fuel",0
+"3: Balanced Pathway",2045,"Timber",16063778.3534585
+"3: Balanced Pathway",2046,"Fuel",0
+"3: Balanced Pathway",2046,"Timber",14919906.2389442
+"3: Balanced Pathway",2047,"Fuel",0
+"3: Balanced Pathway",2047,"Timber",15166214.1790135
+"3: Balanced Pathway",2048,"Fuel",0
+"3: Balanced Pathway",2048,"Timber",15406405.4743523
+"3: Balanced Pathway",2049,"Fuel",0
+"3: Balanced Pathway",2049,"Timber",15742755.4087058
+"3: Balanced Pathway",2050,"Fuel",0
+"3: Balanced Pathway",2050,"Timber",16087566.2061713
+"3: Balanced Pathway",2051,"Fuel",0
+"3: Balanced Pathway",2051,"Timber",17560667.4269653
+"3: Balanced Pathway",2052,"Fuel",0
+"3: Balanced Pathway",2052,"Timber",17563180.737641
+"3: Balanced Pathway",2053,"Fuel",0
+"3: Balanced Pathway",2053,"Timber",17563180.737641
+"3: Balanced Pathway",2054,"Fuel",0
+"3: Balanced Pathway",2054,"Timber",17661797.1771062
+"3: Balanced Pathway",2055,"Fuel",277022.823182727
+"3: Balanced Pathway",2055,"Timber",17756697.1156782
+"3: Balanced Pathway",2056,"Fuel",277022.823182727
+"3: Balanced Pathway",2056,"Timber",16993885.5895039
+"3: Balanced Pathway",2057,"Fuel",277022.823182727
+"3: Balanced Pathway",2057,"Timber",16996810.2239816
+"3: Balanced Pathway",2058,"Fuel",277022.823182727
+"3: Balanced Pathway",2058,"Timber",16996810.2239816
+"3: Balanced Pathway",2059,"Fuel",277022.823182727
+"3: Balanced Pathway",2059,"Timber",21596300.0579971
+"3: Balanced Pathway",2060,"Fuel",276988.820560909
+"3: Balanced Pathway",2060,"Timber",21674719.7245125
+"3: Balanced Pathway",2061,"Fuel",276988.820560909
+"3: Balanced Pathway",2061,"Timber",22004924.1222308
+"3: Balanced Pathway",2062,"Fuel",276988.820560909
+"3: Balanced Pathway",2062,"Timber",22039403.9993712
+"3: Balanced Pathway",2063,"Fuel",276988.820560909
+"3: Balanced Pathway",2063,"Timber",22039403.9993712
+"3: Balanced Pathway",2064,"Fuel",935620.972504091
+"3: Balanced Pathway",2064,"Timber",22045240.0220319
+"3: Balanced Pathway",2065,"Fuel",935560.208559546
+"3: Balanced Pathway",2065,"Timber",22146092.839456
+"3: Balanced Pathway",2066,"Fuel",935560.208559546
+"3: Balanced Pathway",2066,"Timber",19465701.1133267
+"3: Balanced Pathway",2067,"Fuel",935560.208559546
+"3: Balanced Pathway",2067,"Timber",19494319.912842
+"3: Balanced Pathway",2068,"Fuel",935560.208559546
+"3: Balanced Pathway",2068,"Timber",19494319.912842
+"3: Balanced Pathway",2069,"Fuel",935727.253536818
+"3: Balanced Pathway",2069,"Timber",19456341.7956891
+"3: Balanced Pathway",2070,"Fuel",935621.782441364
+"3: Balanced Pathway",2070,"Timber",21334214.2807503
+"3: Balanced Pathway",2071,"Fuel",935621.782441364
+"3: Balanced Pathway",2071,"Timber",21313842.7622813
+"3: Balanced Pathway",2072,"Fuel",935621.782441364
+"3: Balanced Pathway",2072,"Timber",21524199.3905507
+"3: Balanced Pathway",2073,"Fuel",935621.782441364
+"3: Balanced Pathway",2073,"Timber",21524199.3905507
+"3: Balanced Pathway",2074,"Fuel",935623.759305
+"3: Balanced Pathway",2074,"Timber",21497006.5600704
+"3: Balanced Pathway",2075,"Fuel",935769.844643182
+"3: Balanced Pathway",2075,"Timber",22617163.7508765
+"3: Balanced Pathway",2076,"Fuel",935769.844643182
+"3: Balanced Pathway",2076,"Timber",17398119.2427299
+"3: Balanced Pathway",2077,"Fuel",935769.844643182
+"3: Balanced Pathway",2077,"Timber",17414234.9507352
+"3: Balanced Pathway",2078,"Fuel",935769.844643182
+"3: Balanced Pathway",2078,"Timber",17414234.9507352
+"3: Balanced Pathway",2079,"Fuel",935696.206472727
+"3: Balanced Pathway",2079,"Timber",20565857.9880888
+"3: Balanced Pathway",2080,"Fuel",935698.410346364
+"3: Balanced Pathway",2080,"Timber",25026407.8948655
+"3: Balanced Pathway",2081,"Fuel",935698.410346364
+"3: Balanced Pathway",2081,"Timber",25029149.4470547
+"3: Balanced Pathway",2082,"Fuel",935698.410346364
+"3: Balanced Pathway",2082,"Timber",25176486.7503754
+"3: Balanced Pathway",2083,"Fuel",935698.410346364
+"3: Balanced Pathway",2083,"Timber",25176486.7503754
+"3: Balanced Pathway",2084,"Fuel",935738.441835
+"3: Balanced Pathway",2084,"Timber",25102653.9511803
+"3: Balanced Pathway",2085,"Fuel",658767.567102273
+"3: Balanced Pathway",2085,"Timber",26642801.0470879
+"3: Balanced Pathway",2086,"Fuel",658767.567102273
+"3: Balanced Pathway",2086,"Timber",26643295.5205384
+"3: Balanced Pathway",2087,"Fuel",658767.567102273
+"3: Balanced Pathway",2087,"Timber",26765082.9891302
+"3: Balanced Pathway",2088,"Fuel",658767.567102273
+"3: Balanced Pathway",2088,"Timber",26765082.9891302
+"3: Balanced Pathway",2089,"Fuel",658743.844738636
+"3: Balanced Pathway",2089,"Timber",26639544.9774508
+"3: Balanced Pathway",2090,"Fuel",658743.844738636
+"3: Balanced Pathway",2090,"Timber",25596099.7727827
+"3: Balanced Pathway",2091,"Fuel",658743.844738636
+"3: Balanced Pathway",2091,"Timber",25840576.2906364
+"3: Balanced Pathway",2092,"Fuel",658743.844738636
+"3: Balanced Pathway",2092,"Timber",26914111.7545775
+"3: Balanced Pathway",2093,"Fuel",935766.667921364
+"3: Balanced Pathway",2093,"Timber",26966759.2336673
+"3: Balanced Pathway",2094,"Fuel",277022.823182727
+"3: Balanced Pathway",2094,"Timber",26840918.45842
+"3: Balanced Pathway",2095,"Fuel",277022.823182727
+"3: Balanced Pathway",2095,"Timber",27116234.0496191
+"3: Balanced Pathway",2096,"Fuel",277022.823182727
+"3: Balanced Pathway",2096,"Timber",27116235.1320397
+"3: Balanced Pathway",2097,"Fuel",277022.823182727
+"3: Balanced Pathway",2097,"Timber",27183650.1072289
+"3: Balanced Pathway",2098,"Fuel",276988.820560909
+"3: Balanced Pathway",2098,"Timber",27261591.9666098
+"3: Balanced Pathway",2099,"Fuel",276988.820560909
+"3: Balanced Pathway",2099,"Timber",24232119.6775437
+"3: Balanced Pathway",2100,"Fuel",276988.820560909
+"3: Balanced Pathway",2100,"Timber",20403732.8762175
+"4: Widespread Engagement",2015,"Timber",8313734.42168548
+"4: Widespread Engagement",2016,"Timber",12456478.918239
+"4: Widespread Engagement",2017,"Timber",12456478.918239
+"4: Widespread Engagement",2018,"Timber",12459326.3558453
+"4: Widespread Engagement",2019,"Timber",12691911.7387349
+"4: Widespread Engagement",2020,"Fuel",0
+"4: Widespread Engagement",2020,"Timber",13157942.7675564
+"4: Widespread Engagement",2021,"Fuel",0
+"4: Widespread Engagement",2021,"Timber",13031706.5509523
+"4: Widespread Engagement",2022,"Fuel",0
+"4: Widespread Engagement",2022,"Timber",13017970.4472749
+"4: Widespread Engagement",2023,"Fuel",0
+"4: Widespread Engagement",2023,"Timber",13006745.4374027
+"4: Widespread Engagement",2024,"Fuel",0
+"4: Widespread Engagement",2024,"Timber",13034416.869059
+"4: Widespread Engagement",2025,"Fuel",0
+"4: Widespread Engagement",2025,"Timber",13029908.1077781
+"4: Widespread Engagement",2026,"Fuel",0
+"4: Widespread Engagement",2026,"Timber",12088389.992744
+"4: Widespread Engagement",2027,"Fuel",0
+"4: Widespread Engagement",2027,"Timber",12134341.300326
+"4: Widespread Engagement",2028,"Fuel",0
+"4: Widespread Engagement",2028,"Timber",12427254.2288677
+"4: Widespread Engagement",2029,"Fuel",0
+"4: Widespread Engagement",2029,"Timber",12617847.2501969
+"4: Widespread Engagement",2030,"Fuel",0
+"4: Widespread Engagement",2030,"Timber",12659682.2128649
+"4: Widespread Engagement",2031,"Fuel",0
+"4: Widespread Engagement",2031,"Timber",12702277.5363064
+"4: Widespread Engagement",2032,"Fuel",0
+"4: Widespread Engagement",2032,"Timber",12796763.2491711
+"4: Widespread Engagement",2033,"Fuel",0
+"4: Widespread Engagement",2033,"Timber",12891308.4204938
+"4: Widespread Engagement",2034,"Fuel",0
+"4: Widespread Engagement",2034,"Timber",13096461.1671502
+"4: Widespread Engagement",2035,"Fuel",0
+"4: Widespread Engagement",2035,"Timber",12756444.1266144
+"4: Widespread Engagement",2036,"Fuel",0
+"4: Widespread Engagement",2036,"Timber",11342160.3459932
+"4: Widespread Engagement",2037,"Fuel",0
+"4: Widespread Engagement",2037,"Timber",11462160.9459932
+"4: Widespread Engagement",2038,"Fuel",0
+"4: Widespread Engagement",2038,"Timber",11582163.0765499
+"4: Widespread Engagement",2039,"Fuel",0
+"4: Widespread Engagement",2039,"Timber",12914784.9788632
+"4: Widespread Engagement",2040,"Fuel",0
+"4: Widespread Engagement",2040,"Timber",13121510.2985155
+"4: Widespread Engagement",2041,"Fuel",0
+"4: Widespread Engagement",2041,"Timber",13077486.9016651
+"4: Widespread Engagement",2042,"Fuel",0
+"4: Widespread Engagement",2042,"Timber",13200716.8490725
+"4: Widespread Engagement",2043,"Fuel",0
+"4: Widespread Engagement",2043,"Timber",13320726.8452196
+"4: Widespread Engagement",2044,"Fuel",0
+"4: Widespread Engagement",2044,"Timber",13600704.320848
+"4: Widespread Engagement",2045,"Fuel",0
+"4: Widespread Engagement",2045,"Timber",13889386.2768685
+"4: Widespread Engagement",2046,"Fuel",0
+"4: Widespread Engagement",2046,"Timber",12372000.4279451
+"4: Widespread Engagement",2047,"Fuel",0
+"4: Widespread Engagement",2047,"Timber",12498310.1680144
+"4: Widespread Engagement",2048,"Fuel",0
+"4: Widespread Engagement",2048,"Timber",12618503.2633532
+"4: Widespread Engagement",2049,"Fuel",0
+"4: Widespread Engagement",2049,"Timber",12834854.9977068
+"4: Widespread Engagement",2050,"Fuel",0
+"4: Widespread Engagement",2050,"Timber",13138980.9234596
+"4: Widespread Engagement",2051,"Fuel",0
+"4: Widespread Engagement",2051,"Timber",13063520.1351628
+"4: Widespread Engagement",2052,"Fuel",0
+"4: Widespread Engagement",2052,"Timber",13066033.4458384
+"4: Widespread Engagement",2053,"Fuel",0
+"4: Widespread Engagement",2053,"Timber",13066033.4458384
+"4: Widespread Engagement",2054,"Fuel",0
+"4: Widespread Engagement",2054,"Timber",13164649.8853036
+"4: Widespread Engagement",2055,"Fuel",276886.812695455
+"4: Widespread Engagement",2055,"Timber",13279264.4349094
+"4: Widespread Engagement",2056,"Fuel",276886.812695455
+"4: Widespread Engagement",2056,"Timber",11381964.1920986
+"4: Widespread Engagement",2057,"Fuel",276886.812695455
+"4: Widespread Engagement",2057,"Timber",11384888.8265764
+"4: Widespread Engagement",2058,"Fuel",276886.812695455
+"4: Widespread Engagement",2058,"Timber",11384888.8265764
+"4: Widespread Engagement",2059,"Fuel",276886.812695455
+"4: Widespread Engagement",2059,"Timber",15984378.6605919
+"4: Widespread Engagement",2060,"Fuel",277019.674791818
+"4: Widespread Engagement",2060,"Timber",16120660.0860064
+"4: Widespread Engagement",2061,"Fuel",277019.674791818
+"4: Widespread Engagement",2061,"Timber",16450163.2619521
+"4: Widespread Engagement",2062,"Fuel",277019.674791818
+"4: Widespread Engagement",2062,"Timber",16484643.1390924
+"4: Widespread Engagement",2063,"Fuel",277019.674791818
+"4: Widespread Engagement",2063,"Timber",16484643.1390924
+"4: Widespread Engagement",2064,"Fuel",1265221.18836
+"4: Widespread Engagement",2064,"Timber",16490479.1617531
+"4: Widespread Engagement",2065,"Fuel",1265149.71988636
+"4: Widespread Engagement",2065,"Timber",16617660.9574026
+"4: Widespread Engagement",2066,"Fuel",1265149.71988636
+"4: Widespread Engagement",2066,"Timber",13937269.2312733
+"4: Widespread Engagement",2067,"Fuel",1265149.71988636
+"4: Widespread Engagement",2067,"Timber",13965888.0307886
+"4: Widespread Engagement",2068,"Fuel",1265149.71988636
+"4: Widespread Engagement",2068,"Timber",13965888.0307886
+"4: Widespread Engagement",2069,"Fuel",1264962.41205682
+"4: Widespread Engagement",2069,"Timber",13927909.9136357
+"4: Widespread Engagement",2070,"Fuel",1264982.87659773
+"4: Widespread Engagement",2070,"Timber",15783542.4450638
+"4: Widespread Engagement",2071,"Fuel",1264982.87659773
+"4: Widespread Engagement",2071,"Timber",15764213.5809584
+"4: Widespread Engagement",2072,"Fuel",1264982.87659773
+"4: Widespread Engagement",2072,"Timber",15974570.2092278
+"4: Widespread Engagement",2073,"Fuel",1264982.87659773
+"4: Widespread Engagement",2073,"Timber",15974570.2092278
+"4: Widespread Engagement",2074,"Fuel",1265321.41449545
+"4: Widespread Engagement",2074,"Timber",15947377.3787476
+"4: Widespread Engagement",2075,"Fuel",1265215.62856091
+"4: Widespread Engagement",2075,"Timber",18102809.8372997
+"4: Widespread Engagement",2076,"Fuel",1265215.62856091
+"4: Widespread Engagement",2076,"Timber",15819990.1566985
+"4: Widespread Engagement",2077,"Fuel",1265215.62856091
+"4: Widespread Engagement",2077,"Timber",15836105.8647039
+"4: Widespread Engagement",2078,"Fuel",1265215.62856091
+"4: Widespread Engagement",2078,"Timber",15836105.8647039
+"4: Widespread Engagement",2079,"Fuel",1265109.37214045
+"4: Widespread Engagement",2079,"Timber",18987728.9020574
+"4: Widespread Engagement",2080,"Fuel",1265249.47553591
+"4: Widespread Engagement",2080,"Timber",23158718.0401098
+"4: Widespread Engagement",2081,"Fuel",1265249.47553591
+"4: Widespread Engagement",2081,"Timber",23161459.592299
+"4: Widespread Engagement",2082,"Fuel",1265249.47553591
+"4: Widespread Engagement",2082,"Timber",23308796.8956197
+"4: Widespread Engagement",2083,"Fuel",1265249.47553591
+"4: Widespread Engagement",2083,"Timber",23308796.8956197
+"4: Widespread Engagement",2084,"Fuel",1265272.70368364
+"4: Widespread Engagement",2084,"Timber",23234964.0964246
+"4: Widespread Engagement",2085,"Fuel",988269.715363636
+"4: Widespread Engagement",2085,"Timber",22256336.2424425
+"4: Widespread Engagement",2086,"Fuel",988269.715363636
+"4: Widespread Engagement",2086,"Timber",22256830.715893
+"4: Widespread Engagement",2087,"Fuel",988269.715363636
+"4: Widespread Engagement",2087,"Timber",22378618.1844849
+"4: Widespread Engagement",2088,"Fuel",988269.715363636
+"4: Widespread Engagement",2088,"Timber",22378618.1844849
+"4: Widespread Engagement",2089,"Fuel",988174.825909091
+"4: Widespread Engagement",2089,"Timber",22253080.1728055
+"4: Widespread Engagement",2090,"Fuel",988174.825909091
+"4: Widespread Engagement",2090,"Timber",22676702.6031615
+"4: Widespread Engagement",2091,"Fuel",988174.825909091
+"4: Widespread Engagement",2091,"Timber",22921179.1210152
+"4: Widespread Engagement",2092,"Fuel",988174.825909091
+"4: Widespread Engagement",2092,"Timber",23994714.5849563
+"4: Widespread Engagement",2093,"Fuel",1265061.63860455
+"4: Widespread Engagement",2093,"Timber",24047362.0640461
+"4: Widespread Engagement",2094,"Fuel",276886.812695455
+"4: Widespread Engagement",2094,"Timber",23921521.2887988
+"4: Widespread Engagement",2095,"Fuel",276886.812695455
+"4: Widespread Engagement",2095,"Timber",24223795.2304676
+"4: Widespread Engagement",2096,"Fuel",276886.812695455
+"4: Widespread Engagement",2096,"Timber",24223796.3128883
+"4: Widespread Engagement",2097,"Fuel",276886.812695455
+"4: Widespread Engagement",2097,"Timber",24291211.2880775
+"4: Widespread Engagement",2098,"Fuel",277019.674791818
+"4: Widespread Engagement",2098,"Timber",24406359.9051809
+"4: Widespread Engagement",2099,"Fuel",277019.674791818
+"4: Widespread Engagement",2099,"Timber",21376887.6161148
+"4: Widespread Engagement",2100,"Fuel",277019.674791818
+"4: Widespread Engagement",2100,"Timber",15377279.6618525
+"5: NBS",2015,"Timber",8313734.42168548
+"5: NBS",2016,"Timber",12456478.918239
+"5: NBS",2017,"Timber",12456478.918239
+"5: NBS",2018,"Timber",12459326.3558453
+"5: NBS",2019,"Timber",12691911.7387349
+"5: NBS",2020,"Fuel",0
+"5: NBS",2020,"Timber",13876427.1745408
+"5: NBS",2021,"Fuel",0
+"5: NBS",2021,"Timber",13693253.586372
+"5: NBS",2022,"Fuel",0
+"5: NBS",2022,"Timber",13622316.4424628
+"5: NBS",2023,"Fuel",0
+"5: NBS",2023,"Timber",13553965.7135036
+"5: NBS",2024,"Fuel",0
+"5: NBS",2024,"Timber",13524003.8527018
+"5: NBS",2025,"Fuel",0
+"5: NBS",2025,"Timber",13485088.686768
+"5: NBS",2026,"Fuel",0
+"5: NBS",2026,"Timber",12458867.5829654
+"5: NBS",2027,"Fuel",0
+"5: NBS",2027,"Timber",12396605.820815
+"5: NBS",2028,"Fuel",0
+"5: NBS",2028,"Timber",12571714.7886926
+"5: NBS",2029,"Fuel",0
+"5: NBS",2029,"Timber",12647121.2097458
+"5: NBS",2030,"Fuel",0
+"5: NBS",2030,"Timber",12589590.7812108
+"5: NBS",2031,"Fuel",0
+"5: NBS",2031,"Timber",12470507.8106882
+"5: NBS",2032,"Fuel",0
+"5: NBS",2032,"Timber",12401393.7134038
+"5: NBS",2033,"Fuel",0
+"5: NBS",2033,"Timber",12332441.1561223
+"5: NBS",2034,"Fuel",0
+"5: NBS",2034,"Timber",12369997.9098827
+"5: NBS",2035,"Fuel",0
+"5: NBS",2035,"Timber",12059470.0417669
+"5: NBS",2036,"Fuel",0
+"5: NBS",2036,"Timber",10588035.7408695
+"5: NBS",2037,"Fuel",0
+"5: NBS",2037,"Timber",10550954.5407349
+"5: NBS",2038,"Fuel",0
+"5: NBS",2038,"Timber",10514316.9392634
+"5: NBS",2039,"Fuel",0
+"5: NBS",2039,"Timber",11624050.3572782
+"5: NBS",2040,"Fuel",0
+"5: NBS",2040,"Timber",11670851.6115431
+"5: NBS",2041,"Fuel",0
+"5: NBS",2041,"Timber",11474685.5569453
+"5: NBS",2042,"Fuel",0
+"5: NBS",2042,"Timber",11435022.2441954
+"5: NBS",2043,"Fuel",0
+"5: NBS",2043,"Timber",11392113.2829633
+"5: NBS",2044,"Fuel",0
+"5: NBS",2044,"Timber",11493517.1500979
+"5: NBS",2045,"Fuel",0
+"5: NBS",2045,"Timber",11739088.0913798
+"5: NBS",2046,"Fuel",0
+"5: NBS",2046,"Timber",10192745.1669783
+"5: NBS",2047,"Fuel",0
+"5: NBS",2047,"Timber",10166755.7312958
+"5: NBS",2048,"Fuel",0
+"5: NBS",2048,"Timber",10134970.8012631
+"5: NBS",2049,"Fuel",0
+"5: NBS",2049,"Timber",10188397.8370936
+"5: NBS",2050,"Fuel",0
+"5: NBS",2050,"Timber",9436459.79144311
+"5: NBS",2051,"Fuel",0
+"5: NBS",2051,"Timber",9368845.83198446
+"5: NBS",2052,"Fuel",0
+"5: NBS",2052,"Timber",9371277.07527142
+"5: NBS",2053,"Fuel",0
+"5: NBS",2053,"Timber",9371277.07527142
+"5: NBS",2054,"Fuel",0
+"5: NBS",2054,"Timber",9459273.9061326
+"5: NBS",2055,"Fuel",276961.744399091
+"5: NBS",2055,"Timber",9607832.61991081
+"5: NBS",2056,"Fuel",276961.744399091
+"5: NBS",2056,"Timber",7958509.7132106
+"5: NBS",2057,"Fuel",276961.744399091
+"5: NBS",2057,"Timber",7961350.14813753
+"5: NBS",2058,"Fuel",276961.744399091
+"5: NBS",2058,"Timber",7961350.14813753
+"5: NBS",2059,"Fuel",276961.744399091
+"5: NBS",2059,"Timber",12091451.417014
+"5: NBS",2060,"Fuel",276972.448928182
+"5: NBS",2060,"Timber",12260199.6964509
+"5: NBS",2061,"Fuel",276972.448928182
+"5: NBS",2061,"Timber",12576413.5664496
+"5: NBS",2062,"Fuel",276972.448928182
+"5: NBS",2062,"Timber",12607873.0358595
+"5: NBS",2063,"Fuel",276972.448928182
+"5: NBS",2063,"Timber",12607873.0358595
+"5: NBS",2064,"Fuel",1265321.73305318
+"5: NBS",2064,"Timber",12612705.0386055
+"5: NBS",2065,"Fuel",1265266.00653409
+"5: NBS",2065,"Timber",12777280.7679268
+"5: NBS",2066,"Fuel",1265266.00653409
+"5: NBS",2066,"Timber",10281006.8087881
+"5: NBS",2067,"Fuel",1265266.00653409
+"5: NBS",2067,"Timber",10307393.747946
+"5: NBS",2068,"Fuel",1265266.00653409
+"5: NBS",2068,"Timber",10307393.747946
+"5: NBS",2069,"Fuel",1265195.33365909
+"5: NBS",2069,"Timber",10272421.7806043
+"5: NBS",2070,"Fuel",1265263.96858091
+"5: NBS",2070,"Timber",12674450.0073216
+"5: NBS",2071,"Fuel",1265263.96858091
+"5: NBS",2071,"Timber",12657652.0739255
+"5: NBS",2072,"Fuel",1265263.96858091
+"5: NBS",2072,"Timber",12861081.726147
+"5: NBS",2073,"Fuel",1265263.96858091
+"5: NBS",2073,"Timber",12861081.726147
+"5: NBS",2074,"Fuel",1265354.41009227
+"5: NBS",2074,"Timber",12835871.1168141
+"5: NBS",2075,"Fuel",1265312.85133227
+"5: NBS",2075,"Timber",15586278.9397427
+"5: NBS",2076,"Fuel",1265312.85133227
+"5: NBS",2076,"Timber",13604664.5588037
+"5: NBS",2077,"Fuel",1265312.85133227
+"5: NBS",2077,"Timber",13619371.1629165
+"5: NBS",2078,"Fuel",1265312.85133227
+"5: NBS",2078,"Timber",13619371.1629165
+"5: NBS",2079,"Fuel",1265296.04799136
+"5: NBS",2079,"Timber",16346096.3156975
+"5: NBS",2080,"Fuel",1265383.25841955
+"5: NBS",2080,"Timber",21827744.5742187
+"5: NBS",2081,"Fuel",1265383.25841955
+"5: NBS",2081,"Timber",21830124.8900422
+"5: NBS",2082,"Fuel",1265383.25841955
+"5: NBS",2082,"Timber",21962575.0816167
+"5: NBS",2083,"Fuel",1265383.25841955
+"5: NBS",2083,"Timber",21962575.0816167
+"5: NBS",2084,"Fuel",1265284.41523773
+"5: NBS",2084,"Timber",21898094.3329465
+"5: NBS",2085,"Fuel",988253.406238636
+"5: NBS",2085,"Timber",20562681.5468123
+"5: NBS",2086,"Fuel",988253.406238636
+"5: NBS",2086,"Timber",20562972.2215412
+"5: NBS",2087,"Fuel",988253.406238636
+"5: NBS",2087,"Timber",20672688.6392071
+"5: NBS",2088,"Fuel",988253.406238636
+"5: NBS",2088,"Timber",20672688.6392071
+"5: NBS",2089,"Fuel",988112.060488636
+"5: NBS",2089,"Timber",20560454.2143501
+"5: NBS",2090,"Fuel",988112.060488636
+"5: NBS",2090,"Timber",20621739.8208703
+"5: NBS",2091,"Fuel",988112.060488636
+"5: NBS",2091,"Timber",20833958.6069351
+"5: NBS",2092,"Fuel",988112.060488636
+"5: NBS",2092,"Timber",21815320.5559541
+"5: NBS",2093,"Fuel",1265073.80488773
+"5: NBS",2093,"Timber",21886905.3682266
+"5: NBS",2094,"Fuel",276961.744399091
+"5: NBS",2094,"Timber",21771917.410077
+"5: NBS",2095,"Fuel",276961.744399091
+"5: NBS",2095,"Timber",22765870.6955778
+"5: NBS",2096,"Fuel",276961.744399091
+"5: NBS",2096,"Timber",22765871.7153307
+"5: NBS",2097,"Fuel",276961.744399091
+"5: NBS",2097,"Timber",22826487.7747794
+"5: NBS",2098,"Fuel",276972.448928182
+"5: NBS",2098,"Timber",22975306.5451489
+"5: NBS",2099,"Fuel",276972.448928182
+"5: NBS",2099,"Timber",20285928.0346881
+"5: NBS",2100,"Fuel",276972.448928182
+"5: NBS",2100,"Timber",11962752.0681691
+"6: NBS with biomass crops",2015,"Timber",8313734.42168548
+"6: NBS with biomass crops",2016,"Timber",12456478.918239
+"6: NBS with biomass crops",2017,"Timber",12456478.918239
+"6: NBS with biomass crops",2018,"Timber",12459326.3558453
+"6: NBS with biomass crops",2019,"Timber",12691911.7387349
+"6: NBS with biomass crops",2020,"Fuel",0
+"6: NBS with biomass crops",2020,"Timber",13876427.1745408
+"6: NBS with biomass crops",2021,"Fuel",0
+"6: NBS with biomass crops",2021,"Timber",13707638.586372
+"6: NBS with biomass crops",2022,"Fuel",0
+"6: NBS with biomass crops",2022,"Timber",13651086.4424628
+"6: NBS with biomass crops",2023,"Fuel",0
+"6: NBS with biomass crops",2023,"Timber",13597120.7135036
+"6: NBS with biomass crops",2024,"Fuel",0
+"6: NBS with biomass crops",2024,"Timber",13581543.8527018
+"6: NBS with biomass crops",2025,"Fuel",0
+"6: NBS with biomass crops",2025,"Timber",13557013.686768
+"6: NBS with biomass crops",2026,"Fuel",0
+"6: NBS with biomass crops",2026,"Timber",12600381.4829654
+"6: NBS with biomass crops",2027,"Fuel",0
+"6: NBS with biomass crops",2027,"Timber",12607708.620815
+"6: NBS with biomass crops",2028,"Fuel",0
+"6: NBS with biomass crops",2028,"Timber",12852406.4886926
+"6: NBS with biomass crops",2029,"Fuel",0
+"6: NBS with biomass crops",2029,"Timber",12997401.8097458
+"6: NBS with biomass crops",2030,"Fuel",0
+"6: NBS with biomass crops",2030,"Timber",13009460.2812108
+"6: NBS with biomass crops",2031,"Fuel",0
+"6: NBS with biomass crops",2031,"Timber",13010394.1106882
+"6: NBS with biomass crops",2032,"Fuel",0
+"6: NBS with biomass crops",2032,"Timber",13061296.8134038
+"6: NBS with biomass crops",2033,"Fuel",0
+"6: NBS with biomass crops",2033,"Timber",13112361.0561223
+"6: NBS with biomass crops",2034,"Fuel",0
+"6: NBS with biomass crops",2034,"Timber",13269934.6098827
+"6: NBS with biomass crops",2035,"Fuel",0
+"6: NBS with biomass crops",2035,"Timber",13079423.5417669
+"6: NBS with biomass crops",2036,"Fuel",0
+"6: NBS with biomass crops",2036,"Timber",11727970.6408695
+"6: NBS with biomass crops",2037,"Fuel",0
+"6: NBS with biomass crops",2037,"Timber",11810870.8407349
+"6: NBS with biomass crops",2038,"Fuel",0
+"6: NBS with biomass crops",2038,"Timber",11894214.6392634
+"6: NBS with biomass crops",2039,"Fuel",0
+"6: NBS with biomass crops",2039,"Timber",13123929.4572782
+"6: NBS with biomass crops",2040,"Fuel",0
+"6: NBS with biomass crops",2040,"Timber",13290712.1115431
+"6: NBS with biomass crops",2041,"Fuel",0
+"6: NBS with biomass crops",2041,"Timber",13214540.8069453
+"6: NBS with biomass crops",2042,"Fuel",0
+"6: NBS with biomass crops",2042,"Timber",13294872.2441954
+"6: NBS with biomass crops",2043,"Fuel",0
+"6: NBS with biomass crops",2043,"Timber",13371958.0329633
+"6: NBS with biomass crops",2044,"Fuel",0
+"6: NBS with biomass crops",2044,"Timber",13593356.6500979
+"6: NBS with biomass crops",2045,"Fuel",0
+"6: NBS with biomass crops",2045,"Timber",13958922.3413798
+"6: NBS with biomass crops",2046,"Fuel",0
+"6: NBS with biomass crops",2046,"Timber",12532587.3669783
+"6: NBS with biomass crops",2047,"Fuel",0
+"6: NBS with biomass crops",2047,"Timber",12626605.8812958
+"6: NBS with biomass crops",2048,"Fuel",0
+"6: NBS with biomass crops",2048,"Timber",12714828.9012631
+"6: NBS with biomass crops",2049,"Fuel",0
+"6: NBS with biomass crops",2049,"Timber",12888263.8870936
+"6: NBS with biomass crops",2050,"Fuel",0
+"6: NBS with biomass crops",2050,"Timber",12256333.7914431
+"6: NBS with biomass crops",2051,"Fuel",0
+"6: NBS with biomass crops",2051,"Timber",12188719.8319845
+"6: NBS with biomass crops",2052,"Fuel",0
+"6: NBS with biomass crops",2052,"Timber",12191151.0752714
+"6: NBS with biomass crops",2053,"Fuel",0
+"6: NBS with biomass crops",2053,"Timber",12191151.0752714
+"6: NBS with biomass crops",2054,"Fuel",0
+"6: NBS with biomass crops",2054,"Timber",12279147.9061326
+"6: NBS with biomass crops",2055,"Fuel",276961.744399091
+"6: NBS with biomass crops",2055,"Timber",12427706.6199108
+"6: NBS with biomass crops",2056,"Fuel",276961.744399091
+"6: NBS with biomass crops",2056,"Timber",10778383.7132106
+"6: NBS with biomass crops",2057,"Fuel",276961.744399091
+"6: NBS with biomass crops",2057,"Timber",10781224.1481375
+"6: NBS with biomass crops",2058,"Fuel",276961.744399091
+"6: NBS with biomass crops",2058,"Timber",10781224.1481375
+"6: NBS with biomass crops",2059,"Fuel",276961.744399091
+"6: NBS with biomass crops",2059,"Timber",14911325.417014
+"6: NBS with biomass crops",2060,"Fuel",276972.448928182
+"6: NBS with biomass crops",2060,"Timber",15080073.6964509
+"6: NBS with biomass crops",2061,"Fuel",276972.448928182
+"6: NBS with biomass crops",2061,"Timber",15396287.5664496
+"6: NBS with biomass crops",2062,"Fuel",276972.448928182
+"6: NBS with biomass crops",2062,"Timber",15427747.0358595
+"6: NBS with biomass crops",2063,"Fuel",276972.448928182
+"6: NBS with biomass crops",2063,"Timber",15427747.0358595
+"6: NBS with biomass crops",2064,"Fuel",1265321.73305318
+"6: NBS with biomass crops",2064,"Timber",15432579.0386055
+"6: NBS with biomass crops",2065,"Fuel",1265266.00653409
+"6: NBS with biomass crops",2065,"Timber",15597154.7679268
+"6: NBS with biomass crops",2066,"Fuel",1265266.00653409
+"6: NBS with biomass crops",2066,"Timber",13100880.8087881
+"6: NBS with biomass crops",2067,"Fuel",1265266.00653409
+"6: NBS with biomass crops",2067,"Timber",13127267.747946
+"6: NBS with biomass crops",2068,"Fuel",1265266.00653409
+"6: NBS with biomass crops",2068,"Timber",13127267.747946
+"6: NBS with biomass crops",2069,"Fuel",1265195.33365909
+"6: NBS with biomass crops",2069,"Timber",13092295.7806043
+"6: NBS with biomass crops",2070,"Fuel",1265263.96858091
+"6: NBS with biomass crops",2070,"Timber",15494324.0073216
+"6: NBS with biomass crops",2071,"Fuel",1265263.96858091
+"6: NBS with biomass crops",2071,"Timber",15477526.0739255
+"6: NBS with biomass crops",2072,"Fuel",1265263.96858091
+"6: NBS with biomass crops",2072,"Timber",15680955.726147
+"6: NBS with biomass crops",2073,"Fuel",1265263.96858091
+"6: NBS with biomass crops",2073,"Timber",15680955.726147
+"6: NBS with biomass crops",2074,"Fuel",1265354.41009227
+"6: NBS with biomass crops",2074,"Timber",15655745.1168141
+"6: NBS with biomass crops",2075,"Fuel",1265312.85133227
+"6: NBS with biomass crops",2075,"Timber",18406152.9397428
+"6: NBS with biomass crops",2076,"Fuel",1265312.85133227
+"6: NBS with biomass crops",2076,"Timber",16424538.5588037
+"6: NBS with biomass crops",2077,"Fuel",1265312.85133227
+"6: NBS with biomass crops",2077,"Timber",16439245.1629165
+"6: NBS with biomass crops",2078,"Fuel",1265312.85133227
+"6: NBS with biomass crops",2078,"Timber",16439245.1629165
+"6: NBS with biomass crops",2079,"Fuel",1265296.04799136
+"6: NBS with biomass crops",2079,"Timber",19165970.3156975
+"6: NBS with biomass crops",2080,"Fuel",1265383.25841955
+"6: NBS with biomass crops",2080,"Timber",24647618.5742187
+"6: NBS with biomass crops",2081,"Fuel",1265383.25841955
+"6: NBS with biomass crops",2081,"Timber",24649998.8900422
+"6: NBS with biomass crops",2082,"Fuel",1265383.25841955
+"6: NBS with biomass crops",2082,"Timber",24782449.0816167
+"6: NBS with biomass crops",2083,"Fuel",1265383.25841955
+"6: NBS with biomass crops",2083,"Timber",24782449.0816167
+"6: NBS with biomass crops",2084,"Fuel",1265284.41523773
+"6: NBS with biomass crops",2084,"Timber",24717968.3329465
+"6: NBS with biomass crops",2085,"Fuel",988253.406238636
+"6: NBS with biomass crops",2085,"Timber",23382555.5468123
+"6: NBS with biomass crops",2086,"Fuel",988253.406238636
+"6: NBS with biomass crops",2086,"Timber",23382846.2215412
+"6: NBS with biomass crops",2087,"Fuel",988253.406238636
+"6: NBS with biomass crops",2087,"Timber",23492562.6392071
+"6: NBS with biomass crops",2088,"Fuel",988253.406238636
+"6: NBS with biomass crops",2088,"Timber",23492562.6392071
+"6: NBS with biomass crops",2089,"Fuel",988112.060488636
+"6: NBS with biomass crops",2089,"Timber",23380328.2143501
+"6: NBS with biomass crops",2090,"Fuel",988112.060488636
+"6: NBS with biomass crops",2090,"Timber",23441613.8208703
+"6: NBS with biomass crops",2091,"Fuel",988112.060488636
+"6: NBS with biomass crops",2091,"Timber",23653832.6069351
+"6: NBS with biomass crops",2092,"Fuel",988112.060488636
+"6: NBS with biomass crops",2092,"Timber",24635194.5559541
+"6: NBS with biomass crops",2093,"Fuel",1265073.80488773
+"6: NBS with biomass crops",2093,"Timber",24706779.3682266
+"6: NBS with biomass crops",2094,"Fuel",276961.744399091
+"6: NBS with biomass crops",2094,"Timber",24591791.410077
+"6: NBS with biomass crops",2095,"Fuel",276961.744399091
+"6: NBS with biomass crops",2095,"Timber",25585744.6955778
+"6: NBS with biomass crops",2096,"Fuel",276961.744399091
+"6: NBS with biomass crops",2096,"Timber",25585745.7153307
+"6: NBS with biomass crops",2097,"Fuel",276961.744399091
+"6: NBS with biomass crops",2097,"Timber",25646361.7747794
+"6: NBS with biomass crops",2098,"Fuel",276972.448928182
+"6: NBS with biomass crops",2098,"Timber",25795180.5451489
+"6: NBS with biomass crops",2099,"Fuel",276972.448928182
+"6: NBS with biomass crops",2099,"Timber",23105802.0346881
+"6: NBS with biomass crops",2100,"Fuel",276972.448928182
+"6: NBS with biomass crops",2100,"Timber",14782626.0681691
+"7: NBS with organic farming",2015,"Timber",8313734.42168548
+"7: NBS with organic farming",2016,"Timber",12456478.918239
+"7: NBS with organic farming",2017,"Timber",12456478.918239
+"7: NBS with organic farming",2018,"Timber",12459326.3558453
+"7: NBS with organic farming",2019,"Timber",12691911.7387349
+"7: NBS with organic farming",2020,"Fuel",0
+"7: NBS with organic farming",2020,"Timber",13876427.1745408
+"7: NBS with organic farming",2021,"Fuel",0
+"7: NBS with organic farming",2021,"Timber",13693253.586372
+"7: NBS with organic farming",2022,"Fuel",0
+"7: NBS with organic farming",2022,"Timber",13622316.4424628
+"7: NBS with organic farming",2023,"Fuel",0
+"7: NBS with organic farming",2023,"Timber",13553965.7135036
+"7: NBS with organic farming",2024,"Fuel",0
+"7: NBS with organic farming",2024,"Timber",13524003.8527018
+"7: NBS with organic farming",2025,"Fuel",0
+"7: NBS with organic farming",2025,"Timber",13485088.686768
+"7: NBS with organic farming",2026,"Fuel",0
+"7: NBS with organic farming",2026,"Timber",12458867.5829654
+"7: NBS with organic farming",2027,"Fuel",0
+"7: NBS with organic farming",2027,"Timber",12396605.820815
+"7: NBS with organic farming",2028,"Fuel",0
+"7: NBS with organic farming",2028,"Timber",12571714.7886926
+"7: NBS with organic farming",2029,"Fuel",0
+"7: NBS with organic farming",2029,"Timber",12647121.2097458
+"7: NBS with organic farming",2030,"Fuel",0
+"7: NBS with organic farming",2030,"Timber",12589590.7812108
+"7: NBS with organic farming",2031,"Fuel",0
+"7: NBS with organic farming",2031,"Timber",12470507.8106882
+"7: NBS with organic farming",2032,"Fuel",0
+"7: NBS with organic farming",2032,"Timber",12401393.7134038
+"7: NBS with organic farming",2033,"Fuel",0
+"7: NBS with organic farming",2033,"Timber",12332441.1561223
+"7: NBS with organic farming",2034,"Fuel",0
+"7: NBS with organic farming",2034,"Timber",12369997.9098827
+"7: NBS with organic farming",2035,"Fuel",0
+"7: NBS with organic farming",2035,"Timber",12059470.0417669
+"7: NBS with organic farming",2036,"Fuel",0
+"7: NBS with organic farming",2036,"Timber",10588035.7408695
+"7: NBS with organic farming",2037,"Fuel",0
+"7: NBS with organic farming",2037,"Timber",10550954.5407349
+"7: NBS with organic farming",2038,"Fuel",0
+"7: NBS with organic farming",2038,"Timber",10514316.9392634
+"7: NBS with organic farming",2039,"Fuel",0
+"7: NBS with organic farming",2039,"Timber",11624050.3572782
+"7: NBS with organic farming",2040,"Fuel",0
+"7: NBS with organic farming",2040,"Timber",11670851.6115431
+"7: NBS with organic farming",2041,"Fuel",0
+"7: NBS with organic farming",2041,"Timber",11474685.5569453
+"7: NBS with organic farming",2042,"Fuel",0
+"7: NBS with organic farming",2042,"Timber",11435022.2441954
+"7: NBS with organic farming",2043,"Fuel",0
+"7: NBS with organic farming",2043,"Timber",11392113.2829633
+"7: NBS with organic farming",2044,"Fuel",0
+"7: NBS with organic farming",2044,"Timber",11493517.1500979
+"7: NBS with organic farming",2045,"Fuel",0
+"7: NBS with organic farming",2045,"Timber",11739088.0913798
+"7: NBS with organic farming",2046,"Fuel",0
+"7: NBS with organic farming",2046,"Timber",10192745.1669783
+"7: NBS with organic farming",2047,"Fuel",0
+"7: NBS with organic farming",2047,"Timber",10166755.7312958
+"7: NBS with organic farming",2048,"Fuel",0
+"7: NBS with organic farming",2048,"Timber",10134970.8012631
+"7: NBS with organic farming",2049,"Fuel",0
+"7: NBS with organic farming",2049,"Timber",10188397.8370936
+"7: NBS with organic farming",2050,"Fuel",0
+"7: NBS with organic farming",2050,"Timber",9436459.79144311
+"7: NBS with organic farming",2051,"Fuel",0
+"7: NBS with organic farming",2051,"Timber",9368845.83198446
+"7: NBS with organic farming",2052,"Fuel",0
+"7: NBS with organic farming",2052,"Timber",9371277.07527142
+"7: NBS with organic farming",2053,"Fuel",0
+"7: NBS with organic farming",2053,"Timber",9371277.07527142
+"7: NBS with organic farming",2054,"Fuel",0
+"7: NBS with organic farming",2054,"Timber",9459273.9061326
+"7: NBS with organic farming",2055,"Fuel",276961.744399091
+"7: NBS with organic farming",2055,"Timber",9607832.61991081
+"7: NBS with organic farming",2056,"Fuel",276961.744399091
+"7: NBS with organic farming",2056,"Timber",7958509.7132106
+"7: NBS with organic farming",2057,"Fuel",276961.744399091
+"7: NBS with organic farming",2057,"Timber",7961350.14813753
+"7: NBS with organic farming",2058,"Fuel",276961.744399091
+"7: NBS with organic farming",2058,"Timber",7961350.14813753
+"7: NBS with organic farming",2059,"Fuel",276961.744399091
+"7: NBS with organic farming",2059,"Timber",12091451.417014
+"7: NBS with organic farming",2060,"Fuel",276972.448928182
+"7: NBS with organic farming",2060,"Timber",12260199.6964509
+"7: NBS with organic farming",2061,"Fuel",276972.448928182
+"7: NBS with organic farming",2061,"Timber",12576413.5664496
+"7: NBS with organic farming",2062,"Fuel",276972.448928182
+"7: NBS with organic farming",2062,"Timber",12607873.0358595
+"7: NBS with organic farming",2063,"Fuel",276972.448928182
+"7: NBS with organic farming",2063,"Timber",12607873.0358595
+"7: NBS with organic farming",2064,"Fuel",1265321.73305318
+"7: NBS with organic farming",2064,"Timber",12612705.0386055
+"7: NBS with organic farming",2065,"Fuel",1265266.00653409
+"7: NBS with organic farming",2065,"Timber",12777280.7679268
+"7: NBS with organic farming",2066,"Fuel",1265266.00653409
+"7: NBS with organic farming",2066,"Timber",10281006.8087881
+"7: NBS with organic farming",2067,"Fuel",1265266.00653409
+"7: NBS with organic farming",2067,"Timber",10307393.747946
+"7: NBS with organic farming",2068,"Fuel",1265266.00653409
+"7: NBS with organic farming",2068,"Timber",10307393.747946
+"7: NBS with organic farming",2069,"Fuel",1265195.33365909
+"7: NBS with organic farming",2069,"Timber",10272421.7806043
+"7: NBS with organic farming",2070,"Fuel",1265263.96858091
+"7: NBS with organic farming",2070,"Timber",12674450.0073216
+"7: NBS with organic farming",2071,"Fuel",1265263.96858091
+"7: NBS with organic farming",2071,"Timber",12657652.0739255
+"7: NBS with organic farming",2072,"Fuel",1265263.96858091
+"7: NBS with organic farming",2072,"Timber",12861081.726147
+"7: NBS with organic farming",2073,"Fuel",1265263.96858091
+"7: NBS with organic farming",2073,"Timber",12861081.726147
+"7: NBS with organic farming",2074,"Fuel",1265354.41009227
+"7: NBS with organic farming",2074,"Timber",12835871.1168141
+"7: NBS with organic farming",2075,"Fuel",1265312.85133227
+"7: NBS with organic farming",2075,"Timber",15586278.9397427
+"7: NBS with organic farming",2076,"Fuel",1265312.85133227
+"7: NBS with organic farming",2076,"Timber",13604664.5588037
+"7: NBS with organic farming",2077,"Fuel",1265312.85133227
+"7: NBS with organic farming",2077,"Timber",13619371.1629165
+"7: NBS with organic farming",2078,"Fuel",1265312.85133227
+"7: NBS with organic farming",2078,"Timber",13619371.1629165
+"7: NBS with organic farming",2079,"Fuel",1265296.04799136
+"7: NBS with organic farming",2079,"Timber",16346096.3156975
+"7: NBS with organic farming",2080,"Fuel",1265383.25841955
+"7: NBS with organic farming",2080,"Timber",21827744.5742187
+"7: NBS with organic farming",2081,"Fuel",1265383.25841955
+"7: NBS with organic farming",2081,"Timber",21830124.8900422
+"7: NBS with organic farming",2082,"Fuel",1265383.25841955
+"7: NBS with organic farming",2082,"Timber",21962575.0816167
+"7: NBS with organic farming",2083,"Fuel",1265383.25841955
+"7: NBS with organic farming",2083,"Timber",21962575.0816167
+"7: NBS with organic farming",2084,"Fuel",1265284.41523773
+"7: NBS with organic farming",2084,"Timber",21898094.3329465
+"7: NBS with organic farming",2085,"Fuel",988253.406238636
+"7: NBS with organic farming",2085,"Timber",20562681.5468123
+"7: NBS with organic farming",2086,"Fuel",988253.406238636
+"7: NBS with organic farming",2086,"Timber",20562972.2215412
+"7: NBS with organic farming",2087,"Fuel",988253.406238636
+"7: NBS with organic farming",2087,"Timber",20672688.6392071
+"7: NBS with organic farming",2088,"Fuel",988253.406238636
+"7: NBS with organic farming",2088,"Timber",20672688.6392071
+"7: NBS with organic farming",2089,"Fuel",988112.060488637
+"7: NBS with organic farming",2089,"Timber",20560454.2143501
+"7: NBS with organic farming",2090,"Fuel",988112.060488637
+"7: NBS with organic farming",2090,"Timber",20621739.8208703
+"7: NBS with organic farming",2091,"Fuel",988112.060488637
+"7: NBS with organic farming",2091,"Timber",20833958.6069351
+"7: NBS with organic farming",2092,"Fuel",988112.060488637
+"7: NBS with organic farming",2092,"Timber",21815320.5559541
+"7: NBS with organic farming",2093,"Fuel",1265073.80488773
+"7: NBS with organic farming",2093,"Timber",21886905.3682266
+"7: NBS with organic farming",2094,"Fuel",276961.744399091
+"7: NBS with organic farming",2094,"Timber",21771917.410077
+"7: NBS with organic farming",2095,"Fuel",276961.744399091
+"7: NBS with organic farming",2095,"Timber",22765870.6955778
+"7: NBS with organic farming",2096,"Fuel",276961.744399091
+"7: NBS with organic farming",2096,"Timber",22765871.7153307
+"7: NBS with organic farming",2097,"Fuel",276961.744399091
+"7: NBS with organic farming",2097,"Timber",22826487.7747794
+"7: NBS with organic farming",2098,"Fuel",276972.448928182
+"7: NBS with organic farming",2098,"Timber",22975306.5451489
+"7: NBS with organic farming",2099,"Fuel",276972.448928182
+"7: NBS with organic farming",2099,"Timber",20285928.0346881
+"7: NBS with organic farming",2100,"Fuel",276972.448928182
+"7: NBS with organic farming",2100,"Timber",11962752.0681691
+"8: NBS extra",2015,"Timber",8313734.42168548
+"8: NBS extra",2016,"Timber",12456478.918239
+"8: NBS extra",2017,"Timber",12456478.918239
+"8: NBS extra",2018,"Timber",12459326.3558453
+"8: NBS extra",2019,"Timber",12691911.7387349
+"8: NBS extra",2020,"Fuel",0
+"8: NBS extra",2020,"Timber",13876427.1745408
+"8: NBS extra",2021,"Fuel",0
+"8: NBS extra",2021,"Timber",13693253.586372
+"8: NBS extra",2022,"Fuel",0
+"8: NBS extra",2022,"Timber",13622316.4424628
+"8: NBS extra",2023,"Fuel",0
+"8: NBS extra",2023,"Timber",13553965.7135036
+"8: NBS extra",2024,"Fuel",0
+"8: NBS extra",2024,"Timber",13524003.8527018
+"8: NBS extra",2025,"Fuel",0
+"8: NBS extra",2025,"Timber",13485088.686768
+"8: NBS extra",2026,"Fuel",0
+"8: NBS extra",2026,"Timber",12458867.5829654
+"8: NBS extra",2027,"Fuel",0
+"8: NBS extra",2027,"Timber",12396605.820815
+"8: NBS extra",2028,"Fuel",0
+"8: NBS extra",2028,"Timber",12571714.7886926
+"8: NBS extra",2029,"Fuel",0
+"8: NBS extra",2029,"Timber",12647121.2097458
+"8: NBS extra",2030,"Fuel",0
+"8: NBS extra",2030,"Timber",12589590.7812108
+"8: NBS extra",2031,"Fuel",0
+"8: NBS extra",2031,"Timber",12470507.8106882
+"8: NBS extra",2032,"Fuel",0
+"8: NBS extra",2032,"Timber",12401393.7134038
+"8: NBS extra",2033,"Fuel",0
+"8: NBS extra",2033,"Timber",12332441.1561223
+"8: NBS extra",2034,"Fuel",0
+"8: NBS extra",2034,"Timber",12369997.9098827
+"8: NBS extra",2035,"Fuel",0
+"8: NBS extra",2035,"Timber",12059470.0417669
+"8: NBS extra",2036,"Fuel",0
+"8: NBS extra",2036,"Timber",10588035.7408695
+"8: NBS extra",2037,"Fuel",0
+"8: NBS extra",2037,"Timber",10550954.5407349
+"8: NBS extra",2038,"Fuel",0
+"8: NBS extra",2038,"Timber",10514316.9392634
+"8: NBS extra",2039,"Fuel",0
+"8: NBS extra",2039,"Timber",11624050.3572782
+"8: NBS extra",2040,"Fuel",0
+"8: NBS extra",2040,"Timber",11670851.6115431
+"8: NBS extra",2041,"Fuel",0
+"8: NBS extra",2041,"Timber",11474685.5569453
+"8: NBS extra",2042,"Fuel",0
+"8: NBS extra",2042,"Timber",11435022.2441954
+"8: NBS extra",2043,"Fuel",0
+"8: NBS extra",2043,"Timber",11392113.2829633
+"8: NBS extra",2044,"Fuel",0
+"8: NBS extra",2044,"Timber",11493517.1500979
+"8: NBS extra",2045,"Fuel",0
+"8: NBS extra",2045,"Timber",11739088.0913798
+"8: NBS extra",2046,"Fuel",0
+"8: NBS extra",2046,"Timber",10192745.1669783
+"8: NBS extra",2047,"Fuel",0
+"8: NBS extra",2047,"Timber",10166755.7312958
+"8: NBS extra",2048,"Fuel",0
+"8: NBS extra",2048,"Timber",10134970.8012631
+"8: NBS extra",2049,"Fuel",0
+"8: NBS extra",2049,"Timber",10188397.8370936
+"8: NBS extra",2050,"Fuel",0
+"8: NBS extra",2050,"Timber",9436459.79144311
+"8: NBS extra",2051,"Fuel",0
+"8: NBS extra",2051,"Timber",9368845.83198446
+"8: NBS extra",2052,"Fuel",0
+"8: NBS extra",2052,"Timber",9371277.07527142
+"8: NBS extra",2053,"Fuel",0
+"8: NBS extra",2053,"Timber",9371277.07527142
+"8: NBS extra",2054,"Fuel",0
+"8: NBS extra",2054,"Timber",9459273.9061326
+"8: NBS extra",2055,"Fuel",276931.834685455
+"8: NBS extra",2055,"Timber",9607832.61991081
+"8: NBS extra",2056,"Fuel",276931.834685455
+"8: NBS extra",2056,"Timber",7958509.7132106
+"8: NBS extra",2057,"Fuel",276931.834685455
+"8: NBS extra",2057,"Timber",7961350.14813753
+"8: NBS extra",2058,"Fuel",276931.834685455
+"8: NBS extra",2058,"Timber",7961350.14813753
+"8: NBS extra",2059,"Fuel",276931.834685455
+"8: NBS extra",2059,"Timber",12091451.417014
+"8: NBS extra",2060,"Fuel",277000.469607273
+"8: NBS extra",2060,"Timber",12260199.6964509
+"8: NBS extra",2061,"Fuel",277000.469607273
+"8: NBS extra",2061,"Timber",12576413.5664496
+"8: NBS extra",2062,"Fuel",277000.469607273
+"8: NBS extra",2062,"Timber",12607873.0358595
+"8: NBS extra",2063,"Fuel",277000.469607273
+"8: NBS extra",2063,"Timber",12607873.0358595
+"8: NBS extra",2064,"Fuel",1265349.75373227
+"8: NBS extra",2064,"Timber",12612705.0386055
+"8: NBS extra",2065,"Fuel",1265378.71892864
+"8: NBS extra",2065,"Timber",12777280.7679268
+"8: NBS extra",2066,"Fuel",1265378.71892864
+"8: NBS extra",2066,"Timber",10281006.8087881
+"8: NBS extra",2067,"Fuel",1265378.71892864
+"8: NBS extra",2067,"Timber",10307393.747946
+"8: NBS extra",2068,"Fuel",1265378.71892864
+"8: NBS extra",2068,"Timber",10307393.747946
+"8: NBS extra",2069,"Fuel",1265293.71379227
+"8: NBS extra",2069,"Timber",10272421.7806043
+"8: NBS extra",2070,"Fuel",1265187.29817955
+"8: NBS extra",2070,"Timber",12674450.0073216
+"8: NBS extra",2071,"Fuel",1265187.29817955
+"8: NBS extra",2071,"Timber",12657652.0739255
+"8: NBS extra",2072,"Fuel",1265187.29817955
+"8: NBS extra",2072,"Timber",12861081.726147
+"8: NBS extra",2073,"Fuel",1265187.29817955
+"8: NBS extra",2073,"Timber",12861081.726147
+"8: NBS extra",2074,"Fuel",1265111.18892955
+"8: NBS extra",2074,"Timber",12835871.1168141
+"8: NBS extra",2075,"Fuel",1265137.005735
+"8: NBS extra",2075,"Timber",15586278.9397427
+"8: NBS extra",2076,"Fuel",1265137.005735
+"8: NBS extra",2076,"Timber",13604664.5588037
+"8: NBS extra",2077,"Fuel",1265137.005735
+"8: NBS extra",2077,"Timber",13619371.1629165
+"8: NBS extra",2078,"Fuel",1265137.005735
+"8: NBS extra",2078,"Timber",13619371.1629165
+"8: NBS extra",2079,"Fuel",1265061.88491682
+"8: NBS extra",2079,"Timber",16346096.3156975
+"8: NBS extra",2080,"Fuel",1265014.65905318
+"8: NBS extra",2080,"Timber",21827744.5742187
+"8: NBS extra",2081,"Fuel",1265014.65905318
+"8: NBS extra",2081,"Timber",21830124.8900422
+"8: NBS extra",2082,"Fuel",1265014.65905318
+"8: NBS extra",2082,"Timber",21962575.0816167
+"8: NBS extra",2083,"Fuel",1265014.65905318
+"8: NBS extra",2083,"Timber",21962575.0816167
+"8: NBS extra",2084,"Fuel",1265127.34028045
+"8: NBS extra",2084,"Timber",21898094.3329465
+"8: NBS extra",2085,"Fuel",988225.730147727
+"8: NBS extra",2085,"Timber",20562681.5468123
+"8: NBS extra",2086,"Fuel",988225.730147727
+"8: NBS extra",2086,"Timber",20562972.2215412
+"8: NBS extra",2087,"Fuel",988225.730147727
+"8: NBS extra",2087,"Timber",20672688.6392071
+"8: NBS extra",2088,"Fuel",988225.730147727
+"8: NBS extra",2088,"Timber",20672688.6392071
+"8: NBS extra",2089,"Fuel",988137.2655
+"8: NBS extra",2089,"Timber",20560454.2143501
+"8: NBS extra",2090,"Fuel",988137.2655
+"8: NBS extra",2090,"Timber",20621739.8208703
+"8: NBS extra",2091,"Fuel",988137.2655
+"8: NBS extra",2091,"Timber",20833958.6069351
+"8: NBS extra",2092,"Fuel",988137.2655
+"8: NBS extra",2092,"Timber",21815320.5559541
+"8: NBS extra",2093,"Fuel",1265069.10018545
+"8: NBS extra",2093,"Timber",21886905.3682266
+"8: NBS extra",2094,"Fuel",276931.834685455
+"8: NBS extra",2094,"Timber",21771917.410077
+"8: NBS extra",2095,"Fuel",276931.834685455
+"8: NBS extra",2095,"Timber",22765870.6955778
+"8: NBS extra",2096,"Fuel",276931.834685455
+"8: NBS extra",2096,"Timber",22765871.7153307
+"8: NBS extra",2097,"Fuel",276931.834685455
+"8: NBS extra",2097,"Timber",22826487.7747794
+"8: NBS extra",2098,"Fuel",277000.469607273
+"8: NBS extra",2098,"Timber",22975306.5451489
+"8: NBS extra",2099,"Fuel",277000.469607273
+"8: NBS extra",2099,"Timber",20285928.0346881
+"8: NBS extra",2100,"Fuel",277000.469607273
+"8: NBS extra",2100,"Timber",11962752.0681691

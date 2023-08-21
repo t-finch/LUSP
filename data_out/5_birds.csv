@@ -1,0 +1,55 @@
+"scenario","group","mean_change"
+"0: Baseline","All species",-0.0128231838694447
+"0: Baseline","BoCC Red/Amber",-0.0220151590399561
+"0: Baseline","Farmland generalists",-0.015499490693336
+"0: Baseline","Farmland specialists",-0.0427527853581979
+"0: Baseline","Woodland generalists",0.00259951036459993
+"0: Baseline","Woodland specialists",-0.0347105041504213
+"1: On Farm Measures (Organic)","All species",0.0578066663901795
+"1: On Farm Measures (Organic)","BoCC Red/Amber",0.0688446486555445
+"1: On Farm Measures (Organic)","Farmland generalists",0.0279401346677755
+"1: On Farm Measures (Organic)","Farmland specialists",-0.0111925558723373
+"1: On Farm Measures (Organic)","Woodland generalists",0.0637024608078183
+"1: On Farm Measures (Organic)","Woodland specialists",-0.0151268633525121
+"2: On Farm Measures (Balanced)","All species",0.0463679897877445
+"2: On Farm Measures (Balanced)","BoCC Red/Amber",0.0508212161572188
+"2: On Farm Measures (Balanced)","Farmland generalists",-0.0153193538750027
+"2: On Farm Measures (Balanced)","Farmland specialists",-0.0812635075243617
+"2: On Farm Measures (Balanced)","Woodland generalists",0.0530488487976655
+"2: On Farm Measures (Balanced)","Woodland specialists",0.0271859938186529
+"3: Balanced Pathway","All species",0.109850421552605
+"3: Balanced Pathway","BoCC Red/Amber",0.108070756652548
+"3: Balanced Pathway","Farmland generalists",-0.0602379140005008
+"3: Balanced Pathway","Farmland specialists",-0.150358498153099
+"3: Balanced Pathway","Woodland generalists",0.1550774470456
+"3: Balanced Pathway","Woodland specialists",0.352332918343838
+"4: Widespread Engagement","All species",0.12753974889984
+"4: Widespread Engagement","BoCC Red/Amber",0.119930561420283
+"4: Widespread Engagement","Farmland generalists",-0.0642622203718082
+"4: Widespread Engagement","Farmland specialists",-0.166323881410878
+"4: Widespread Engagement","Woodland generalists",0.179175758219611
+"4: Widespread Engagement","Woodland specialists",0.427756434449641
+"5: NBS","All species",0.167831078195715
+"5: NBS","BoCC Red/Amber",0.16496253972147
+"5: NBS","Farmland generalists",-0.0570348503546106
+"5: NBS","Farmland specialists",-0.184834442416351
+"5: NBS","Woodland generalists",0.18072170250611
+"5: NBS","Woodland specialists",0.457374843940191
+"6: NBS with biomass crops","All species",0.167831078195715
+"6: NBS with biomass crops","BoCC Red/Amber",0.16496253972147
+"6: NBS with biomass crops","Farmland generalists",-0.0570348503546106
+"6: NBS with biomass crops","Farmland specialists",-0.184834442416351
+"6: NBS with biomass crops","Woodland generalists",0.18072170250611
+"6: NBS with biomass crops","Woodland specialists",0.457374843940191
+"7: NBS with organic farming","All species",0.165172120251002
+"7: NBS with organic farming","BoCC Red/Amber",0.157563773370438
+"7: NBS with organic farming","Farmland generalists",-0.0480916398870315
+"7: NBS with organic farming","Farmland specialists",-0.223722280692349
+"7: NBS with organic farming","Woodland generalists",0.203087754433441
+"7: NBS with organic farming","Woodland specialists",0.457374843940191
+"8: NBS extra","All species",0.179921315122342
+"8: NBS extra","BoCC Red/Amber",0.179575940915551
+"8: NBS extra","Farmland generalists",-0.0555724663112482
+"8: NBS extra","Farmland specialists",-0.185195656579469
+"8: NBS extra","Woodland generalists",0.172360795876109
+"8: NBS extra","Woodland specialists",0.462630725322916

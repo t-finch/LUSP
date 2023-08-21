@@ -1,0 +1,775 @@
+"scenario","year","gwp_t"
+"0: Baseline",2015,43.0134872862861
+"0: Baseline",2016,43.5246412628641
+"0: Baseline",2017,46.6955840500489
+"0: Baseline",2018,47.0923757611269
+"0: Baseline",2019,47.7220781219148
+"0: Baseline",2020,48.3791793987848
+"0: Baseline",2021,48.9373971938151
+"0: Baseline",2022,49.3068511080369
+"0: Baseline",2023,49.6696599806092
+"0: Baseline",2024,49.9094989485001
+"0: Baseline",2025,50.2425618494563
+"0: Baseline",2026,50.6501146503667
+"0: Baseline",2027,50.5909940650905
+"0: Baseline",2028,51.0867171671513
+"0: Baseline",2029,51.3809653183429
+"0: Baseline",2030,51.8118531273808
+"0: Baseline",2031,52.2609539477045
+"0: Baseline",2032,52.8902659851164
+"0: Baseline",2033,53.525950459088
+"0: Baseline",2034,53.939555136818
+"0: Baseline",2035,54.4753748301728
+"0: Baseline",2036,55.2045298166781
+"0: Baseline",2037,54.4410260211555
+"0: Baseline",2038,54.6782149236062
+"0: Baseline",2039,54.5310349122158
+"0: Baseline",2040,55.8817658241532
+"0: Baseline",2041,56.6380268112758
+"0: Baseline",2042,56.9155887174624
+"0: Baseline",2043,57.2980803853644
+"0: Baseline",2044,57.3596013443845
+"0: Baseline",2045,57.7666166187195
+"0: Baseline",2046,58.2304128181422
+"0: Baseline",2047,57.2950231025302
+"0: Baseline",2048,57.539176019394
+"0: Baseline",2049,57.4538947124003
+"0: Baseline",2050,57.6455817568607
+"0: Baseline",2051,57.7576070796486
+"0: Baseline",2052,57.6532869530528
+"0: Baseline",2053,57.5680098815509
+"0: Baseline",2054,57.3058805280687
+"0: Baseline",2055,57.448328739733
+"0: Baseline",2056,57.6450813042624
+"0: Baseline",2057,56.2613891580577
+"0: Baseline",2058,56.1954719753536
+"0: Baseline",2059,55.971476229615
+"0: Baseline",2060,59.4888580577769
+"0: Baseline",2061,59.814115820878
+"0: Baseline",2062,60.6049602539828
+"0: Baseline",2063,61.0849080054118
+"0: Baseline",2064,61.5084212084811
+"0: Baseline",2065,61.9214606297486
+"0: Baseline",2066,62.3347368910502
+"0: Baseline",2067,60.3003663606666
+"0: Baseline",2068,60.4783709261218
+"0: Baseline",2069,60.5015714658847
+"0: Baseline",2070,60.5470278636623
+"0: Baseline",2071,60.6552086390114
+"0: Baseline",2072,60.6597112335111
+"0: Baseline",2073,60.7096923233109
+"0: Baseline",2074,60.6057970175475
+"0: Baseline",2075,60.5707485380539
+"0: Baseline",2076,60.5382781297228
+"0: Baseline",2077,58.9655723206918
+"0: Baseline",2078,59.0319929025246
+"0: Baseline",2079,59.0321865980695
+"0: Baseline",2080,61.3279558572492
+"0: Baseline",2081,61.4365818585427
+"0: Baseline",2082,61.5054385046911
+"0: Baseline",2083,62.0030884758107
+"0: Baseline",2084,62.5132681885555
+"0: Baseline",2085,62.8641533153778
+"0: Baseline",2086,63.2189516854784
+"0: Baseline",2087,63.2451226873911
+"0: Baseline",2088,63.4714724214376
+"0: Baseline",2089,63.8634573118551
+"0: Baseline",2090,64.0155531869574
+"0: Baseline",2091,64.2152367064886
+"0: Baseline",2092,64.4353479652255
+"0: Baseline",2093,65.3982702603359
+"0: Baseline",2094,65.7848976569917
+"0: Baseline",2095,65.9550062734538
+"0: Baseline",2096,66.1894147365632
+"0: Baseline",2097,66.1477104751461
+"0: Baseline",2098,66.1488092631675
+"0: Baseline",2099,66.2833230208532
+"0: Baseline",2100,63.8527940998552
+"1: On Farm Measures (Organic)",2015,43.0134872862861
+"1: On Farm Measures (Organic)",2016,43.5233383308599
+"1: On Farm Measures (Organic)",2017,46.6929781860405
+"1: On Farm Measures (Organic)",2018,47.0884669651142
+"1: On Farm Measures (Organic)",2019,47.716866393898
+"1: On Farm Measures (Organic)",2020,48.5415055617948
+"1: On Farm Measures (Organic)",2021,48.8718845805675
+"1: On Farm Measures (Organic)",2022,48.1718268678931
+"1: On Farm Measures (Organic)",2023,47.5186170210514
+"1: On Farm Measures (Organic)",2024,46.7503005364162
+"1: On Farm Measures (Organic)",2025,45.8926959824372
+"1: On Farm Measures (Organic)",2026,45.0961142967704
+"1: On Farm Measures (Organic)",2027,44.2289471711941
+"1: On Farm Measures (Organic)",2028,43.9108605302412
+"1: On Farm Measures (Organic)",2029,43.3980637710166
+"1: On Farm Measures (Organic)",2030,42.9571647927136
+"1: On Farm Measures (Organic)",2031,42.4670276356602
+"1: On Farm Measures (Organic)",2032,42.2412176154296
+"1: On Farm Measures (Organic)",2033,42.0242342401002
+"1: On Farm Measures (Organic)",2034,41.5951962635877
+"1: On Farm Measures (Organic)",2035,41.2860216666589
+"1: On Farm Measures (Organic)",2036,41.2368466139936
+"1: On Farm Measures (Organic)",2037,39.9723529568257
+"1: On Farm Measures (Organic)",2038,39.6432532032126
+"1: On Farm Measures (Organic)",2039,38.9531427142421
+"1: On Farm Measures (Organic)",2040,39.7528806397764
+"1: On Farm Measures (Organic)",2041,40.0635410954886
+"1: On Farm Measures (Organic)",2042,39.8948214394372
+"1: On Farm Measures (Organic)",2043,39.8333603490072
+"1: On Farm Measures (Organic)",2044,39.4646212570481
+"1: On Farm Measures (Organic)",2045,39.3927881705172
+"1: On Farm Measures (Organic)",2046,39.5276616552546
+"1: On Farm Measures (Organic)",2047,38.2981724808371
+"1: On Farm Measures (Organic)",2048,38.2137076438972
+"1: On Farm Measures (Organic)",2049,37.811227463023
+"1: On Farm Measures (Organic)",2050,37.7659724176989
+"1: On Farm Measures (Organic)",2051,37.8608588202512
+"1: On Farm Measures (Organic)",2052,37.7373542847468
+"1: On Farm Measures (Organic)",2053,37.6317400698373
+"1: On Farm Measures (Organic)",2054,37.3534528389985
+"1: On Farm Measures (Organic)",2055,37.4725583850791
+"1: On Farm Measures (Organic)",2056,38.1924750189639
+"1: On Farm Measures (Organic)",2057,36.8532291596469
+"1: On Farm Measures (Organic)",2058,36.802856287611
+"1: On Farm Measures (Organic)",2059,36.592646612841
+"1: On Farm Measures (Organic)",2060,40.0213531712377
+"1: On Farm Measures (Organic)",2061,40.3944582322094
+"1: On Farm Measures (Organic)",2062,41.2267180851724
+"1: On Farm Measures (Organic)",2063,41.7506051489353
+"1: On Farm Measures (Organic)",2064,42.2093712604144
+"1: On Farm Measures (Organic)",2065,44.4233150940453
+"1: On Farm Measures (Organic)",2066,44.9546209284612
+"1: On Farm Measures (Organic)",2067,43.1427615360473
+"1: On Farm Measures (Organic)",2068,43.4910536478131
+"1: On Farm Measures (Organic)",2069,43.6686056901405
+"1: On Farm Measures (Organic)",2070,43.8641376711917
+"1: On Farm Measures (Organic)",2071,44.4295533729341
+"1: On Farm Measures (Organic)",2072,44.5955000596827
+"1: On Farm Measures (Organic)",2073,44.8319240565644
+"1: On Farm Measures (Organic)",2074,44.9071432410856
+"1: On Farm Measures (Organic)",2075,45.054246284999
+"1: On Farm Measures (Organic)",2076,45.0917209291175
+"1: On Farm Measures (Organic)",2077,43.6792181573927
+"1: On Farm Measures (Organic)",2078,43.8200641331996
+"1: On Farm Measures (Organic)",2079,43.8809801565746
+"1: On Farm Measures (Organic)",2080,46.1929036245639
+"1: On Farm Measures (Organic)",2081,46.7329994257243
+"1: On Farm Measures (Organic)",2082,46.8788840111866
+"1: On Farm Measures (Organic)",2083,47.4165544682535
+"1: On Farm Measures (Organic)",2084,47.933202907409
+"1: On Farm Measures (Organic)",2085,48.2997408023375
+"1: On Farm Measures (Organic)",2086,47.9149601152274
+"1: On Farm Measures (Organic)",2087,47.8997184330447
+"1: On Farm Measures (Organic)",2088,48.0386776161157
+"1: On Farm Measures (Organic)",2089,48.3583337404934
+"1: On Farm Measures (Organic)",2090,48.4564222086025
+"1: On Farm Measures (Organic)",2091,48.5743922542036
+"1: On Farm Measures (Organic)",2092,48.7041372618579
+"1: On Farm Measures (Organic)",2093,49.5721425153685
+"1: On Farm Measures (Organic)",2094,50.4629923591611
+"1: On Farm Measures (Organic)",2095,48.8468183392804
+"1: On Farm Measures (Organic)",2096,48.5162384880528
+"1: On Farm Measures (Organic)",2097,48.331698678373
+"1: On Farm Measures (Organic)",2098,48.1367310099604
+"1: On Farm Measures (Organic)",2099,48.113795540563
+"1: On Farm Measures (Organic)",2100,45.621311504976
+"2: On Farm Measures (Balanced)",2015,43.0134872862861
+"2: On Farm Measures (Balanced)",2016,43.5235988843075
+"2: On Farm Measures (Balanced)",2017,46.6934992929357
+"2: On Farm Measures (Balanced)",2018,47.0892486254571
+"2: On Farm Measures (Balanced)",2019,47.7179086076884
+"2: On Farm Measures (Balanced)",2020,48.5457468145522
+"2: On Farm Measures (Balanced)",2021,49.0354336901062
+"2: On Farm Measures (Balanced)",2022,48.6128487878443
+"2: On Farm Measures (Balanced)",2023,48.2249055320093
+"2: On Farm Measures (Balanced)",2024,47.7098715646544
+"2: On Farm Measures (Balanced)",2025,47.0650554190593
+"2: On Farm Measures (Balanced)",2026,46.3889158971871
+"2: On Farm Measures (Balanced)",2027,45.5545179735021
+"2: On Farm Measures (Balanced)",2028,45.2675486951395
+"2: On Farm Measures (Balanced)",2029,44.7838739974367
+"2: On Farm Measures (Balanced)",2030,44.3490388186241
+"2: On Farm Measures (Balanced)",2031,43.7178506360859
+"2: On Farm Measures (Balanced)",2032,43.3699878589714
+"2: On Farm Measures (Balanced)",2033,43.0338785194289
+"2: On Farm Measures (Balanced)",2034,42.4881864718162
+"2: On Farm Measures (Balanced)",2035,42.0639301047005
+"2: On Farm Measures (Balanced)",2036,41.6674745312152
+"2: On Farm Measures (Balanced)",2037,40.058624695618
+"2: On Farm Measures (Balanced)",2038,39.3878245955945
+"2: On Farm Measures (Balanced)",2039,38.3584362647358
+"2: On Farm Measures (Balanced)",2040,38.8171085491579
+"2: On Farm Measures (Balanced)",2041,38.7632500730155
+"2: On Farm Measures (Balanced)",2042,38.2324880014965
+"2: On Farm Measures (Balanced)",2043,37.8105615265565
+"2: On Farm Measures (Balanced)",2044,37.0828141448969
+"2: On Farm Measures (Balanced)",2045,36.6486827679662
+"2: On Farm Measures (Balanced)",2046,36.4202950717656
+"2: On Farm Measures (Balanced)",2047,35.2745728319955
+"2: On Farm Measures (Balanced)",2048,34.8600320143204
+"2: On Farm Measures (Balanced)",2049,34.1435849857178
+"2: On Farm Measures (Balanced)",2050,33.8185122281276
+"2: On Farm Measures (Balanced)",2051,33.7747012260065
+"2: On Farm Measures (Balanced)",2052,36.1831394781782
+"2: On Farm Measures (Balanced)",2053,36.0785529261565
+"2: On Farm Measures (Balanced)",2054,35.8870786608203
+"2: On Farm Measures (Balanced)",2055,36.0284472097942
+"2: On Farm Measures (Balanced)",2056,36.9069458763251
+"2: On Farm Measures (Balanced)",2057,37.6803264480944
+"2: On Farm Measures (Balanced)",2058,37.8761706681844
+"2: On Farm Measures (Balanced)",2059,37.9680122995238
+"2: On Farm Measures (Balanced)",2060,41.5692471670715
+"2: On Farm Measures (Balanced)",2061,42.2712615217451
+"2: On Farm Measures (Balanced)",2062,43.4184529606968
+"2: On Farm Measures (Balanced)",2063,44.2423215168208
+"2: On Farm Measures (Balanced)",2064,44.9895550530211
+"2: On Farm Measures (Balanced)",2065,46.7510496305213
+"2: On Farm Measures (Balanced)",2066,47.2768825492272
+"2: On Farm Measures (Balanced)",2067,45.4400149423096
+"2: On Farm Measures (Balanced)",2068,45.7613077199938
+"2: On Farm Measures (Balanced)",2069,45.9083186273756
+"2: On Farm Measures (Balanced)",2070,46.0516995940696
+"2: On Farm Measures (Balanced)",2071,46.6283592519378
+"2: On Farm Measures (Balanced)",2072,46.7978415900626
+"2: On Farm Measures (Balanced)",2073,47.0383277158029
+"2: On Farm Measures (Balanced)",2074,47.1159498519733
+"2: On Farm Measures (Balanced)",2075,47.2751973038801
+"2: On Farm Measures (Balanced)",2076,47.6963131411647
+"2: On Farm Measures (Balanced)",2077,41.1561178198249
+"2: On Farm Measures (Balanced)",2078,40.9837802031149
+"2: On Farm Measures (Balanced)",2079,40.5488242344704
+"2: On Farm Measures (Balanced)",2080,42.4701887209423
+"2: On Farm Measures (Balanced)",2081,45.3320169002914
+"2: On Farm Measures (Balanced)",2082,45.2972952140179
+"2: On Farm Measures (Balanced)",2083,45.7829612782396
+"2: On Farm Measures (Balanced)",2084,46.2027198312513
+"2: On Farm Measures (Balanced)",2085,46.6233721553717
+"2: On Farm Measures (Balanced)",2086,48.2616102732745
+"2: On Farm Measures (Balanced)",2087,48.4199460367958
+"2: On Farm Measures (Balanced)",2088,48.7997564460478
+"2: On Farm Measures (Balanced)",2089,49.2406497723797
+"2: On Farm Measures (Balanced)",2090,49.6445579093186
+"2: On Farm Measures (Balanced)",2091,50.0668178780555
+"2: On Farm Measures (Balanced)",2092,50.4863773897266
+"2: On Farm Measures (Balanced)",2093,51.6246887453252
+"2: On Farm Measures (Balanced)",2094,52.6396074268367
+"2: On Farm Measures (Balanced)",2095,51.6279391404966
+"2: On Farm Measures (Balanced)",2096,51.3201433673051
+"2: On Farm Measures (Balanced)",2097,51.1718250439208
+"2: On Farm Measures (Balanced)",2098,51.004721489732
+"2: On Farm Measures (Balanced)",2099,50.9790310833083
+"2: On Farm Measures (Balanced)",2100,48.5446395454849
+"3: Balanced Pathway",2015,43.0134872862861
+"3: Balanced Pathway",2016,43.5235988843075
+"3: Balanced Pathway",2017,46.6934992929357
+"3: Balanced Pathway",2018,47.0892486254571
+"3: Balanced Pathway",2019,47.7179086076884
+"3: Balanced Pathway",2020,48.5457257674756
+"3: Balanced Pathway",2021,48.7294272219225
+"3: Balanced Pathway",2022,48.004668739153
+"3: Balanced Pathway",2023,47.3183193358674
+"3: Balanced Pathway",2024,46.5086026805155
+"3: Balanced Pathway",2025,45.5749697025311
+"3: Balanced Pathway",2026,44.5007643514875
+"3: Balanced Pathway",2027,43.2700330236277
+"3: Balanced Pathway",2028,42.5911207210866
+"3: Balanced Pathway",2029,41.7198552950016
+"3: Balanced Pathway",2030,40.9034477685313
+"3: Balanced Pathway",2031,39.6787993161588
+"3: Balanced Pathway",2032,38.7397621793176
+"3: Balanced Pathway",2033,37.817083701903
+"3: Balanced Pathway",2034,36.6893734529538
+"3: Balanced Pathway",2035,35.6787968246752
+"3: Balanced Pathway",2036,34.3353214830671
+"3: Balanced Pathway",2037,31.7835665042275
+"3: Balanced Pathway",2038,30.1739254230457
+"3: Balanced Pathway",2039,28.2097092925801
+"3: Balanced Pathway",2040,27.6160162017362
+"3: Balanced Pathway",2041,26.6455847976728
+"3: Balanced Pathway",2042,25.1596906799954
+"3: Balanced Pathway",2043,23.7858973994802
+"3: Balanced Pathway",2044,22.1095042876956
+"3: Balanced Pathway",2045,20.5449894838552
+"3: Balanced Pathway",2046,19.4758741263269
+"3: Balanced Pathway",2047,17.4190119282491
+"3: Balanced Pathway",2048,16.0979373005352
+"3: Balanced Pathway",2049,14.4781984727602
+"3: Balanced Pathway",2050,13.0783096090529
+"3: Balanced Pathway",2051,12.3978789898934
+"3: Balanced Pathway",2052,14.1069117779344
+"3: Balanced Pathway",2053,13.299137310461
+"3: Balanced Pathway",2054,12.403509895487
+"3: Balanced Pathway",2055,11.6606814560372
+"3: Balanced Pathway",2056,12.0544154412493
+"3: Balanced Pathway",2057,12.2707706035935
+"3: Balanced Pathway",2058,11.9103252155557
+"3: Balanced Pathway",2059,11.4448515170347
+"3: Balanced Pathway",2060,14.3282926494295
+"3: Balanced Pathway",2061,15.2191878563416
+"3: Balanced Pathway",2062,16.4848138310721
+"3: Balanced Pathway",2063,17.4264391077351
+"3: Balanced Pathway",2064,18.2905683528303
+"3: Balanced Pathway",2065,19.9740684388936
+"3: Balanced Pathway",2066,21.0636421771836
+"3: Balanced Pathway",2067,19.7176777171493
+"3: Balanced Pathway",2068,20.5279517878481
+"3: Balanced Pathway",2069,21.1632217037693
+"3: Balanced Pathway",2070,21.9257538229957
+"3: Balanced Pathway",2071,24.2463756508116
+"3: Balanced Pathway",2072,24.8971078297686
+"3: Balanced Pathway",2073,25.7268063551272
+"3: Balanced Pathway",2074,26.3555935059819
+"3: Balanced Pathway",2075,27.2560287725671
+"3: Balanced Pathway",2076,29.0119770311238
+"3: Balanced Pathway",2077,23.0777830135854
+"3: Balanced Pathway",2078,23.5740988702388
+"3: Balanced Pathway",2079,23.7477721501581
+"3: Balanced Pathway",2080,26.3936271185415
+"3: Balanced Pathway",2081,31.6117333302474
+"3: Balanced Pathway",2082,32.2393254712244
+"3: Balanced Pathway",2083,33.5575003151663
+"3: Balanced Pathway",2084,34.6516046384683
+"3: Balanced Pathway",2085,35.8533109932858
+"3: Balanced Pathway",2086,38.6855557123514
+"3: Balanced Pathway",2087,39.400389824077
+"3: Balanced Pathway",2088,40.3601467050354
+"3: Balanced Pathway",2089,41.2536978343412
+"3: Balanced Pathway",2090,42.2239976484981
+"3: Balanced Pathway",2091,42.1775141514188
+"3: Balanced Pathway",2092,42.8349375126381
+"3: Balanced Pathway",2093,44.0481993281842
+"3: Balanced Pathway",2094,45.1883203644033
+"3: Balanced Pathway",2095,44.4283749266532
+"3: Balanced Pathway",2096,44.8246885217982
+"3: Balanced Pathway",2097,44.7233662603094
+"3: Balanced Pathway",2098,44.5520872582148
+"3: Balanced Pathway",2099,44.6564681627738
+"3: Balanced Pathway",2100,42.3229222825757
+"4: Widespread Engagement",2015,43.0134872862861
+"4: Widespread Engagement",2016,43.5235988843075
+"4: Widespread Engagement",2017,46.6934992929357
+"4: Widespread Engagement",2018,47.0892486254571
+"4: Widespread Engagement",2019,47.7179086076884
+"4: Widespread Engagement",2020,48.5439811646714
+"4: Widespread Engagement",2021,48.7224268669346
+"4: Widespread Engagement",2022,47.9536214408558
+"4: Widespread Engagement",2023,47.2245206538861
+"4: Widespread Engagement",2024,46.3732874264903
+"4: Widespread Engagement",2025,45.4190664345722
+"4: Widespread Engagement",2026,44.2914396512942
+"4: Widespread Engagement",2027,43.0238405489846
+"4: Widespread Engagement",2028,42.310118601508
+"4: Widespread Engagement",2029,41.4059847088731
+"4: Widespread Engagement",2030,40.5717222534432
+"4: Widespread Engagement",2031,39.2856151627781
+"4: Widespread Engagement",2032,38.2945407003342
+"4: Widespread Engagement",2033,37.3235140056981
+"4: Widespread Engagement",2034,36.1509261835802
+"4: Widespread Engagement",2035,35.0966996628621
+"4: Widespread Engagement",2036,33.745415497701
+"4: Widespread Engagement",2037,31.1877474546305
+"4: Widespread Engagement",2038,29.573964208258
+"4: Widespread Engagement",2039,27.607264390022
+"4: Widespread Engagement",2040,27.0121847837898
+"4: Widespread Engagement",2041,25.9039068433525
+"4: Widespread Engagement",2042,24.2813986607891
+"4: Widespread Engagement",2043,22.7725586440062
+"4: Widespread Engagement",2044,20.9626173030555
+"4: Widespread Engagement",2045,19.1856449942894
+"4: Widespread Engagement",2046,17.9569407760064
+"4: Widespread Engagement",2047,15.2700784955661
+"4: Widespread Engagement",2048,13.7339134165015
+"4: Widespread Engagement",2049,11.8852593107984
+"4: Widespread Engagement",2050,10.1014679926698
+"4: Widespread Engagement",2051,9.30866188224794
+"4: Widespread Engagement",2052,8.16543369406203
+"4: Widespread Engagement",2053,7.03150112472199
+"4: Widespread Engagement",2054,5.7172009523633
+"4: Widespread Engagement",2055,4.57826082484848
+"4: Widespread Engagement",2056,4.8574187032787
+"4: Widespread Engagement",2057,2.97993328888031
+"4: Widespread Engagement",2058,2.3862760016095
+"4: Widespread Engagement",2059,1.62821669097627
+"4: Widespread Engagement",2060,4.23894874136827
+"4: Widespread Engagement",2061,4.79432265358636
+"4: Widespread Engagement",2062,5.70287802170457
+"4: Widespread Engagement",2063,6.29992481061519
+"4: Widespread Engagement",2064,6.82896454905124
+"4: Widespread Engagement",2065,8.86768321850028
+"4: Widespread Engagement",2066,10.1101234276573
+"4: Widespread Engagement",2067,8.91119127339951
+"4: Widespread Engagement",2068,9.87030296799908
+"4: Widespread Engagement",2069,10.6567125754488
+"4: Widespread Engagement",2070,11.634841382128
+"4: Widespread Engagement",2071,14.2242824189478
+"4: Widespread Engagement",2072,15.1614028090004
+"4: Widespread Engagement",2073,16.2745039398033
+"4: Widespread Engagement",2074,17.1876563360161
+"4: Widespread Engagement",2075,18.4456959032735
+"4: Widespread Engagement",2076,21.1164142454174
+"4: Widespread Engagement",2077,20.5835428788736
+"4: Widespread Engagement",2078,21.7632073018324
+"4: Widespread Engagement",2079,22.7679067117
+"4: Widespread Engagement",2080,26.1973762608761
+"4: Widespread Engagement",2081,30.4716467262911
+"4: Widespread Engagement",2082,31.592498072441
+"4: Widespread Engagement",2083,33.3569306059573
+"4: Widespread Engagement",2084,34.8805735357291
+"4: Widespread Engagement",2085,36.3768679625311
+"4: Widespread Engagement",2086,36.3807501672653
+"4: Widespread Engagement",2087,37.1816848746181
+"4: Widespread Engagement",2088,38.0464029133992
+"4: Widespread Engagement",2089,38.9075179216305
+"4: Widespread Engagement",2090,39.7479016975379
+"4: Widespread Engagement",2091,40.4664008510344
+"4: Widespread Engagement",2092,40.8822660790928
+"4: Widespread Engagement",2093,41.9894811542776
+"4: Widespread Engagement",2094,43.1038126449867
+"4: Widespread Engagement",2095,41.8855275539082
+"4: Widespread Engagement",2096,42.331906738645
+"4: Widespread Engagement",2097,42.2834341976783
+"4: Widespread Engagement",2098,42.0996251275376
+"4: Widespread Engagement",2099,42.3747331374209
+"4: Widespread Engagement",2100,40.1328850760051
+"5: NBS",2015,43.0134872862861
+"5: NBS",2016,43.5233383308599
+"5: NBS",2017,46.6929781860405
+"5: NBS",2018,47.0884669651142
+"5: NBS",2019,47.716866393898
+"5: NBS",2020,48.8639717952708
+"5: NBS",2021,48.9867663570474
+"5: NBS",2022,47.7055434146953
+"5: NBS",2023,46.523216831451
+"5: NBS",2024,45.2086239063439
+"5: NBS",2025,43.8220382664516
+"5: NBS",2026,42.2481442920224
+"5: NBS",2027,40.6055656514051
+"5: NBS",2028,39.4933433929334
+"5: NBS",2029,38.1817114982982
+"5: NBS",2030,36.9455379805605
+"5: NBS",2031,35.2326337596652
+"5: NBS",2032,33.7951524962397
+"5: NBS",2033,32.3682298995245
+"5: NBS",2034,30.7391930174036
+"5: NBS",2035,29.3194985739484
+"5: NBS",2036,27.4700699823691
+"5: NBS",2037,24.4324453497407
+"5: NBS",2038,22.2863024348358
+"5: NBS",2039,19.8167122368944
+"5: NBS",2040,18.5522085661541
+"5: NBS",2041,17.3849176578628
+"5: NBS",2042,15.7080021263434
+"5: NBS",2043,14.1328321648613
+"5: NBS",2044,12.2810050320284
+"5: NBS",2045,10.3494837611064
+"5: NBS",2046,9.06947566461396
+"5: NBS",2047,6.39242405582312
+"5: NBS",2048,4.78461903956163
+"5: NBS",2049,2.89176880254385
+"5: NBS",2050,0.558095533346662
+"5: NBS",2051,-0.93017079915884
+"5: NBS",2052,-2.28417031198692
+"5: NBS",2053,-3.69654277500162
+"5: NBS",2054,-5.24668947022362
+"5: NBS",2055,-6.70497530708799
+"5: NBS",2056,-6.5752832170663
+"5: NBS",2057,-8.41903497255065
+"5: NBS",2058,-9.1339875974144
+"5: NBS",2059,-9.98418270141441
+"5: NBS",2060,-7.8809158381906
+"5: NBS",2061,-7.30842512752122
+"5: NBS",2062,-6.42630299210537
+"5: NBS",2063,-5.8396826140247
+"5: NBS",2064,-5.31025423877213
+"5: NBS",2065,-3.34432334241025
+"5: NBS",2066,-2.05979608911811
+"5: NBS",2067,-3.08139150381957
+"5: NBS",2068,-2.06754149387034
+"5: NBS",2069,-1.21378357016132
+"5: NBS",2070,-0.101437605451326
+"5: NBS",2071,2.98011742561853
+"5: NBS",2072,4.02716691892476
+"5: NBS",2073,5.3062974445996
+"5: NBS",2074,6.36996941851136
+"5: NBS",2075,7.83489103842132
+"5: NBS",2076,11.1332062811887
+"5: NBS",2077,11.0029636049707
+"5: NBS",2078,12.4197614286409
+"5: NBS",2079,13.6360691357401
+"5: NBS",2080,17.0439449832005
+"5: NBS",2081,22.4650376935134
+"5: NBS",2082,23.8328453463712
+"5: NBS",2083,25.8959566021657
+"5: NBS",2084,27.6323066404515
+"5: NBS",2085,29.3998984416567
+"5: NBS",2086,29.3448285659418
+"5: NBS",2087,30.3094923488959
+"5: NBS",2088,31.2813691605375
+"5: NBS",2089,32.1957808180996
+"5: NBS",2090,33.1569900863888
+"5: NBS",2091,33.6241172433753
+"5: NBS",2092,34.0419695002945
+"5: NBS",2093,35.039098794159
+"5: NBS",2094,36.1111131143558
+"5: NBS",2095,34.9239417888102
+"5: NBS",2096,35.8306507968785
+"5: NBS",2097,35.7738901629168
+"5: NBS",2098,35.5688496521117
+"5: NBS",2099,35.8538815306874
+"5: NBS",2100,33.87977069677
+"6: NBS with biomass crops",2015,43.0134872862861
+"6: NBS with biomass crops",2016,43.5233383308599
+"6: NBS with biomass crops",2017,46.6929781860405
+"6: NBS with biomass crops",2018,47.0884669651142
+"6: NBS with biomass crops",2019,47.716866393898
+"6: NBS with biomass crops",2020,48.8617740869374
+"6: NBS with biomass crops",2021,48.9726546631568
+"6: NBS with biomass crops",2022,47.6809882906848
+"6: NBS with biomass crops",2023,46.4892105188184
+"6: NBS with biomass crops",2024,45.1660483724999
+"6: NBS with biomass crops",2025,43.7632661964335
+"6: NBS with biomass crops",2026,42.1378248557988
+"6: NBS with biomass crops",2027,40.4495774911847
+"6: NBS with biomass crops",2028,39.2958121905733
+"6: NBS with biomass crops",2029,37.9462874341473
+"6: NBS with biomass crops",2030,36.6677913168662
+"6: NBS with biomass crops",2031,34.8829300532936
+"6: NBS with biomass crops",2032,33.3809111087547
+"6: NBS with biomass crops",2033,31.8949935870704
+"6: NBS with biomass crops",2034,30.2118749461119
+"6: NBS with biomass crops",2035,28.7421687359987
+"6: NBS with biomass crops",2036,26.8465686408938
+"6: NBS with biomass crops",2037,23.7661552571675
+"6: NBS with biomass crops",2038,21.5802360668083
+"6: NBS with biomass crops",2039,19.0735566733262
+"6: NBS with biomass crops",2040,17.7738621424008
+"6: NBS with biomass crops",2041,16.573490970982
+"6: NBS with biomass crops",2042,14.8657601456431
+"6: NBS with biomass crops",2043,13.2614945270273
+"6: NBS with biomass crops",2044,11.382122770896
+"6: NBS with biomass crops",2045,9.42310458406166
+"6: NBS with biomass crops",2046,8.11683885085172
+"6: NBS with biomass crops",2047,5.41604477062275
+"6: NBS with biomass crops",2048,3.7855589091459
+"6: NBS with biomass crops",2049,1.87100202595035
+"6: NBS with biomass crops",2050,-0.47051826983034
+"6: NBS with biomass crops",2051,-1.89217089379887
+"6: NBS with biomass crops",2052,-3.18926498756657
+"6: NBS with biomass crops",2053,-4.5517477647867
+"6: NBS with biomass crops",2054,-6.05815555447426
+"6: NBS with biomass crops",2055,-7.47809408310975
+"6: NBS with biomass crops",2056,-7.31478232593804
+"6: NBS with biomass crops",2057,-9.12906006370896
+"6: NBS with biomass crops",2058,-9.81817245213994
+"6: NBS with biomass crops",2059,-10.6457131007687
+"6: NBS with biomass crops",2060,-8.52293781579514
+"6: NBS with biomass crops",2061,-7.9333873531021
+"6: NBS with biomass crops",2062,-7.03599922484205
+"6: NBS with biomass crops",2063,-6.43599496173049
+"6: NBS with biomass crops",2064,-5.89483276868118
+"6: NBS with biomass crops",2065,-3.9199685061994
+"6: NBS with biomass crops",2066,-2.62777616907175
+"6: NBS with biomass crops",2067,-3.64146460143423
+"6: NBS with biomass crops",2068,-2.62068244212228
+"6: NBS with biomass crops",2069,-1.76084701719636
+"6: NBS with biomass crops",2070,-0.641466862631213
+"6: NBS with biomass crops",2071,2.44646545469599
+"6: NBS with biomass crops",2072,3.49761034948361
+"6: NBS with biomass crops",2073,4.78033136436814
+"6: NBS with biomass crops",2074,5.84715116464649
+"6: NBS with biomass crops",2075,7.31483339086514
+"6: NBS with biomass crops",2076,10.615568998386
+"6: NBS with biomass crops",2077,10.4874475249955
+"6: NBS with biomass crops",2078,11.9061050334604
+"6: NBS with biomass crops",2079,13.1240431492557
+"6: NBS with biomass crops",2080,16.5329953763144
+"6: NBS with biomass crops",2081,21.9549882389738
+"6: NBS with biomass crops",2082,23.3238945634651
+"6: NBS with biomass crops",2083,25.3879690382901
+"6: NBS with biomass crops",2084,27.1251635426317
+"6: NBS with biomass crops",2085,28.8921418803959
+"6: NBS with biomass crops",2086,28.8363672647811
+"6: NBS with biomass crops",2087,29.8016001019258
+"6: NBS with biomass crops",2088,30.7739758104253
+"6: NBS with biomass crops",2089,31.6888248570427
+"6: NBS with biomass crops",2090,32.6521235589893
+"6: NBS with biomass crops",2091,33.1212928732224
+"6: NBS with biomass crops",2092,33.5394398703187
+"6: NBS with biomass crops",2093,34.5368275665476
+"6: NBS with biomass crops",2094,35.6090684312981
+"6: NBS with biomass crops",2095,34.4220965881091
+"6: NBS with biomass crops",2096,35.3289805918366
+"6: NBS with biomass crops",2097,35.2723726178033
+"6: NBS with biomass crops",2098,35.0674659458486
+"6: NBS with biomass crops",2099,35.3526151626022
+"6: NBS with biomass crops",2100,33.3782541806172
+"7: NBS with organic farming",2015,43.0134872862861
+"7: NBS with organic farming",2016,43.5233383308599
+"7: NBS with organic farming",2017,46.6929781860405
+"7: NBS with organic farming",2018,47.0884669651142
+"7: NBS with organic farming",2019,47.716866393898
+"7: NBS with organic farming",2020,48.8639717952708
+"7: NBS with organic farming",2021,48.8629444920729
+"7: NBS with organic farming",2022,47.4645711821793
+"7: NBS with organic farming",2023,46.1715922796713
+"7: NBS with organic farming",2024,44.7526728327233
+"7: NBS with organic farming",2025,43.268298073161
+"7: NBS with organic farming",2026,41.5940377292567
+"7: NBS with organic farming",2027,39.8504725955363
+"7: NBS with organic farming",2028,38.6417072335794
+"7: NBS with organic farming",2029,37.237946418504
+"7: NBS with organic farming",2030,35.9142676150907
+"7: NBS with organic farming",2031,34.1172085134944
+"7: NBS with organic farming",2032,32.5841133147364
+"7: NBS with organic farming",2033,31.0634227533386
+"7: NBS with organic farming",2034,29.3424616813962
+"7: NBS with organic farming",2035,27.8314573717029
+"7: NBS with organic farming",2036,26.0094929720436
+"7: NBS with organic farming",2037,22.9991461402033
+"7: NBS with organic farming",2038,20.8800947065333
+"7: NBS with organic farming",2039,18.4374097413277
+"7: NBS with organic farming",2040,17.1993548247841
+"7: NBS with organic farming",2041,16.057504883571
+"7: NBS with organic farming",2042,14.4058789073766
+"7: NBS with organic farming",2043,12.8558470911125
+"7: NBS with organic farming",2044,11.0290066955213
+"7: NBS with organic farming",2045,9.12232075580896
+"7: NBS with organic farming",2046,7.86786887655625
+"7: NBS with organic farming",2047,5.21618955630804
+"7: NBS with organic farming",2048,3.63357290195574
+"7: NBS with organic farming",2049,1.76572710263029
+"7: NBS with organic farming",2050,-0.553546547967538
+"7: NBS with organic farming",2051,-2.04181288047304
+"7: NBS with organic farming",2052,-3.39581239330112
+"7: NBS with organic farming",2053,-4.80818485631582
+"7: NBS with organic farming",2054,-6.35833155153782
+"7: NBS with organic farming",2055,-7.81661738840219
+"7: NBS with organic farming",2056,-7.6869252983805
+"7: NBS with organic farming",2057,-9.53067705386485
+"7: NBS with organic farming",2058,-10.2456296787286
+"7: NBS with organic farming",2059,-11.0958247827286
+"7: NBS with organic farming",2060,-8.9925579195048
+"7: NBS with organic farming",2061,-8.42006720883542
+"7: NBS with organic farming",2062,-7.53794507341957
+"7: NBS with organic farming",2063,-6.9513246953389
+"7: NBS with organic farming",2064,-6.42189632008633
+"7: NBS with organic farming",2065,-4.45596542372445
+"7: NBS with organic farming",2066,-3.17143817043231
+"7: NBS with organic farming",2067,-4.19303358513377
+"7: NBS with organic farming",2068,-3.17918357518454
+"7: NBS with organic farming",2069,-2.32542565147552
+"7: NBS with organic farming",2070,-1.21307968676553
+"7: NBS with organic farming",2071,1.86847534430433
+"7: NBS with organic farming",2072,2.91552483761056
+"7: NBS with organic farming",2073,4.1946553632854
+"7: NBS with organic farming",2074,5.25832733719716
+"7: NBS with organic farming",2075,6.72324895710712
+"7: NBS with organic farming",2076,10.0215641998745
+"7: NBS with organic farming",2077,9.89132152365652
+"7: NBS with organic farming",2078,11.3081193473267
+"7: NBS with organic farming",2079,12.5244270544259
+"7: NBS with organic farming",2080,15.9323029018863
+"7: NBS with organic farming",2081,21.3533956121992
+"7: NBS with organic farming",2082,22.721203265057
+"7: NBS with organic farming",2083,24.7843145208515
+"7: NBS with organic farming",2084,26.5206645591373
+"7: NBS with organic farming",2085,28.2882563603425
+"7: NBS with organic farming",2086,28.2331864846276
+"7: NBS with organic farming",2087,29.1978502675817
+"7: NBS with organic farming",2088,30.1697270792233
+"7: NBS with organic farming",2089,31.0841387367854
+"7: NBS with organic farming",2090,32.0453480050746
+"7: NBS with organic farming",2091,32.5124751620611
+"7: NBS with organic farming",2092,32.9303274189803
+"7: NBS with organic farming",2093,33.9274567128448
+"7: NBS with organic farming",2094,34.9994710330416
+"7: NBS with organic farming",2095,33.812299707496
+"7: NBS with organic farming",2096,34.7190087155643
+"7: NBS with organic farming",2097,34.6622480816026
+"7: NBS with organic farming",2098,34.4572075707975
+"7: NBS with organic farming",2099,34.7422394493732
+"7: NBS with organic farming",2100,32.7681286154558
+"8: NBS extra",2015,43.0134872862861
+"8: NBS extra",2016,43.5233383308599
+"8: NBS extra",2017,46.6929781860405
+"8: NBS extra",2018,47.0884669651142
+"8: NBS extra",2019,47.716866393898
+"8: NBS extra",2020,48.8839779124569
+"8: NBS extra",2021,48.9568705833008
+"8: NBS extra",2022,47.6270149862823
+"8: NBS extra",2023,46.3973003517976
+"8: NBS extra",2024,45.0365395898374
+"8: NBS extra",2025,43.6449928787206
+"8: NBS extra",2026,42.0345327115019
+"8: NBS extra",2027,40.3543031905258
+"8: NBS extra",2028,39.205202765501
+"8: NBS extra",2029,37.857460496431
+"8: NBS extra",2030,36.5865159651712
+"8: NBS extra",2031,34.8246030151917
+"8: NBS extra",2032,33.3377634086904
+"8: NBS extra",2033,31.8622762208899
+"8: NBS extra",2034,30.1854598963707
+"8: NBS extra",2035,28.7200043166866
+"8: NBS extra",2036,26.8059297674893
+"8: NBS extra",2037,23.7039885021405
+"8: NBS extra",2038,21.4938558504694
+"8: NBS extra",2039,18.9606004254019
+"8: NBS extra",2040,17.6315736990476
+"8: NBS extra",2041,16.3886657462625
+"8: NBS extra",2042,14.6363018752311
+"8: NBS extra",2043,12.9858505277806
+"8: NBS extra",2044,11.0589072493132
+"8: NBS extra",2045,9.05240894789683
+"8: NBS extra",2046,7.70196919807531
+"8: NBS extra",2047,4.95464491231102
+"8: NBS extra",2048,3.27672463416798
+"8: NBS extra",2049,1.31391502305438
+"8: NBS extra",2050,-1.1108581916921
+"8: NBS extra",2051,-2.61938112978985
+"8: NBS extra",2052,-3.99369752998333
+"8: NBS extra",2053,-5.42644584035987
+"8: NBS extra",2054,-6.99702605081056
+"8: NBS extra",2055,-8.47580486928364
+"8: NBS extra",2056,-8.3583956850034
+"8: NBS extra",2057,-10.2144272690401
+"8: NBS extra",2058,-10.9417139315055
+"8: NBS extra",2059,-11.8042940596876
+"8: NBS extra",2060,-9.71346439347137
+"8: NBS extra",2061,-9.14031465329785
+"8: NBS extra",2062,-8.25769215980445
+"8: NBS extra",2063,-7.67061581887431
+"8: NBS extra",2064,-7.14077785672025
+"8: NBS extra",2065,-5.17863857074599
+"8: NBS extra",2066,-3.87823199508636
+"8: NBS extra",2067,-4.88415306835134
+"8: NBS extra",2068,-3.85466717901707
+"8: NBS extra",2069,-2.98531719671436
+"8: NBS extra",2070,-1.85744579833455
+"8: NBS extra",2071,1.255426577218
+"8: NBS extra",2072,2.33408733596482
+"8: NBS extra",2073,3.64478258787449
+"8: NBS extra",2074,4.73997907555826
+"8: NBS extra",2075,6.23609333949034
+"8: NBS extra",2076,9.56576095892572
+"8: NBS extra",2077,9.46670004485744
+"8: NBS extra",2078,10.9146510133777
+"8: NBS extra",2079,12.1620822334802
+"8: NBS extra",2080,15.6009460760826
+"8: NBS extra",2081,21.0452875130072
+"8: NBS extra",2082,22.4365669144266
+"8: NBS extra",2083,24.5231156406545
+"8: NBS extra",2084,26.2828842775633
+"8: NBS extra",2085,28.074243265758
+"8: NBS extra",2086,28.0388668515073
+"8: NBS extra",2087,29.0229605098983
+"8: NBS extra",2088,30.0142503153066
+"8: NBS extra",2089,30.9480403538857
+"8: NBS extra",2090,31.9286947861877
+"8: NBS extra",2091,32.4103837064223
+"8: NBS extra",2092,32.8427743352198
+"8: NBS extra",2093,33.8544260682871
+"8: NBS extra",2094,34.9408892893134
+"8: NBS extra",2095,33.7681547519757
+"8: NBS extra",2096,34.6851513547211
+"8: NBS extra",2097,34.638654642425
+"8: NBS extra",2098,34.443853596056
+"8: NBS extra",2099,34.7392039365702
+"8: NBS extra",2100,32.7752798021331

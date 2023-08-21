@@ -1,0 +1,145 @@
+"scenario","year","category","kcal"
+"0: Baseline",2015,"Animal-based products",16.3145191107946
+"0: Baseline",2015,"Plant-based products",54.3571814378221
+"0: Baseline",2020,"Animal-based products",16.2353570073679
+"0: Baseline",2020,"Plant-based products",54.1540630016506
+"0: Baseline",2025,"Animal-based products",16.1562528996607
+"0: Baseline",2025,"Plant-based products",53.9517774867066
+"0: Baseline",2030,"Animal-based products",16.0771602191157
+"0: Baseline",2030,"Plant-based products",53.7489753919414
+"0: Baseline",2035,"Animal-based products",15.9980396487924
+"0: Baseline",2035,"Plant-based products",53.5458890794849
+"0: Baseline",2040,"Animal-based products",15.9183211927996
+"0: Baseline",2040,"Plant-based products",53.3380851208445
+"0: Baseline",2045,"Animal-based products",15.8384783795263
+"0: Baseline",2045,"Plant-based products",53.1287249476165
+"0: Baseline",2050,"Animal-based products",15.7583293727787
+"0: Baseline",2050,"Plant-based products",52.9103434738732
+"1: On Farm Measures (Organic)",2015,"Animal-based products",16.3145191107946
+"1: On Farm Measures (Organic)",2015,"Plant-based products",54.3571814378221
+"1: On Farm Measures (Organic)",2020,"Animal-based products",16.2326240340619
+"1: On Farm Measures (Organic)",2020,"Plant-based products",54.1439080550709
+"1: On Farm Measures (Organic)",2025,"Animal-based products",15.7698324692309
+"1: On Farm Measures (Organic)",2025,"Plant-based products",51.3144426142238
+"1: On Farm Measures (Organic)",2030,"Animal-based products",15.3371617760429
+"1: On Farm Measures (Organic)",2030,"Plant-based products",48.8426399557734
+"1: On Farm Measures (Organic)",2035,"Animal-based products",14.9511909710865
+"1: On Farm Measures (Organic)",2035,"Plant-based products",47.0033912797737
+"1: On Farm Measures (Organic)",2040,"Animal-based products",14.8084321816616
+"1: On Farm Measures (Organic)",2040,"Plant-based products",46.5689313849881
+"1: On Farm Measures (Organic)",2045,"Animal-based products",14.6659850311397
+"1: On Farm Measures (Organic)",2045,"Plant-based products",46.1323821808041
+"1: On Farm Measures (Organic)",2050,"Animal-based products",14.5256298329797
+"1: On Farm Measures (Organic)",2050,"Plant-based products",45.6940205115768
+"2: On Farm Measures (Balanced)",2015,"Animal-based products",16.3145191107946
+"2: On Farm Measures (Balanced)",2015,"Plant-based products",54.3571814378221
+"2: On Farm Measures (Balanced)",2020,"Animal-based products",16.2331705201313
+"2: On Farm Measures (Balanced)",2020,"Plant-based products",54.1459383373347
+"2: On Farm Measures (Balanced)",2025,"Animal-based products",16.0681631322032
+"2: On Farm Measures (Balanced)",2025,"Plant-based products",53.5871592683627
+"2: On Farm Measures (Balanced)",2030,"Animal-based products",15.7903832883051
+"2: On Farm Measures (Balanced)",2030,"Plant-based products",52.4860224404444
+"2: On Farm Measures (Balanced)",2035,"Animal-based products",15.4295131785974
+"2: On Farm Measures (Balanced)",2035,"Plant-based products",50.9875985446782
+"2: On Farm Measures (Balanced)",2040,"Animal-based products",15.0722116832695
+"2: On Farm Measures (Balanced)",2040,"Plant-based products",49.4814672317169
+"2: On Farm Measures (Balanced)",2045,"Animal-based products",14.7151317333576
+"2: On Farm Measures (Balanced)",2045,"Plant-based products",47.9767333456864
+"2: On Farm Measures (Balanced)",2050,"Animal-based products",14.3602624277422
+"2: On Farm Measures (Balanced)",2050,"Plant-based products",46.4675326016651
+"3: Balanced Pathway",2015,"Animal-based products",16.3145191107946
+"3: Balanced Pathway",2015,"Plant-based products",54.3571814378221
+"3: Balanced Pathway",2020,"Animal-based products",16.2331705201313
+"3: Balanced Pathway",2020,"Plant-based products",54.1459383373347
+"3: Balanced Pathway",2025,"Animal-based products",15.9548135563885
+"3: Balanced Pathway",2025,"Plant-based products",53.4877232631385
+"3: Balanced Pathway",2030,"Animal-based products",15.4891058300586
+"3: Balanced Pathway",2030,"Plant-based products",52.233724608139
+"3: Balanced Pathway",2035,"Animal-based products",14.8990804054268
+"3: Balanced Pathway",2035,"Plant-based products",50.588595153923
+"3: Balanced Pathway",2040,"Animal-based products",14.2179435619151
+"3: Balanced Pathway",2040,"Plant-based products",48.9256025564707
+"3: Balanced Pathway",2045,"Animal-based products",13.5203095524073
+"3: Balanced Pathway",2045,"Plant-based products",47.196102122747
+"3: Balanced Pathway",2050,"Animal-based products",12.8395529434171
+"3: Balanced Pathway",2050,"Plant-based products",45.0046735827927
+"4: Widespread Engagement",2015,"Animal-based products",16.3145191107946
+"4: Widespread Engagement",2015,"Plant-based products",54.3571814378221
+"4: Widespread Engagement",2020,"Animal-based products",16.2331705201313
+"4: Widespread Engagement",2020,"Plant-based products",54.1459383373347
+"4: Widespread Engagement",2025,"Animal-based products",15.9576223577452
+"4: Widespread Engagement",2025,"Plant-based products",53.5136835428218
+"4: Widespread Engagement",2030,"Animal-based products",15.5047449754169
+"4: Widespread Engagement",2030,"Plant-based products",52.5811083566701
+"4: Widespread Engagement",2035,"Animal-based products",14.8671221267938
+"4: Widespread Engagement",2035,"Plant-based products",51.433357530453
+"4: Widespread Engagement",2040,"Animal-based products",14.1756718004196
+"4: Widespread Engagement",2040,"Plant-based products",50.1025815589966
+"4: Widespread Engagement",2045,"Animal-based products",13.4864893403362
+"4: Widespread Engagement",2045,"Plant-based products",48.1646193599552
+"4: Widespread Engagement",2050,"Animal-based products",12.7578924353014
+"4: Widespread Engagement",2050,"Plant-based products",46.0658472404367
+"5: NBS",2015,"Animal-based products",16.3145191107946
+"5: NBS",2015,"Plant-based products",54.3571814378221
+"5: NBS",2020,"Animal-based products",16.2326240340619
+"5: NBS",2020,"Plant-based products",54.1439080550709
+"5: NBS",2025,"Animal-based products",15.737107471897
+"5: NBS",2025,"Plant-based products",52.2624667486135
+"5: NBS",2030,"Animal-based products",15.1135474041519
+"5: NBS",2030,"Plant-based products",50.5417488069594
+"5: NBS",2035,"Animal-based products",14.3848938947839
+"5: NBS",2035,"Plant-based products",49.431235993889
+"5: NBS",2040,"Animal-based products",13.567235129895
+"5: NBS",2040,"Plant-based products",48.083978281057
+"5: NBS",2045,"Animal-based products",12.8486260748656
+"5: NBS",2045,"Plant-based products",46.6759828820713
+"5: NBS",2050,"Animal-based products",12.087236588246
+"5: NBS",2050,"Plant-based products",44.8818542596373
+"6: NBS with biomass crops",2015,"Animal-based products",16.3145191107946
+"6: NBS with biomass crops",2015,"Plant-based products",54.3571814378221
+"6: NBS with biomass crops",2020,"Animal-based products",16.2326240340619
+"6: NBS with biomass crops",2020,"Plant-based products",54.1439080550709
+"6: NBS with biomass crops",2025,"Animal-based products",15.7274509635776
+"6: NBS with biomass crops",2025,"Plant-based products",52.1986544839905
+"6: NBS with biomass crops",2030,"Animal-based products",15.0578872754313
+"6: NBS with biomass crops",2030,"Plant-based products",50.1729760404963
+"6: NBS with biomass crops",2035,"Animal-based products",14.2497642480109
+"6: NBS with biomass crops",2035,"Plant-based products",48.5347660475086
+"6: NBS with biomass crops",2040,"Animal-based products",13.3526819036532
+"6: NBS with biomass crops",2040,"Plant-based products",46.6604280984543
+"6: NBS with biomass crops",2045,"Animal-based products",12.5547201316324
+"6: NBS with biomass crops",2045,"Plant-based products",44.7245878626755
+"6: NBS with biomass crops",2050,"Animal-based products",11.7138491390984
+"6: NBS with biomass crops",2050,"Plant-based products",42.401654826249
+"7: NBS with organic farming",2015,"Animal-based products",16.3145191107946
+"7: NBS with organic farming",2015,"Plant-based products",54.3571814378221
+"7: NBS with organic farming",2020,"Animal-based products",16.2326240340619
+"7: NBS with organic farming",2020,"Plant-based products",54.1439080550709
+"7: NBS with organic farming",2025,"Animal-based products",15.5157799865562
+"7: NBS with organic farming",2025,"Plant-based products",50.8595841845384
+"7: NBS with organic farming",2030,"Animal-based products",14.6801423569838
+"7: NBS with organic farming",2030,"Plant-based products",47.8686843418578
+"7: NBS with organic farming",2035,"Animal-based products",13.7368491691279
+"7: NBS with organic farming",2035,"Plant-based products",45.4251580014766
+"7: NBS with organic farming",2040,"Animal-based products",12.9524177010537
+"7: NBS with organic farming",2040,"Plant-based products",44.1926478969962
+"7: NBS with organic farming",2045,"Animal-based products",12.2618664792525
+"7: NBS with organic farming",2045,"Plant-based products",42.8975584454555
+"7: NBS with organic farming",2050,"Animal-based products",11.5308163641713
+"7: NBS with organic farming",2050,"Plant-based products",41.2476999925818
+"8: NBS extra",2015,"Animal-based products",16.3145191107946
+"8: NBS extra",2015,"Plant-based products",54.3571814378221
+"8: NBS extra",2020,"Animal-based products",16.2326240340619
+"8: NBS extra",2020,"Plant-based products",54.1439080550709
+"8: NBS extra",2025,"Animal-based products",15.6697981492615
+"8: NBS extra",2025,"Plant-based products",52.1858109429216
+"8: NBS extra",2030,"Animal-based products",14.9796876166403
+"8: NBS extra",2030,"Plant-based products",50.3763414428217
+"8: NBS extra",2035,"Animal-based products",14.1689008288713
+"8: NBS extra",2035,"Plant-based products",49.182019558703
+"8: NBS extra",2040,"Animal-based products",13.2595342601565
+"8: NBS extra",2040,"Plant-based products",47.7551374133266
+"8: NBS extra",2045,"Animal-based products",12.4547726021621
+"8: NBS extra",2045,"Plant-based products",46.2610578326591
+"8: NBS extra",2050,"Animal-based products",11.6067738359437
+"8: NBS extra",2050,"Plant-based products",44.3815787218281

@@ -1,0 +1,2323 @@
+"scenario","year","category","gwp_t"
+"0: Baseline",2015,"Agriculture",43.7276629604311
+"0: Baseline",2015,"Peatlands",21.6286128825099
+"0: Baseline",2015,"Woodlands (etc.)",-22.3427885566549
+"0: Baseline",2016,"Agriculture",43.6873039349945
+"0: Baseline",2016,"Peatlands",21.6286128825099
+"0: Baseline",2016,"Woodlands (etc.)",-21.7912755546402
+"0: Baseline",2017,"Agriculture",43.6469080932995
+"0: Baseline",2017,"Peatlands",21.6286128825099
+"0: Baseline",2017,"Woodlands (etc.)",-18.5799369257605
+"0: Baseline",2018,"Agriculture",43.6064441708872
+"0: Baseline",2018,"Peatlands",21.6286128825099
+"0: Baseline",2018,"Woodlands (etc.)",-18.1426812922702
+"0: Baseline",2019,"Agriculture",43.5658657782043
+"0: Baseline",2019,"Peatlands",21.6286128825099
+"0: Baseline",2019,"Woodlands (etc.)",-17.4724005387993
+"0: Baseline",2020,"Agriculture",43.5251421846185
+"0: Baseline",2020,"Peatlands",21.6286128825099
+"0: Baseline",2020,"Woodlands (etc.)",-16.7745756683436
+"0: Baseline",2021,"Agriculture",43.4842607977426
+"0: Baseline",2021,"Peatlands",21.6286128825099
+"0: Baseline",2021,"Woodlands (etc.)",-16.1754764864374
+"0: Baseline",2022,"Agriculture",43.4432445706533
+"0: Baseline",2022,"Peatlands",21.6286128825099
+"0: Baseline",2022,"Woodlands (etc.)",-15.7650063451263
+"0: Baseline",2023,"Agriculture",43.4021270187796
+"0: Baseline",2023,"Peatlands",21.6286128825099
+"0: Baseline",2023,"Woodlands (etc.)",-15.3610799206802
+"0: Baseline",2024,"Agriculture",43.3609555726369
+"0: Baseline",2024,"Peatlands",21.6286128825099
+"0: Baseline",2024,"Woodlands (etc.)",-15.0800695066466
+"0: Baseline",2025,"Agriculture",43.3197658473732
+"0: Baseline",2025,"Peatlands",21.6286128825099
+"0: Baseline",2025,"Woodlands (etc.)",-14.7058168804268
+"0: Baseline",2026,"Agriculture",43.2785652549466
+"0: Baseline",2026,"Peatlands",21.6286128825099
+"0: Baseline",2026,"Woodlands (etc.)",-14.2570634870897
+"0: Baseline",2027,"Agriculture",43.2373531007201
+"0: Baseline",2027,"Peatlands",21.6286128825099
+"0: Baseline",2027,"Woodlands (etc.)",-14.2749719181394
+"0: Baseline",2028,"Agriculture",43.196125114079
+"0: Baseline",2028,"Peatlands",21.6286128825099
+"0: Baseline",2028,"Woodlands (etc.)",-13.7380208294376
+"0: Baseline",2029,"Agriculture",43.1548708053257
+"0: Baseline",2029,"Peatlands",21.6286128825099
+"0: Baseline",2029,"Woodlands (etc.)",-13.4025183694927
+"0: Baseline",2030,"Agriculture",43.1135829099665
+"0: Baseline",2030,"Peatlands",21.6286128825099
+"0: Baseline",2030,"Woodlands (etc.)",-12.9303426650956
+"0: Baseline",2031,"Agriculture",43.0722628934847
+"0: Baseline",2031,"Peatlands",21.6286128825099
+"0: Baseline",2031,"Woodlands (etc.)",-12.4399218282901
+"0: Baseline",2032,"Agriculture",43.0309178049353
+"0: Baseline",2032,"Peatlands",21.6286128825099
+"0: Baseline",2032,"Woodlands (etc.)",-11.7692647023287
+"0: Baseline",2033,"Agriculture",42.9895479423715
+"0: Baseline",2033,"Peatlands",21.6286128825099
+"0: Baseline",2033,"Woodlands (etc.)",-11.0922103657934
+"0: Baseline",2034,"Agriculture",42.9481534348015
+"0: Baseline",2034,"Peatlands",21.6286128825099
+"0: Baseline",2034,"Woodlands (etc.)",-10.6372111804934
+"0: Baseline",2035,"Agriculture",42.9067347226325
+"0: Baseline",2035,"Peatlands",21.6286128825099
+"0: Baseline",2035,"Woodlands (etc.)",-10.0599727749695
+"0: Baseline",2036,"Agriculture",42.8653371848247
+"0: Baseline",2036,"Peatlands",21.6286128825099
+"0: Baseline",2036,"Woodlands (etc.)",-9.28942025065651
+"0: Baseline",2037,"Agriculture",42.8239166791167
+"0: Baseline",2037,"Peatlands",21.6286128825099
+"0: Baseline",2037,"Woodlands (etc.)",-10.0115035404711
+"0: Baseline",2038,"Agriculture",42.7824769067081
+"0: Baseline",2038,"Peatlands",21.6286128825099
+"0: Baseline",2038,"Woodlands (etc.)",-9.73287486561177
+"0: Baseline",2039,"Agriculture",42.741022636452
+"0: Baseline",2039,"Peatlands",21.6286128825099
+"0: Baseline",2039,"Woodlands (etc.)",-9.83860060674606
+"0: Baseline",2040,"Agriculture",42.6995570134782
+"0: Baseline",2040,"Peatlands",21.6286128825099
+"0: Baseline",2040,"Woodlands (etc.)",-8.44640407183488
+"0: Baseline",2041,"Agriculture",42.6580869840725
+"0: Baseline",2041,"Peatlands",21.6286128825099
+"0: Baseline",2041,"Woodlands (etc.)",-7.64867305530654
+"0: Baseline",2042,"Agriculture",42.6166052949987
+"0: Baseline",2042,"Peatlands",21.6286128825099
+"0: Baseline",2042,"Woodlands (etc.)",-7.32962946004616
+"0: Baseline",2043,"Agriculture",42.5751092014971
+"0: Baseline",2043,"Peatlands",21.6286128825099
+"0: Baseline",2043,"Woodlands (etc.)",-6.90564169864257
+"0: Baseline",2044,"Agriculture",42.5335949756769
+"0: Baseline",2044,"Peatlands",21.6286128825099
+"0: Baseline",2044,"Woodlands (etc.)",-6.80260651380228
+"0: Baseline",2045,"Agriculture",42.4920591654578
+"0: Baseline",2045,"Peatlands",21.6286128825099
+"0: Baseline",2045,"Woodlands (etc.)",-6.35405542924816
+"0: Baseline",2046,"Agriculture",42.450506563513
+"0: Baseline",2046,"Peatlands",21.6286128825099
+"0: Baseline",2046,"Woodlands (etc.)",-5.84870662788071
+"0: Baseline",2047,"Agriculture",42.4089315541863
+"0: Baseline",2047,"Peatlands",21.6286128825099
+"0: Baseline",2047,"Woodlands (etc.)",-6.74252133416605
+"0: Baseline",2048,"Agriculture",42.3673306097719
+"0: Baseline",2048,"Peatlands",21.6286128825099
+"0: Baseline",2048,"Woodlands (etc.)",-6.45676747288779
+"0: Baseline",2049,"Agriculture",42.3256994507579
+"0: Baseline",2049,"Peatlands",21.6286128825099
+"0: Baseline",2049,"Woodlands (etc.)",-6.5004176208674
+"0: Baseline",2050,"Agriculture",42.2840348430432
+"0: Baseline",2050,"Peatlands",21.6286128825099
+"0: Baseline",2050,"Woodlands (etc.)",-6.26706596869233
+"0: Baseline",2051,"Agriculture",42.2840348430432
+"0: Baseline",2051,"Peatlands",21.6286128825099
+"0: Baseline",2051,"Woodlands (etc.)",-6.15504064590443
+"0: Baseline",2052,"Agriculture",42.2840348430432
+"0: Baseline",2052,"Peatlands",21.6286128825099
+"0: Baseline",2052,"Woodlands (etc.)",-6.25936077250021
+"0: Baseline",2053,"Agriculture",42.2840348430432
+"0: Baseline",2053,"Peatlands",21.6286128825099
+"0: Baseline",2053,"Woodlands (etc.)",-6.34463784400212
+"0: Baseline",2054,"Agriculture",42.2840348430432
+"0: Baseline",2054,"Peatlands",21.6286128825099
+"0: Baseline",2054,"Woodlands (etc.)",-6.60676719748437
+"0: Baseline",2055,"Agriculture",42.2840348430432
+"0: Baseline",2055,"Peatlands",21.6286128825099
+"0: Baseline",2055,"Woodlands (etc.)",-6.46431898582003
+"0: Baseline",2056,"Agriculture",42.2840348430432
+"0: Baseline",2056,"Peatlands",21.6286128825099
+"0: Baseline",2056,"Woodlands (etc.)",-6.26756642129066
+"0: Baseline",2057,"Agriculture",42.2840348430432
+"0: Baseline",2057,"Peatlands",21.6286128825099
+"0: Baseline",2057,"Woodlands (etc.)",-7.65125856749531
+"0: Baseline",2058,"Agriculture",42.2840348430432
+"0: Baseline",2058,"Peatlands",21.6286128825099
+"0: Baseline",2058,"Woodlands (etc.)",-7.71717575019944
+"0: Baseline",2059,"Agriculture",42.2840348430432
+"0: Baseline",2059,"Peatlands",21.6286128825099
+"0: Baseline",2059,"Woodlands (etc.)",-7.94117149593803
+"0: Baseline",2060,"Agriculture",42.2840348430432
+"0: Baseline",2060,"Peatlands",21.6286128825099
+"0: Baseline",2060,"Woodlands (etc.)",-4.42378966777618
+"0: Baseline",2061,"Agriculture",42.2840348430432
+"0: Baseline",2061,"Peatlands",21.6286128825099
+"0: Baseline",2061,"Woodlands (etc.)",-4.09853190467509
+"0: Baseline",2062,"Agriculture",42.2840348430432
+"0: Baseline",2062,"Peatlands",21.6286128825099
+"0: Baseline",2062,"Woodlands (etc.)",-3.30768747157028
+"0: Baseline",2063,"Agriculture",42.2840348430432
+"0: Baseline",2063,"Peatlands",21.6286128825099
+"0: Baseline",2063,"Woodlands (etc.)",-2.82773972014121
+"0: Baseline",2064,"Agriculture",42.2840348430432
+"0: Baseline",2064,"Peatlands",21.6286128825099
+"0: Baseline",2064,"Woodlands (etc.)",-2.40422651707192
+"0: Baseline",2065,"Agriculture",42.2840348430432
+"0: Baseline",2065,"Peatlands",21.6286128825099
+"0: Baseline",2065,"Woodlands (etc.)",-1.99118709580444
+"0: Baseline",2066,"Agriculture",42.2840348430432
+"0: Baseline",2066,"Peatlands",21.6286128825099
+"0: Baseline",2066,"Woodlands (etc.)",-1.57791083450282
+"0: Baseline",2067,"Agriculture",42.2840348430432
+"0: Baseline",2067,"Peatlands",21.6286128825099
+"0: Baseline",2067,"Woodlands (etc.)",-3.61228136488646
+"0: Baseline",2068,"Agriculture",42.2840348430432
+"0: Baseline",2068,"Peatlands",21.6286128825099
+"0: Baseline",2068,"Woodlands (etc.)",-3.4342767994313
+"0: Baseline",2069,"Agriculture",42.2840348430432
+"0: Baseline",2069,"Peatlands",21.6286128825099
+"0: Baseline",2069,"Woodlands (etc.)",-3.41107625966836
+"0: Baseline",2070,"Agriculture",42.2840348430432
+"0: Baseline",2070,"Peatlands",21.6286128825099
+"0: Baseline",2070,"Woodlands (etc.)",-3.36561986189074
+"0: Baseline",2071,"Agriculture",42.2840348430432
+"0: Baseline",2071,"Peatlands",21.6286128825099
+"0: Baseline",2071,"Woodlands (etc.)",-3.25743908654166
+"0: Baseline",2072,"Agriculture",42.2840348430432
+"0: Baseline",2072,"Peatlands",21.6286128825099
+"0: Baseline",2072,"Woodlands (etc.)",-3.25293649204194
+"0: Baseline",2073,"Agriculture",42.2840348430432
+"0: Baseline",2073,"Peatlands",21.6286128825099
+"0: Baseline",2073,"Woodlands (etc.)",-3.20295540224217
+"0: Baseline",2074,"Agriculture",42.2840348430432
+"0: Baseline",2074,"Peatlands",21.6286128825099
+"0: Baseline",2074,"Woodlands (etc.)",-3.3068507080056
+"0: Baseline",2075,"Agriculture",42.2840348430432
+"0: Baseline",2075,"Peatlands",21.6286128825099
+"0: Baseline",2075,"Woodlands (etc.)",-3.3418991874992
+"0: Baseline",2076,"Agriculture",42.2840348430432
+"0: Baseline",2076,"Peatlands",21.6286128825099
+"0: Baseline",2076,"Woodlands (etc.)",-3.37436959583021
+"0: Baseline",2077,"Agriculture",42.2840348430432
+"0: Baseline",2077,"Peatlands",21.6286128825099
+"0: Baseline",2077,"Woodlands (etc.)",-4.94707540486121
+"0: Baseline",2078,"Agriculture",42.2840348430432
+"0: Baseline",2078,"Peatlands",21.6286128825099
+"0: Baseline",2078,"Woodlands (etc.)",-4.88065482302845
+"0: Baseline",2079,"Agriculture",42.2840348430432
+"0: Baseline",2079,"Peatlands",21.6286128825099
+"0: Baseline",2079,"Woodlands (etc.)",-4.88046112748352
+"0: Baseline",2080,"Agriculture",42.2840348430432
+"0: Baseline",2080,"Peatlands",21.6286128825099
+"0: Baseline",2080,"Woodlands (etc.)",-2.58469186830382
+"0: Baseline",2081,"Agriculture",42.2840348430432
+"0: Baseline",2081,"Peatlands",21.6286128825099
+"0: Baseline",2081,"Woodlands (etc.)",-2.47606586701032
+"0: Baseline",2082,"Agriculture",42.2840348430432
+"0: Baseline",2082,"Peatlands",21.6286128825099
+"0: Baseline",2082,"Woodlands (etc.)",-2.40720922086192
+"0: Baseline",2083,"Agriculture",42.2840348430432
+"0: Baseline",2083,"Peatlands",21.6286128825099
+"0: Baseline",2083,"Woodlands (etc.)",-1.90955924974232
+"0: Baseline",2084,"Agriculture",42.2840348430432
+"0: Baseline",2084,"Peatlands",21.6286128825099
+"0: Baseline",2084,"Woodlands (etc.)",-1.39937953699753
+"0: Baseline",2085,"Agriculture",42.2840348430432
+"0: Baseline",2085,"Peatlands",21.6286128825099
+"0: Baseline",2085,"Woodlands (etc.)",-1.04849441017524
+"0: Baseline",2086,"Agriculture",42.2840348430432
+"0: Baseline",2086,"Peatlands",21.6286128825099
+"0: Baseline",2086,"Woodlands (etc.)",-0.693696040074626
+"0: Baseline",2087,"Agriculture",42.2840348430432
+"0: Baseline",2087,"Peatlands",21.6286128825099
+"0: Baseline",2087,"Woodlands (etc.)",-0.667525038161965
+"0: Baseline",2088,"Agriculture",42.2840348430432
+"0: Baseline",2088,"Peatlands",21.6286128825099
+"0: Baseline",2088,"Woodlands (etc.)",-0.441175304115468
+"0: Baseline",2089,"Agriculture",42.2840348430432
+"0: Baseline",2089,"Peatlands",21.6286128825099
+"0: Baseline",2089,"Woodlands (etc.)",-0.0491904136979967
+"0: Baseline",2090,"Agriculture",42.2840348430432
+"0: Baseline",2090,"Peatlands",21.6286128825099
+"0: Baseline",2090,"Woodlands (etc.)",0.102905461404345
+"0: Baseline",2091,"Agriculture",42.2840348430432
+"0: Baseline",2091,"Peatlands",21.6286128825099
+"0: Baseline",2091,"Woodlands (etc.)",0.302588980935553
+"0: Baseline",2092,"Agriculture",42.2840348430432
+"0: Baseline",2092,"Peatlands",21.6286128825099
+"0: Baseline",2092,"Woodlands (etc.)",0.522700239672489
+"0: Baseline",2093,"Agriculture",42.2840348430432
+"0: Baseline",2093,"Peatlands",21.6286128825099
+"0: Baseline",2093,"Woodlands (etc.)",1.48562253478288
+"0: Baseline",2094,"Agriculture",42.2840348430432
+"0: Baseline",2094,"Peatlands",21.6286128825099
+"0: Baseline",2094,"Woodlands (etc.)",1.87224993143863
+"0: Baseline",2095,"Agriculture",42.2840348430432
+"0: Baseline",2095,"Peatlands",21.6286128825099
+"0: Baseline",2095,"Woodlands (etc.)",2.04235854790071
+"0: Baseline",2096,"Agriculture",42.2840348430432
+"0: Baseline",2096,"Peatlands",21.6286128825099
+"0: Baseline",2096,"Woodlands (etc.)",2.27676701101014
+"0: Baseline",2097,"Agriculture",42.2840348430432
+"0: Baseline",2097,"Peatlands",21.6286128825099
+"0: Baseline",2097,"Woodlands (etc.)",2.23506274959302
+"0: Baseline",2098,"Agriculture",42.2840348430432
+"0: Baseline",2098,"Peatlands",21.6286128825099
+"0: Baseline",2098,"Woodlands (etc.)",2.23616153761442
+"0: Baseline",2099,"Agriculture",42.2840348430432
+"0: Baseline",2099,"Peatlands",21.6286128825099
+"0: Baseline",2099,"Woodlands (etc.)",2.37067529530009
+"0: Baseline",2100,"Agriculture",42.2840348430432
+"0: Baseline",2100,"Peatlands",21.6286128825099
+"0: Baseline",2100,"Woodlands (etc.)",-0.0598536256978233
+"1: On Farm Measures (Organic)",2015,"Agriculture",43.7276629604311
+"1: On Farm Measures (Organic)",2015,"Peatlands",21.6286128825099
+"1: On Farm Measures (Organic)",2015,"Woodlands (etc.)",-22.3427885566549
+"1: On Farm Measures (Organic)",2016,"Agriculture",43.6860010029903
+"1: On Farm Measures (Organic)",2016,"Peatlands",21.6286128825099
+"1: On Farm Measures (Organic)",2016,"Woodlands (etc.)",-21.7912755546402
+"1: On Farm Measures (Organic)",2017,"Agriculture",43.6443022292911
+"1: On Farm Measures (Organic)",2017,"Peatlands",21.6286128825099
+"1: On Farm Measures (Organic)",2017,"Woodlands (etc.)",-18.5799369257605
+"1: On Farm Measures (Organic)",2018,"Agriculture",43.6025353748745
+"1: On Farm Measures (Organic)",2018,"Peatlands",21.6286128825099
+"1: On Farm Measures (Organic)",2018,"Woodlands (etc.)",-18.1426812922702
+"1: On Farm Measures (Organic)",2019,"Agriculture",43.5606540501874
+"1: On Farm Measures (Organic)",2019,"Peatlands",21.6286128825099
+"1: On Farm Measures (Organic)",2019,"Woodlands (etc.)",-17.4724005387993
+"1: On Farm Measures (Organic)",2020,"Agriculture",43.5186275245974
+"1: On Farm Measures (Organic)",2020,"Peatlands",21.6286128825099
+"1: On Farm Measures (Organic)",2020,"Woodlands (etc.)",-16.6057348453125
+"1: On Farm Measures (Organic)",2021,"Agriculture",43.2680742243011
+"1: On Farm Measures (Organic)",2021,"Peatlands",21.3900078351918
+"1: On Farm Measures (Organic)",2021,"Woodlands (etc.)",-15.7861974789253
+"1: On Farm Measures (Organic)",2022,"Agriculture",42.418042250014
+"1: On Farm Measures (Organic)",2022,"Peatlands",21.151653752309
+"1: On Farm Measures (Organic)",2022,"Woodlands (etc.)",-15.3978691344299
+"1: On Farm Measures (Organic)",2023,"Agriculture",41.5856295421119
+"1: On Farm Measures (Organic)",2023,"Peatlands",20.9135506338615
+"1: On Farm Measures (Organic)",2023,"Woodlands (etc.)",-14.9805631549221
+"1: On Farm Measures (Organic)",2024,"Agriculture",40.7705770047873
+"1: On Farm Measures (Organic)",2024,"Peatlands",20.6756984798494
+"1: On Farm Measures (Organic)",2024,"Woodlands (etc.)",-14.6959749482205
+"1: On Farm Measures (Organic)",2025,"Agriculture",39.7793990380153
+"1: On Farm Measures (Organic)",2025,"Peatlands",20.4380972902726
+"1: On Farm Measures (Organic)",2025,"Woodlands (etc.)",-14.3248003458506
+"1: On Farm Measures (Organic)",2026,"Agriculture",38.8028746252529
+"1: On Farm Measures (Organic)",2026,"Peatlands",20.2104312916627
+"1: On Farm Measures (Organic)",2026,"Woodlands (etc.)",-13.9171916201452
+"1: On Farm Measures (Organic)",2027,"Agriculture",38.2121284565575
+"1: On Farm Measures (Organic)",2027,"Peatlands",19.9830161444064
+"1: On Farm Measures (Organic)",2027,"Woodlands (etc.)",-13.9661974297698
+"1: On Farm Measures (Organic)",2028,"Agriculture",37.6294441188339
+"1: On Farm Measures (Organic)",2028,"Peatlands",19.7558518485037
+"1: On Farm Measures (Organic)",2028,"Woodlands (etc.)",-13.4744354370964
+"1: On Farm Measures (Organic)",2029,"Agriculture",37.0547680999417
+"1: On Farm Measures (Organic)",2029,"Peatlands",19.5289384039545
+"1: On Farm Measures (Organic)",2029,"Woodlands (etc.)",-13.1856427328796
+"1: On Farm Measures (Organic)",2030,"Agriculture",36.4247281132976
+"1: On Farm Measures (Organic)",2030,"Peatlands",19.3022758107588
+"1: On Farm Measures (Organic)",2030,"Woodlands (etc.)",-12.7698391313428
+"1: On Farm Measures (Organic)",2031,"Agriculture",35.8188972120018
+"1: On Farm Measures (Organic)",2031,"Peatlands",19.0615915292711
+"1: On Farm Measures (Organic)",2031,"Woodlands (etc.)",-12.4134611056127
+"1: On Farm Measures (Organic)",2032,"Agriculture",35.2950041220079
+"1: On Farm Measures (Organic)",2032,"Peatlands",18.8211537146482
+"1: On Farm Measures (Organic)",2032,"Woodlands (etc.)",-11.8749402212265
+"1: On Farm Measures (Organic)",2033,"Agriculture",34.7762776973064
+"1: On Farm Measures (Organic)",2033,"Peatlands",18.5809623668901
+"1: On Farm Measures (Organic)",2033,"Woodlands (etc.)",-11.3330058240962
+"1: On Farm Measures (Organic)",2034,"Agriculture",34.2626982556605
+"1: On Farm Measures (Organic)",2034,"Peatlands",18.3410174859968
+"1: On Farm Measures (Organic)",2034,"Woodlands (etc.)",-11.0085194780696
+"1: On Farm Measures (Organic)",2035,"Agriculture",33.9372898426108
+"1: On Farm Measures (Organic)",2035,"Peatlands",18.1013190719682
+"1: On Farm Measures (Organic)",2035,"Woodlands (etc.)",-10.7525872479202
+"1: On Farm Measures (Organic)",2036,"Agriculture",33.7292919306016
+"1: On Farm Measures (Organic)",2036,"Peatlands",17.9350386670233
+"1: On Farm Measures (Organic)",2036,"Woodlands (etc.)",-10.4274839836313
+"1: On Farm Measures (Organic)",2037,"Agriculture",33.5219441697446
+"1: On Farm Measures (Organic)",2037,"Peatlands",17.7690151897268
+"1: On Farm Measures (Organic)",2037,"Woodlands (etc.)",-11.3186064026456
+"1: On Farm Measures (Organic)",2038,"Agriculture",33.3152494020691
+"1: On Farm Measures (Organic)",2038,"Peatlands",17.6032486393591
+"1: On Farm Measures (Organic)",2038,"Woodlands (etc.)",-11.2752448382156
+"1: On Farm Measures (Organic)",2039,"Agriculture",33.1092115310211
+"1: On Farm Measures (Organic)",2039,"Peatlands",17.4377390159202
+"1: On Farm Measures (Organic)",2039,"Woodlands (etc.)",-11.5938078326992
+"1: On Farm Measures (Organic)",2040,"Agriculture",32.9612073621514
+"1: On Farm Measures (Organic)",2040,"Peatlands",17.2724863194101
+"1: On Farm Measures (Organic)",2040,"Woodlands (etc.)",-10.4808130417852
+"1: On Farm Measures (Organic)",2041,"Agriculture",32.8136093647505
+"1: On Farm Measures (Organic)",2041,"Peatlands",17.1026699598908
+"1: On Farm Measures (Organic)",2041,"Woodlands (etc.)",-9.85273822915272
+"1: On Farm Measures (Organic)",2042,"Agriculture",32.666284054641
+"1: On Farm Measures (Organic)",2042,"Peatlands",16.9331040919194
+"1: On Farm Measures (Organic)",2042,"Woodlands (etc.)",-9.70456670712322
+"1: On Farm Measures (Organic)",2043,"Agriculture",32.5192287030966
+"1: On Farm Measures (Organic)",2043,"Peatlands",16.763788715496
+"1: On Farm Measures (Organic)",2043,"Woodlands (etc.)",-9.44965706958539
+"1: On Farm Measures (Organic)",2044,"Agriculture",32.3724396040031
+"1: On Farm Measures (Organic)",2044,"Peatlands",16.5947238306204
+"1: On Farm Measures (Organic)",2044,"Woodlands (etc.)",-9.50254217757542
+"1: On Farm Measures (Organic)",2045,"Agriculture",32.2259133254435
+"1: On Farm Measures (Organic)",2045,"Peatlands",16.4259094372927
+"1: On Farm Measures (Organic)",2045,"Woodlands (etc.)",-9.25903459221898
+"1: On Farm Measures (Organic)",2046,"Agriculture",32.0805207704418
+"1: On Farm Measures (Organic)",2046,"Peatlands",16.2880062877402
+"1: On Farm Measures (Organic)",2046,"Woodlands (etc.)",-8.84086540292744
+"1: On Farm Measures (Organic)",2047,"Agriculture",31.935390632032
+"1: On Farm Measures (Organic)",2047,"Peatlands",16.1503554082036
+"1: On Farm Measures (Organic)",2047,"Woodlands (etc.)",-9.7875735593985
+"1: On Farm Measures (Organic)",2048,"Agriculture",31.790519403113
+"1: On Farm Measures (Organic)",2048,"Peatlands",16.0129567986827
+"1: On Farm Measures (Organic)",2048,"Woodlands (etc.)",-9.5897685578985
+"1: On Farm Measures (Organic)",2049,"Agriculture",31.6459028291688
+"1: On Farm Measures (Organic)",2049,"Peatlands",15.8758104591776
+"1: On Farm Measures (Organic)",2049,"Woodlands (etc.)",-9.71048582532332
+"1: On Farm Measures (Organic)",2050,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2050,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2050,"Woodlands (etc.)",-9.551470846736
+"1: On Farm Measures (Organic)",2051,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2051,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2051,"Woodlands (etc.)",-9.45658444418367
+"1: On Farm Measures (Organic)",2052,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2052,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2052,"Woodlands (etc.)",-9.58008897968805
+"1: On Farm Measures (Organic)",2053,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2053,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2053,"Woodlands (etc.)",-9.68570319459756
+"1: On Farm Measures (Organic)",2054,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2054,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2054,"Woodlands (etc.)",-9.9639904254364
+"1: On Farm Measures (Organic)",2055,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2055,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2055,"Woodlands (etc.)",-9.84488487935579
+"1: On Farm Measures (Organic)",2056,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2056,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2056,"Woodlands (etc.)",-9.12496824547103
+"1: On Farm Measures (Organic)",2057,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2057,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2057,"Woodlands (etc.)",-10.464214104788
+"1: On Farm Measures (Organic)",2058,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2058,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2058,"Woodlands (etc.)",-10.5145869768239
+"1: On Farm Measures (Organic)",2059,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2059,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2059,"Woodlands (etc.)",-10.7247966515939
+"1: On Farm Measures (Organic)",2060,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2060,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2060,"Woodlands (etc.)",-7.29609009319718
+"1: On Farm Measures (Organic)",2061,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2061,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2061,"Woodlands (etc.)",-6.92298503222544
+"1: On Farm Measures (Organic)",2062,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2062,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2062,"Woodlands (etc.)",-6.09072517926244
+"1: On Farm Measures (Organic)",2063,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2063,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2063,"Woodlands (etc.)",-5.56683811549955
+"1: On Farm Measures (Organic)",2064,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2064,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2064,"Woodlands (etc.)",-5.10807200402047
+"1: On Farm Measures (Organic)",2065,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2065,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2065,"Woodlands (etc.)",-2.89412817038954
+"1: On Farm Measures (Organic)",2066,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2066,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2066,"Woodlands (etc.)",-2.3628223359737
+"1: On Farm Measures (Organic)",2067,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2067,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2067,"Woodlands (etc.)",-4.17468172838758
+"1: On Farm Measures (Organic)",2068,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2068,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2068,"Woodlands (etc.)",-3.82638961662175
+"1: On Farm Measures (Organic)",2069,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2069,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2069,"Woodlands (etc.)",-3.64883757429437
+"1: On Farm Measures (Organic)",2070,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2070,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2070,"Woodlands (etc.)",-3.45330559324317
+"1: On Farm Measures (Organic)",2071,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2071,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2071,"Woodlands (etc.)",-2.88788989150078
+"1: On Farm Measures (Organic)",2072,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2072,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2072,"Woodlands (etc.)",-2.7219432047522
+"1: On Farm Measures (Organic)",2073,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2073,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2073,"Woodlands (etc.)",-2.48551920787047
+"1: On Farm Measures (Organic)",2074,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2074,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2074,"Woodlands (etc.)",-2.41030002334932
+"1: On Farm Measures (Organic)",2075,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2075,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2075,"Woodlands (etc.)",-2.26319697943592
+"1: On Farm Measures (Organic)",2076,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2076,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2076,"Woodlands (etc.)",-2.22572233531738
+"1: On Farm Measures (Organic)",2077,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2077,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2077,"Woodlands (etc.)",-3.63822510704223
+"1: On Farm Measures (Organic)",2078,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2078,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2078,"Woodlands (etc.)",-3.49737913123533
+"1: On Farm Measures (Organic)",2079,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2079,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2079,"Woodlands (etc.)",-3.43646310786029
+"1: On Farm Measures (Organic)",2080,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2080,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2080,"Woodlands (etc.)",-1.124539639871
+"1: On Farm Measures (Organic)",2081,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2081,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2081,"Woodlands (etc.)",-0.584443838710592
+"1: On Farm Measures (Organic)",2082,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2082,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2082,"Woodlands (etc.)",-0.438559253248247
+"1: On Farm Measures (Organic)",2083,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2083,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2083,"Woodlands (etc.)",0.0991112038185639
+"1: On Farm Measures (Organic)",2084,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2084,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2084,"Woodlands (etc.)",0.615759642974117
+"1: On Farm Measures (Organic)",2085,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2085,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2085,"Woodlands (etc.)",0.982297537902617
+"1: On Farm Measures (Organic)",2086,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2086,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2086,"Woodlands (etc.)",0.597516850792555
+"1: On Farm Measures (Organic)",2087,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2087,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2087,"Woodlands (etc.)",0.582275168609773
+"1: On Farm Measures (Organic)",2088,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2088,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2088,"Woodlands (etc.)",0.721234351680867
+"1: On Farm Measures (Organic)",2089,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2089,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2089,"Woodlands (etc.)",1.04089047605851
+"1: On Farm Measures (Organic)",2090,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2090,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2090,"Woodlands (etc.)",1.13897894416764
+"1: On Farm Measures (Organic)",2091,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2091,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2091,"Woodlands (etc.)",1.25694898976871
+"1: On Farm Measures (Organic)",2092,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2092,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2092,"Woodlands (etc.)",1.38669399742297
+"1: On Farm Measures (Organic)",2093,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2093,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2093,"Woodlands (etc.)",2.25469925093364
+"1: On Farm Measures (Organic)",2094,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2094,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2094,"Woodlands (etc.)",3.14554909472622
+"1: On Farm Measures (Organic)",2095,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2095,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2095,"Woodlands (etc.)",1.52937507484557
+"1: On Farm Measures (Organic)",2096,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2096,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2096,"Woodlands (etc.)",1.19879522361794
+"1: On Farm Measures (Organic)",2097,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2097,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2097,"Woodlands (etc.)",1.01425541393815
+"1: On Farm Measures (Organic)",2098,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2098,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2098,"Woodlands (etc.)",0.819287745525509
+"1: On Farm Measures (Organic)",2099,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2099,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2099,"Woodlands (etc.)",0.796352276128134
+"1: On Farm Measures (Organic)",2100,"Agriculture",31.5785268731574
+"1: On Farm Measures (Organic)",2100,"Peatlands",15.7389163912774
+"1: On Farm Measures (Organic)",2100,"Woodlands (etc.)",-1.69613175945883
+"2: On Farm Measures (Balanced)",2015,"Agriculture",43.7276629604311
+"2: On Farm Measures (Balanced)",2015,"Peatlands",21.6286128825099
+"2: On Farm Measures (Balanced)",2015,"Woodlands (etc.)",-22.3427885566549
+"2: On Farm Measures (Balanced)",2016,"Agriculture",43.6862615564379
+"2: On Farm Measures (Balanced)",2016,"Peatlands",21.6286128825099
+"2: On Farm Measures (Balanced)",2016,"Woodlands (etc.)",-21.7912755546402
+"2: On Farm Measures (Balanced)",2017,"Agriculture",43.6448233361863
+"2: On Farm Measures (Balanced)",2017,"Peatlands",21.6286128825099
+"2: On Farm Measures (Balanced)",2017,"Woodlands (etc.)",-18.5799369257605
+"2: On Farm Measures (Balanced)",2018,"Agriculture",43.6033170352174
+"2: On Farm Measures (Balanced)",2018,"Peatlands",21.6286128825099
+"2: On Farm Measures (Balanced)",2018,"Woodlands (etc.)",-18.1426812922702
+"2: On Farm Measures (Balanced)",2019,"Agriculture",43.5616962639779
+"2: On Farm Measures (Balanced)",2019,"Peatlands",21.6286128825099
+"2: On Farm Measures (Balanced)",2019,"Woodlands (etc.)",-17.4724005387993
+"2: On Farm Measures (Balanced)",2020,"Agriculture",43.5199302918355
+"2: On Farm Measures (Balanced)",2020,"Peatlands",21.6286128825099
+"2: On Farm Measures (Balanced)",2020,"Woodlands (etc.)",-16.6027963597932
+"2: On Farm Measures (Balanced)",2021,"Agriculture",43.42941873447
+"2: On Farm Measures (Balanced)",2021,"Peatlands",21.3900078351918
+"2: On Farm Measures (Balanced)",2021,"Woodlands (etc.)",-15.7839928795556
+"2: On Farm Measures (Balanced)",2022,"Agriculture",42.8564003361647
+"2: On Farm Measures (Balanced)",2022,"Peatlands",21.151653752309
+"2: On Farm Measures (Balanced)",2022,"Woodlands (etc.)",-15.3952053006295
+"2: On Farm Measures (Balanced)",2023,"Agriculture",42.2884289813162
+"2: On Farm Measures (Balanced)",2023,"Peatlands",20.9135506338615
+"2: On Farm Measures (Balanced)",2023,"Woodlands (etc.)",-14.9770740831684
+"2: On Farm Measures (Balanced)",2024,"Agriculture",41.7255228599631
+"2: On Farm Measures (Balanced)",2024,"Peatlands",20.6756984798494
+"2: On Farm Measures (Balanced)",2024,"Woodlands (etc.)",-14.6913497751581
+"2: On Farm Measures (Balanced)",2025,"Agriculture",40.9739383806268
+"2: On Farm Measures (Balanced)",2025,"Peatlands",20.4380972902726
+"2: On Farm Measures (Balanced)",2025,"Woodlands (etc.)",-14.3469802518401
+"2: On Farm Measures (Balanced)",2026,"Agriculture",40.1804107008547
+"2: On Farm Measures (Balanced)",2026,"Peatlands",20.2104312916627
+"2: On Farm Measures (Balanced)",2026,"Woodlands (etc.)",-14.0019260953304
+"2: On Farm Measures (Balanced)",2027,"Agriculture",39.6769267318374
+"2: On Farm Measures (Balanced)",2027,"Peatlands",19.9830161444064
+"2: On Farm Measures (Balanced)",2027,"Woodlands (etc.)",-14.1054249027418
+"2: On Farm Measures (Balanced)",2028,"Agriculture",39.17687038893
+"2: On Farm Measures (Balanced)",2028,"Peatlands",19.7558518485037
+"2: On Farm Measures (Balanced)",2028,"Woodlands (etc.)",-13.6651735422942
+"2: On Farm Measures (Balanced)",2029,"Agriculture",38.6802213560936
+"2: On Farm Measures (Balanced)",2029,"Peatlands",19.5289384039545
+"2: On Farm Measures (Balanced)",2029,"Woodlands (etc.)",-13.4252857626114
+"2: On Farm Measures (Balanced)",2030,"Agriculture",38.1235732432559
+"2: On Farm Measures (Balanced)",2030,"Peatlands",19.3022758107588
+"2: On Farm Measures (Balanced)",2030,"Woodlands (etc.)",-13.0768102353906
+"2: On Farm Measures (Balanced)",2031,"Agriculture",37.5374131353951
+"2: On Farm Measures (Balanced)",2031,"Peatlands",19.0615915292711
+"2: On Farm Measures (Balanced)",2031,"Woodlands (etc.)",-12.8811540285803
+"2: On Farm Measures (Balanced)",2032,"Agriculture",37.044674348043
+"2: On Farm Measures (Balanced)",2032,"Peatlands",18.8211537146482
+"2: On Farm Measures (Balanced)",2032,"Woodlands (etc.)",-12.4958402037198
+"2: On Farm Measures (Balanced)",2033,"Agriculture",36.5564407169678
+"2: On Farm Measures (Balanced)",2033,"Peatlands",18.5809623668901
+"2: On Farm Measures (Balanced)",2033,"Woodlands (etc.)",-12.103524564429
+"2: On Farm Measures (Balanced)",2034,"Agriculture",36.0726880852625
+"2: On Farm Measures (Balanced)",2034,"Peatlands",18.3410174859968
+"2: On Farm Measures (Balanced)",2034,"Woodlands (etc.)",-11.9255190994431
+"2: On Farm Measures (Balanced)",2035,"Agriculture",35.7759460849984
+"2: On Farm Measures (Balanced)",2035,"Peatlands",18.1013190719682
+"2: On Farm Measures (Balanced)",2035,"Woodlands (etc.)",-11.8133350522661
+"2: On Farm Measures (Balanced)",2036,"Agriculture",35.483200940775
+"2: On Farm Measures (Balanced)",2036,"Peatlands",17.9350386670233
+"2: On Farm Measures (Balanced)",2036,"Woodlands (etc.)",-11.7507650765831
+"2: On Farm Measures (Balanced)",2037,"Agriculture",35.1919323809357
+"2: On Farm Measures (Balanced)",2037,"Peatlands",17.7690151897268
+"2: On Farm Measures (Balanced)",2037,"Woodlands (etc.)",-12.9023228750446
+"2: On Farm Measures (Balanced)",2038,"Agriculture",34.9021427241168
+"2: On Farm Measures (Balanced)",2038,"Peatlands",17.6032486393591
+"2: On Farm Measures (Balanced)",2038,"Woodlands (etc.)",-13.1175667678813
+"2: On Farm Measures (Balanced)",2039,"Agriculture",34.6138353514471
+"2: On Farm Measures (Balanced)",2039,"Peatlands",17.4377390159202
+"2: On Farm Measures (Balanced)",2039,"Woodlands (etc.)",-13.6931381026314
+"2: On Farm Measures (Balanced)",2040,"Agriculture",34.3837596657096
+"2: On Farm Measures (Balanced)",2040,"Peatlands",17.2724863194101
+"2: On Farm Measures (Balanced)",2040,"Woodlands (etc.)",-12.8391374359618
+"2: On Farm Measures (Balanced)",2041,"Agriculture",34.1548167550632
+"2: On Farm Measures (Balanced)",2041,"Peatlands",17.1026699598908
+"2: On Farm Measures (Balanced)",2041,"Woodlands (etc.)",-12.4942366419386
+"2: On Farm Measures (Balanced)",2042,"Agriculture",33.9268032113148
+"2: On Farm Measures (Balanced)",2042,"Peatlands",16.9331040919194
+"2: On Farm Measures (Balanced)",2042,"Woodlands (etc.)",-12.6274193017377
+"2: On Farm Measures (Balanced)",2043,"Agriculture",33.6997163028796
+"2: On Farm Measures (Balanced)",2043,"Peatlands",16.763788715496
+"2: On Farm Measures (Balanced)",2043,"Woodlands (etc.)",-12.652943491819
+"2: On Farm Measures (Balanced)",2044,"Agriculture",33.4735523197979
+"2: On Farm Measures (Balanced)",2044,"Peatlands",16.5947238306204
+"2: On Farm Measures (Balanced)",2044,"Woodlands (etc.)",-12.9854620055213
+"2: On Farm Measures (Balanced)",2045,"Agriculture",33.2483078266113
+"2: On Farm Measures (Balanced)",2045,"Peatlands",16.4259094372927
+"2: On Farm Measures (Balanced)",2045,"Woodlands (etc.)",-13.0255344959378
+"2: On Farm Measures (Balanced)",2046,"Agriculture",33.024598406125
+"2: On Farm Measures (Balanced)",2046,"Peatlands",16.2880062877402
+"2: On Farm Measures (Balanced)",2046,"Woodlands (etc.)",-12.8923096220997
+"2: On Farm Measures (Balanced)",2047,"Agriculture",32.8018092921095
+"2: On Farm Measures (Balanced)",2047,"Peatlands",16.1503554082036
+"2: On Farm Measures (Balanced)",2047,"Woodlands (etc.)",-13.6775918683176
+"2: On Farm Measures (Balanced)",2048,"Agriculture",32.579936973877
+"2: On Farm Measures (Balanced)",2048,"Peatlands",16.0129567986827
+"2: On Farm Measures (Balanced)",2048,"Woodlands (etc.)",-13.7328617582394
+"2: On Farm Measures (Balanced)",2049,"Agriculture",32.3589771925875
+"2: On Farm Measures (Balanced)",2049,"Peatlands",15.8758104591776
+"2: On Farm Measures (Balanced)",2049,"Woodlands (etc.)",-14.0912026660473
+"2: On Farm Measures (Balanced)",2050,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2050,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2050,"Woodlands (etc.)",-14.1348949113262
+"2: On Farm Measures (Balanced)",2051,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2051,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2051,"Woodlands (etc.)",-14.1787059134474
+"2: On Farm Measures (Balanced)",2052,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2052,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2052,"Woodlands (etc.)",-11.7702676612757
+"2: On Farm Measures (Balanced)",2053,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2053,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2053,"Woodlands (etc.)",-11.8748542132973
+"2: On Farm Measures (Balanced)",2054,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2054,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2054,"Woodlands (etc.)",-12.0663284786335
+"2: On Farm Measures (Balanced)",2055,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2055,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2055,"Woodlands (etc.)",-11.9249599296597
+"2: On Farm Measures (Balanced)",2056,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2056,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2056,"Woodlands (etc.)",-11.0464612631288
+"2: On Farm Measures (Balanced)",2057,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2057,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2057,"Woodlands (etc.)",-10.2730806913595
+"2: On Farm Measures (Balanced)",2058,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2058,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2058,"Woodlands (etc.)",-10.0772364712695
+"2: On Farm Measures (Balanced)",2059,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2059,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2059,"Woodlands (etc.)",-9.9853948399301
+"2: On Farm Measures (Balanced)",2060,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2060,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2060,"Woodlands (etc.)",-6.3841599723824
+"2: On Farm Measures (Balanced)",2061,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2061,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2061,"Woodlands (etc.)",-5.68214561770882
+"2: On Farm Measures (Balanced)",2062,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2062,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2062,"Woodlands (etc.)",-4.53495417875705
+"2: On Farm Measures (Balanced)",2063,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2063,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2063,"Woodlands (etc.)",-3.71108562263305
+"2: On Farm Measures (Balanced)",2064,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2064,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2064,"Woodlands (etc.)",-2.96385208643281
+"2: On Farm Measures (Balanced)",2065,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2065,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2065,"Woodlands (etc.)",-1.20235750893259
+"2: On Farm Measures (Balanced)",2066,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2066,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2066,"Woodlands (etc.)",-0.676524590226679
+"2: On Farm Measures (Balanced)",2067,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2067,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2067,"Woodlands (etc.)",-2.51339219714428
+"2: On Farm Measures (Balanced)",2068,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2068,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2068,"Woodlands (etc.)",-2.19209941946006
+"2: On Farm Measures (Balanced)",2069,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2069,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2069,"Woodlands (etc.)",-2.04508851207832
+"2: On Farm Measures (Balanced)",2070,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2070,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2070,"Woodlands (etc.)",-1.90170754538431
+"2: On Farm Measures (Balanced)",2071,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2071,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2071,"Woodlands (etc.)",-1.32504788751604
+"2: On Farm Measures (Balanced)",2072,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2072,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2072,"Woodlands (etc.)",-1.1555655493913
+"2: On Farm Measures (Balanced)",2073,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2073,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2073,"Woodlands (etc.)",-0.915079423650937
+"2: On Farm Measures (Balanced)",2074,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2074,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2074,"Woodlands (etc.)",-0.837457287480535
+"2: On Farm Measures (Balanced)",2075,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2075,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2075,"Woodlands (etc.)",-0.678209835573761
+"2: On Farm Measures (Balanced)",2076,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2076,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2076,"Woodlands (etc.)",-0.257093998289207
+"2: On Farm Measures (Balanced)",2077,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2077,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2077,"Woodlands (etc.)",-6.79728931962894
+"2: On Farm Measures (Balanced)",2078,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2078,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2078,"Woodlands (etc.)",-6.969626936339
+"2: On Farm Measures (Balanced)",2079,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2079,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2079,"Woodlands (etc.)",-7.40458290498345
+"2: On Farm Measures (Balanced)",2080,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2080,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2080,"Woodlands (etc.)",-5.48321841851156
+"2: On Farm Measures (Balanced)",2081,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2081,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2081,"Woodlands (etc.)",-2.6213902391625
+"2: On Farm Measures (Balanced)",2082,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2082,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2082,"Woodlands (etc.)",-2.65611192543598
+"2: On Farm Measures (Balanced)",2083,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2083,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2083,"Woodlands (etc.)",-2.17044586121427
+"2: On Farm Measures (Balanced)",2084,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2084,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2084,"Woodlands (etc.)",-1.75068730820257
+"2: On Farm Measures (Balanced)",2085,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2085,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2085,"Woodlands (etc.)",-1.33003498408217
+"2: On Farm Measures (Balanced)",2086,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2086,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2086,"Woodlands (etc.)",0.308203133820648
+"2: On Farm Measures (Balanced)",2087,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2087,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2087,"Woodlands (etc.)",0.466538897341945
+"2: On Farm Measures (Balanced)",2088,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2088,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2088,"Woodlands (etc.)",0.846349306593937
+"2: On Farm Measures (Balanced)",2089,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2089,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2089,"Woodlands (etc.)",1.28724263292584
+"2: On Farm Measures (Balanced)",2090,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2090,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2090,"Woodlands (etc.)",1.69115076986467
+"2: On Farm Measures (Balanced)",2091,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2091,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2091,"Woodlands (etc.)",2.11341073860162
+"2: On Farm Measures (Balanced)",2092,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2092,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2092,"Woodlands (etc.)",2.53297025027268
+"2: On Farm Measures (Balanced)",2093,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2093,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2093,"Woodlands (etc.)",3.67128160587128
+"2: On Farm Measures (Balanced)",2094,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2094,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2094,"Woodlands (etc.)",4.68620028738283
+"2: On Farm Measures (Balanced)",2095,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2095,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2095,"Woodlands (etc.)",3.67453200104274
+"2: On Farm Measures (Balanced)",2096,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2096,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2096,"Woodlands (etc.)",3.36673622785127
+"2: On Farm Measures (Balanced)",2097,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2097,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2097,"Woodlands (etc.)",3.21841790446691
+"2: On Farm Measures (Balanced)",2098,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2098,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2098,"Woodlands (etc.)",3.05131435027815
+"2: On Farm Measures (Balanced)",2099,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2099,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2099,"Woodlands (etc.)",3.02562394385444
+"2: On Farm Measures (Balanced)",2100,"Agriculture",32.2144907481764
+"2: On Farm Measures (Balanced)",2100,"Peatlands",15.7389163912774
+"2: On Farm Measures (Balanced)",2100,"Woodlands (etc.)",0.591232406031041
+"3: Balanced Pathway",2015,"Agriculture",43.7276629604311
+"3: Balanced Pathway",2015,"Peatlands",21.6286128825099
+"3: Balanced Pathway",2015,"Woodlands (etc.)",-22.3427885566549
+"3: Balanced Pathway",2016,"Agriculture",43.6862615564379
+"3: Balanced Pathway",2016,"Peatlands",21.6286128825099
+"3: Balanced Pathway",2016,"Woodlands (etc.)",-21.7912755546402
+"3: Balanced Pathway",2017,"Agriculture",43.6448233361863
+"3: Balanced Pathway",2017,"Peatlands",21.6286128825099
+"3: Balanced Pathway",2017,"Woodlands (etc.)",-18.5799369257605
+"3: Balanced Pathway",2018,"Agriculture",43.6033170352174
+"3: Balanced Pathway",2018,"Peatlands",21.6286128825099
+"3: Balanced Pathway",2018,"Woodlands (etc.)",-18.1426812922702
+"3: Balanced Pathway",2019,"Agriculture",43.5616962639779
+"3: Balanced Pathway",2019,"Peatlands",21.6286128825099
+"3: Balanced Pathway",2019,"Woodlands (etc.)",-17.4724005387993
+"3: Balanced Pathway",2020,"Agriculture",43.5199302918355
+"3: Balanced Pathway",2020,"Peatlands",21.6286128825099
+"3: Balanced Pathway",2020,"Woodlands (etc.)",-16.6028174068698
+"3: Balanced Pathway",2021,"Agriculture",43.3587172430604
+"3: Balanced Pathway",2021,"Peatlands",21.2426159801249
+"3: Balanced Pathway",2021,"Woodlands (etc.)",-15.8719060012629
+"3: Balanced Pathway",2022,"Agriculture",42.7166089192327
+"3: Balanced Pathway",2022,"Peatlands",20.8577804643815
+"3: Balanced Pathway",2022,"Woodlands (etc.)",-15.5697206444612
+"3: Balanced Pathway",2023,"Agriculture",42.0811427491988
+"3: Balanced Pathway",2023,"Peatlands",20.4741063352795
+"3: Balanced Pathway",2023,"Woodlands (etc.)",-15.2369297486109
+"3: Balanced Pathway",2024,"Agriculture",41.4523205437775
+"3: Balanced Pathway",2024,"Peatlands",20.091593592819
+"3: Balanced Pathway",2024,"Woodlands (etc.)",-15.035311456081
+"3: Balanced Pathway",2025,"Agriculture",40.6385229419198
+"3: Balanced Pathway",2025,"Peatlands",19.710242237
+"3: Balanced Pathway",2025,"Woodlands (etc.)",-14.7737954763887
+"3: Balanced Pathway",2026,"Agriculture",39.7546846664439
+"3: Balanced Pathway",2026,"Peatlands",19.333141399573
+"3: Balanced Pathway",2026,"Woodlands (etc.)",-14.5870617145293
+"3: Balanced Pathway",2027,"Agriculture",39.1601874160692
+"3: Balanced Pathway",2027,"Peatlands",18.9572250183257
+"3: Balanced Pathway",2027,"Woodlands (etc.)",-14.8473794107672
+"3: Balanced Pathway",2028,"Agriculture",38.5711061383727
+"3: Balanced Pathway",2028,"Peatlands",18.5824930932582
+"3: Balanced Pathway",2028,"Woodlands (etc.)",-14.5624785105443
+"3: Balanced Pathway",2029,"Agriculture",37.9874142463956
+"3: Balanced Pathway",2029,"Peatlands",18.2089456243704
+"3: Balanced Pathway",2029,"Woodlands (etc.)",-14.4765045757644
+"3: Balanced Pathway",2030,"Agriculture",37.3474434769102
+"3: Balanced Pathway",2030,"Peatlands",17.8365826116624
+"3: Balanced Pathway",2030,"Woodlands (etc.)",-14.2805783200413
+"3: Balanced Pathway",2031,"Agriculture",36.6607817829911
+"3: Balanced Pathway",2031,"Peatlands",17.4533576740334
+"3: Balanced Pathway",2031,"Woodlands (etc.)",-14.4353401408657
+"3: Balanced Pathway",2032,"Agriculture",36.0672991426974
+"3: Balanced Pathway",2032,"Peatlands",17.0713092348828
+"3: Balanced Pathway",2032,"Woodlands (etc.)",-14.3988461982625
+"3: Balanced Pathway",2033,"Agriculture",35.4804338579818
+"3: Balanced Pathway",2033,"Peatlands",16.6904372942105
+"3: Balanced Pathway",2033,"Woodlands (etc.)",-14.3537874502892
+"3: Balanced Pathway",2034,"Agriculture",34.9001414930864
+"3: Balanced Pathway",2034,"Peatlands",16.3107418520165
+"3: Balanced Pathway",2034,"Woodlands (etc.)",-14.5215098921492
+"3: Balanced Pathway",2035,"Agriculture",34.5001065107605
+"3: Balanced Pathway",2035,"Peatlands",15.932222908301
+"3: Balanced Pathway",2035,"Woodlands (etc.)",-14.7535325943862
+"3: Balanced Pathway",2036,"Agriculture",34.0646451941582
+"3: Balanced Pathway",2036,"Peatlands",15.6173228205332
+"3: Balanced Pathway",2036,"Woodlands (etc.)",-15.3466465316243
+"3: Balanced Pathway",2037,"Agriculture",33.631542585167
+"3: Balanced Pathway",2037,"Peatlands",15.3036032557898
+"3: Balanced Pathway",2037,"Woodlands (etc.)",-17.1515793367293
+"3: Balanced Pathway",2038,"Agriculture",33.2007989667848
+"3: Balanced Pathway",2038,"Peatlands",14.9910642133511
+"3: Balanced Pathway",2038,"Woodlands (etc.)",-18.0179377570902
+"3: Balanced Pathway",2039,"Agriculture",32.7724156845636
+"3: Balanced Pathway",2039,"Peatlands",14.6797056932172
+"3: Balanced Pathway",2039,"Woodlands (etc.)",-19.2424120852007
+"3: Balanced Pathway",2040,"Agriculture",32.3987420873369
+"3: Balanced Pathway",2040,"Peatlands",14.3695276953881
+"3: Balanced Pathway",2040,"Woodlands (etc.)",-19.1522535809888
+"3: Balanced Pathway",2041,"Agriculture",32.0215138789269
+"3: Balanced Pathway",2041,"Peatlands",14.0970743990296
+"3: Balanced Pathway",2041,"Woodlands (etc.)",-19.4730034802837
+"3: Balanced Pathway",2042,"Agriculture",31.6455051596039
+"3: Balanced Pathway",2042,"Peatlands",13.8257964377778
+"3: Balanced Pathway",2042,"Woodlands (etc.)",-20.3116109173863
+"3: Balanced Pathway",2043,"Agriculture",31.270713197868
+"3: Balanced Pathway",2043,"Peatlands",13.5556938116329
+"3: Balanced Pathway",2043,"Woodlands (etc.)",-21.0405096100206
+"3: Balanced Pathway",2044,"Agriculture",30.8971342837885
+"3: Balanced Pathway",2044,"Peatlands",13.2867665205947
+"3: Balanced Pathway",2044,"Woodlands (etc.)",-22.0743965166876
+"3: Balanced Pathway",2045,"Agriculture",30.5247649819172
+"3: Balanced Pathway",2045,"Peatlands",13.0190145646634
+"3: Balanced Pathway",2045,"Woodlands (etc.)",-22.9987900627254
+"3: Balanced Pathway",2046,"Agriculture",30.1633206342385
+"3: Balanced Pathway",2046,"Peatlands",12.8763880986245
+"3: Balanced Pathway",2046,"Woodlands (etc.)",-23.5638346065361
+"3: Balanced Pathway",2047,"Agriculture",29.8032551026557
+"3: Balanced Pathway",2047,"Peatlands",12.7349403198817
+"3: Balanced Pathway",2047,"Woodlands (etc.)",-25.1191834942883
+"3: Balanced Pathway",2048,"Agriculture",29.4445648764955
+"3: Balanced Pathway",2048,"Peatlands",12.5946712284348
+"3: Balanced Pathway",2048,"Woodlands (etc.)",-25.9412988043951
+"3: Balanced Pathway",2049,"Agriculture",29.0872456968742
+"3: Balanced Pathway",2049,"Peatlands",12.455580824284
+"3: Balanced Pathway",2049,"Woodlands (etc.)",-27.0646280483981
+"3: Balanced Pathway",2050,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2050,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2050,"Woodlands (etc.)",-28.0426180638741
+"3: Balanced Pathway",2051,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2051,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2051,"Woodlands (etc.)",-28.7230486830336
+"3: Balanced Pathway",2052,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2052,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2052,"Woodlands (etc.)",-27.0140158949927
+"3: Balanced Pathway",2053,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2053,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2053,"Woodlands (etc.)",-27.821790362466
+"3: Balanced Pathway",2054,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2054,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2054,"Woodlands (etc.)",-28.7174177774401
+"3: Balanced Pathway",2055,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2055,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2055,"Woodlands (etc.)",-29.4602462168898
+"3: Balanced Pathway",2056,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2056,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2056,"Woodlands (etc.)",-29.0665122316777
+"3: Balanced Pathway",2057,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2057,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2057,"Woodlands (etc.)",-28.8501570693335
+"3: Balanced Pathway",2058,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2058,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2058,"Woodlands (etc.)",-29.2106024573713
+"3: Balanced Pathway",2059,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2059,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2059,"Woodlands (etc.)",-29.6760761558923
+"3: Balanced Pathway",2060,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2060,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2060,"Woodlands (etc.)",-26.7926350234975
+"3: Balanced Pathway",2061,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2061,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2061,"Woodlands (etc.)",-25.9017398165854
+"3: Balanced Pathway",2062,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2062,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2062,"Woodlands (etc.)",-24.6361138418549
+"3: Balanced Pathway",2063,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2063,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2063,"Woodlands (etc.)",-23.694488565192
+"3: Balanced Pathway",2064,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2064,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2064,"Woodlands (etc.)",-22.8303593200967
+"3: Balanced Pathway",2065,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2065,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2065,"Woodlands (etc.)",-21.1468592340334
+"3: Balanced Pathway",2066,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2066,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2066,"Woodlands (etc.)",-20.0572854957434
+"3: Balanced Pathway",2067,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2067,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2067,"Woodlands (etc.)",-21.4032499557777
+"3: Balanced Pathway",2068,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2068,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2068,"Woodlands (etc.)",-20.5929758850789
+"3: Balanced Pathway",2069,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2069,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2069,"Woodlands (etc.)",-19.9577059691577
+"3: Balanced Pathway",2070,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2070,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2070,"Woodlands (etc.)",-19.1951738499313
+"3: Balanced Pathway",2071,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2071,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2071,"Woodlands (etc.)",-16.8745520221154
+"3: Balanced Pathway",2072,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2072,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2072,"Woodlands (etc.)",-16.2238198431584
+"3: Balanced Pathway",2073,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2073,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2073,"Woodlands (etc.)",-15.3941213177999
+"3: Balanced Pathway",2074,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2074,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2074,"Woodlands (etc.)",-14.7653341669451
+"3: Balanced Pathway",2075,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2075,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2075,"Woodlands (etc.)",-13.8648989003599
+"3: Balanced Pathway",2076,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2076,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2076,"Woodlands (etc.)",-12.1089506418033
+"3: Balanced Pathway",2077,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2077,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2077,"Woodlands (etc.)",-18.0431446593416
+"3: Balanced Pathway",2078,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2078,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2078,"Woodlands (etc.)",-17.5468288026882
+"3: Balanced Pathway",2079,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2079,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2079,"Woodlands (etc.)",-17.3731555227689
+"3: Balanced Pathway",2080,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2080,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2080,"Woodlands (etc.)",-14.7273005543855
+"3: Balanced Pathway",2081,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2081,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2081,"Woodlands (etc.)",-9.50919434267956
+"3: Balanced Pathway",2082,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2082,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2082,"Woodlands (etc.)",-8.88160220170257
+"3: Balanced Pathway",2083,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2083,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2083,"Woodlands (etc.)",-7.56342735776072
+"3: Balanced Pathway",2084,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2084,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2084,"Woodlands (etc.)",-6.46932303445869
+"3: Balanced Pathway",2085,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2085,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2085,"Woodlands (etc.)",-5.2676166796412
+"3: Balanced Pathway",2086,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2086,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2086,"Woodlands (etc.)",-2.43537196057562
+"3: Balanced Pathway",2087,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2087,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2087,"Woodlands (etc.)",-1.72053784885005
+"3: Balanced Pathway",2088,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2088,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2088,"Woodlands (etc.)",-0.760780967891587
+"3: Balanced Pathway",2089,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2089,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2089,"Woodlands (etc.)",0.132770161414218
+"3: Balanced Pathway",2090,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2090,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2090,"Woodlands (etc.)",1.10306997557108
+"3: Balanced Pathway",2091,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2091,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2091,"Woodlands (etc.)",1.0565864784918
+"3: Balanced Pathway",2092,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2092,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2092,"Woodlands (etc.)",1.71400983971108
+"3: Balanced Pathway",2093,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2093,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2093,"Woodlands (etc.)",2.92727165525715
+"3: Balanced Pathway",2094,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2094,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2094,"Woodlands (etc.)",4.06739269147626
+"3: Balanced Pathway",2095,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2095,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2095,"Woodlands (etc.)",3.30744725372619
+"3: Balanced Pathway",2096,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2096,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2096,"Woodlands (etc.)",3.70376084887119
+"3: Balanced Pathway",2097,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2097,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2097,"Woodlands (etc.)",3.60243858738235
+"3: Balanced Pathway",2098,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2098,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2098,"Woodlands (etc.)",3.43115958528781
+"3: Balanced Pathway",2099,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2099,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2099,"Woodlands (etc.)",3.53554048984675
+"3: Balanced Pathway",2100,"Agriculture",28.8032585654979
+"3: Balanced Pathway",2100,"Peatlands",12.3176691074291
+"3: Balanced Pathway",2100,"Woodlands (etc.)",1.20199460964864
+"4: Widespread Engagement",2015,"Agriculture",43.7276629604311
+"4: Widespread Engagement",2015,"Peatlands",21.6286128825099
+"4: Widespread Engagement",2015,"Woodlands (etc.)",-22.3427885566549
+"4: Widespread Engagement",2016,"Agriculture",43.6862615564379
+"4: Widespread Engagement",2016,"Peatlands",21.6286128825099
+"4: Widespread Engagement",2016,"Woodlands (etc.)",-21.7912755546402
+"4: Widespread Engagement",2017,"Agriculture",43.6448233361863
+"4: Widespread Engagement",2017,"Peatlands",21.6286128825099
+"4: Widespread Engagement",2017,"Woodlands (etc.)",-18.5799369257605
+"4: Widespread Engagement",2018,"Agriculture",43.6033170352174
+"4: Widespread Engagement",2018,"Peatlands",21.6286128825099
+"4: Widespread Engagement",2018,"Woodlands (etc.)",-18.1426812922702
+"4: Widespread Engagement",2019,"Agriculture",43.5616962639779
+"4: Widespread Engagement",2019,"Peatlands",21.6286128825099
+"4: Widespread Engagement",2019,"Woodlands (etc.)",-17.4724005387993
+"4: Widespread Engagement",2020,"Agriculture",43.5199302918355
+"4: Widespread Engagement",2020,"Peatlands",21.6286128825099
+"4: Widespread Engagement",2020,"Woodlands (etc.)",-16.604562009674
+"4: Widespread Engagement",2021,"Agriculture",43.3575638559178
+"4: Widespread Engagement",2021,"Peatlands",21.2426159801249
+"4: Widespread Engagement",2021,"Woodlands (etc.)",-15.8777529691081
+"4: Widespread Engagement",2022,"Agriculture",42.6753596355692
+"4: Widespread Engagement",2022,"Peatlands",20.8577804643815
+"4: Widespread Engagement",2022,"Woodlands (etc.)",-15.5795186590949
+"4: Widespread Engagement",2023,"Agriculture",42.0005912981059
+"4: Widespread Engagement",2023,"Peatlands",20.4741063352795
+"4: Widespread Engagement",2023,"Woodlands (etc.)",-15.2501769794993
+"4: Widespread Engagement",2024,"Agriculture",41.3332533364471
+"4: Widespread Engagement",2024,"Peatlands",20.091593592819
+"4: Widespread Engagement",2024,"Woodlands (etc.)",-15.0515595027758
+"4: Widespread Engagement",2025,"Agriculture",40.4817428796943
+"4: Widespread Engagement",2025,"Peatlands",19.710242237
+"4: Widespread Engagement",2025,"Woodlands (etc.)",-14.7729186821222
+"4: Widespread Engagement",2026,"Agriculture",39.561471394903
+"4: Widespread Engagement",2026,"Peatlands",19.333141399573
+"4: Widespread Engagement",2026,"Woodlands (etc.)",-14.6031731431817
+"4: Widespread Engagement",2027,"Agriculture",38.948760858102
+"4: Widespread Engagement",2027,"Peatlands",18.9572250183257
+"4: Widespread Engagement",2027,"Woodlands (etc.)",-14.8821453274431
+"4: Widespread Engagement",2028,"Agriculture",38.3420209552966
+"4: Widespread Engagement",2028,"Peatlands",18.5824930932582
+"4: Widespread Engagement",2028,"Woodlands (etc.)",-14.6143954470467
+"4: Widespread Engagement",2029,"Agriculture",37.7412206237729
+"4: Widespread Engagement",2029,"Peatlands",18.2089456243704
+"4: Widespread Engagement",2029,"Woodlands (etc.)",-14.5441815392702
+"4: Widespread Engagement",2030,"Agriculture",37.0848337949929
+"4: Widespread Engagement",2030,"Peatlands",17.8365826116624
+"4: Widespread Engagement",2030,"Woodlands (etc.)",-14.349694153212
+"4: Widespread Engagement",2031,"Agriculture",36.3555414523377
+"4: Widespread Engagement",2031,"Peatlands",17.4533576740334
+"4: Widespread Engagement",2031,"Woodlands (etc.)",-14.5232839635931
+"4: Widespread Engagement",2032,"Agriculture",35.7278314973139
+"4: Widespread Engagement",2032,"Peatlands",17.0713092348828
+"4: Widespread Engagement",2032,"Woodlands (etc.)",-14.5046000318624
+"4: Widespread Engagement",2033,"Agriculture",35.107468607269
+"4: Widespread Engagement",2033,"Peatlands",16.6904372942105
+"4: Widespread Engagement",2033,"Woodlands (etc.)",-14.4743918957814
+"4: Widespread Engagement",2034,"Agriculture",34.4943994978413
+"4: Widespread Engagement",2034,"Peatlands",16.3107418520165
+"4: Widespread Engagement",2034,"Woodlands (etc.)",-14.6542151662776
+"4: Widespread Engagement",2035,"Agriculture",34.0602657798118
+"4: Widespread Engagement",2035,"Peatlands",15.932222908301
+"4: Widespread Engagement",2035,"Woodlands (etc.)",-14.8957890252507
+"4: Widespread Engagement",2036,"Agriculture",33.6080671431347
+"4: Widespread Engagement",2036,"Peatlands",15.6173228205332
+"4: Widespread Engagement",2036,"Woodlands (etc.)",-15.4799744659669
+"4: Widespread Engagement",2037,"Agriculture",33.1582868324548
+"4: Widespread Engagement",2037,"Peatlands",15.3036032557898
+"4: Widespread Engagement",2037,"Woodlands (etc.)",-17.2741426336141
+"4: Widespread Engagement",2038,"Agriculture",32.7109248298267
+"4: Widespread Engagement",2038,"Peatlands",14.9910642133511
+"4: Widespread Engagement",2038,"Woodlands (etc.)",-18.1280248349199
+"4: Widespread Engagement",2039,"Agriculture",32.2659821797559
+"4: Widespread Engagement",2039,"Peatlands",14.6797056932172
+"4: Widespread Engagement",2039,"Woodlands (etc.)",-19.3384234829511
+"4: Widespread Engagement",2040,"Agriculture",31.8749370876777
+"4: Widespread Engagement",2040,"Peatlands",14.3695276953881
+"4: Widespread Engagement",2040,"Woodlands (etc.)",-19.232279999276
+"4: Widespread Engagement",2041,"Agriculture",31.4737861415084
+"4: Widespread Engagement",2041,"Peatlands",14.0970743990296
+"4: Widespread Engagement",2041,"Woodlands (etc.)",-19.6669536971854
+"4: Widespread Engagement",2042,"Agriculture",31.0740378859795
+"4: Widespread Engagement",2042,"Peatlands",13.8257964377778
+"4: Widespread Engagement",2042,"Woodlands (etc.)",-20.6184356629682
+"4: Widespread Engagement",2043,"Agriculture",30.6756895899381
+"4: Widespread Engagement",2043,"Peatlands",13.5556938116329
+"4: Widespread Engagement",2043,"Woodlands (etc.)",-21.4588247575648
+"4: Widespread Engagement",2044,"Agriculture",30.2787375438961
+"4: Widespread Engagement",2044,"Peatlands",13.2867665205947
+"4: Widespread Engagement",2044,"Woodlands (etc.)",-22.6028867614354
+"4: Widespread Engagement",2045,"Agriculture",29.8831783128089
+"4: Widespread Engagement",2045,"Peatlands",13.0190145646634
+"4: Widespread Engagement",2045,"Woodlands (etc.)",-23.7165478831829
+"4: Widespread Engagement",2046,"Agriculture",29.4980232340345
+"4: Widespread Engagement",2046,"Peatlands",12.8763880986245
+"4: Widespread Engagement",2046,"Woodlands (etc.)",-24.4174705566526
+"4: Widespread Engagement",2047,"Agriculture",29.114389021323
+"4: Widespread Engagement",2047,"Peatlands",12.7349403198817
+"4: Widespread Engagement",2047,"Woodlands (etc.)",-26.5792508456385
+"4: Widespread Engagement",2048,"Agriculture",28.7322721644833
+"4: Widespread Engagement",2048,"Peatlands",12.5946712284348
+"4: Widespread Engagement",2048,"Woodlands (etc.)",-27.5930299764166
+"4: Widespread Engagement",2049,"Agriculture",28.3516684051819
+"4: Widespread Engagement",2049,"Peatlands",12.455580824284
+"4: Widespread Engagement",2049,"Woodlands (etc.)",-28.9219899186675
+"4: Widespread Engagement",2050,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2050,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2050,"Woodlands (etc.)",-30.270910513425
+"4: Widespread Engagement",2051,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2051,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2051,"Woodlands (etc.)",-31.0637166238468
+"4: Widespread Engagement",2052,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2052,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2052,"Woodlands (etc.)",-32.2069448120327
+"4: Widespread Engagement",2053,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2053,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2053,"Woodlands (etc.)",-33.3408773813728
+"4: Widespread Engagement",2054,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2054,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2054,"Woodlands (etc.)",-34.6551775537315
+"4: Widespread Engagement",2055,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2055,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2055,"Woodlands (etc.)",-35.7941176812463
+"4: Widespread Engagement",2056,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2056,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2056,"Woodlands (etc.)",-35.5149598028161
+"4: Widespread Engagement",2057,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2057,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2057,"Woodlands (etc.)",-37.3924452172145
+"4: Widespread Engagement",2058,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2058,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2058,"Woodlands (etc.)",-37.9861025044853
+"4: Widespread Engagement",2059,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2059,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2059,"Woodlands (etc.)",-38.7441618151185
+"4: Widespread Engagement",2060,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2060,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2060,"Woodlands (etc.)",-36.1334297647265
+"4: Widespread Engagement",2061,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2061,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2061,"Woodlands (etc.)",-35.5780558525084
+"4: Widespread Engagement",2062,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2062,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2062,"Woodlands (etc.)",-34.6695004843902
+"4: Widespread Engagement",2063,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2063,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2063,"Woodlands (etc.)",-34.0724536954796
+"4: Widespread Engagement",2064,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2064,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2064,"Woodlands (etc.)",-33.5434139570435
+"4: Widespread Engagement",2065,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2065,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2065,"Woodlands (etc.)",-31.5046952875945
+"4: Widespread Engagement",2066,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2066,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2066,"Woodlands (etc.)",-30.2622550784375
+"4: Widespread Engagement",2067,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2067,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2067,"Woodlands (etc.)",-31.4611872326953
+"4: Widespread Engagement",2068,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2068,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2068,"Woodlands (etc.)",-30.5020755380957
+"4: Widespread Engagement",2069,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2069,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2069,"Woodlands (etc.)",-29.715665930646
+"4: Widespread Engagement",2070,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2070,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2070,"Woodlands (etc.)",-28.7375371239667
+"4: Widespread Engagement",2071,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2071,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2071,"Woodlands (etc.)",-26.1480960871469
+"4: Widespread Engagement",2072,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2072,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2072,"Woodlands (etc.)",-25.2109756970943
+"4: Widespread Engagement",2073,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2073,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2073,"Woodlands (etc.)",-24.0978745662915
+"4: Widespread Engagement",2074,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2074,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2074,"Woodlands (etc.)",-23.1847221700787
+"4: Widespread Engagement",2075,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2075,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2075,"Woodlands (etc.)",-21.9266826028212
+"4: Widespread Engagement",2076,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2076,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2076,"Woodlands (etc.)",-19.2559642606774
+"4: Widespread Engagement",2077,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2077,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2077,"Woodlands (etc.)",-19.7888356272212
+"4: Widespread Engagement",2078,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2078,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2078,"Woodlands (etc.)",-18.6091712042624
+"4: Widespread Engagement",2079,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2079,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2079,"Woodlands (etc.)",-17.6044717943948
+"4: Widespread Engagement",2080,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2080,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2080,"Woodlands (etc.)",-14.1750022452187
+"4: Widespread Engagement",2081,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2081,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2081,"Woodlands (etc.)",-9.90073177980366
+"4: Widespread Engagement",2082,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2082,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2082,"Woodlands (etc.)",-8.77988043365375
+"4: Widespread Engagement",2083,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2083,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2083,"Woodlands (etc.)",-7.01544790013747
+"4: Widespread Engagement",2084,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2084,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2084,"Woodlands (etc.)",-5.49180497036567
+"4: Widespread Engagement",2085,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2085,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2085,"Woodlands (etc.)",-3.99551054356372
+"4: Widespread Engagement",2086,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2086,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2086,"Woodlands (etc.)",-3.99162833882946
+"4: Widespread Engagement",2087,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2087,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2087,"Woodlands (etc.)",-3.19069363147668
+"4: Widespread Engagement",2088,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2088,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2088,"Woodlands (etc.)",-2.32597559269556
+"4: Widespread Engagement",2089,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2089,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2089,"Woodlands (etc.)",-1.46486058446426
+"4: Widespread Engagement",2090,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2090,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2090,"Woodlands (etc.)",-0.624476808556923
+"4: Widespread Engagement",2091,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2091,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2091,"Woodlands (etc.)",0.0940223449396387
+"4: Widespread Engagement",2092,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2092,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2092,"Woodlands (etc.)",0.509887572998046
+"4: Widespread Engagement",2093,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2093,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2093,"Woodlands (etc.)",1.6171026481828
+"4: Widespread Engagement",2094,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2094,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2094,"Woodlands (etc.)",2.73143413889191
+"4: Widespread Engagement",2095,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2095,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2095,"Woodlands (etc.)",1.51314904781344
+"4: Widespread Engagement",2096,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2096,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2096,"Woodlands (etc.)",1.95952823255019
+"4: Widespread Engagement",2097,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2097,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2097,"Woodlands (etc.)",1.91105569158353
+"4: Widespread Engagement",2098,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2098,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2098,"Woodlands (etc.)",1.72724662144281
+"4: Widespread Engagement",2099,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2099,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2099,"Woodlands (etc.)",2.00235463132616
+"4: Widespread Engagement",2100,"Agriculture",28.0547093986656
+"4: Widespread Engagement",2100,"Peatlands",12.3176691074291
+"4: Widespread Engagement",2100,"Woodlands (etc.)",-0.239493430089652
+"5: NBS",2015,"Agriculture",43.7276629604311
+"5: NBS",2015,"Peatlands",21.6286128825099
+"5: NBS",2015,"Woodlands (etc.)",-22.3427885566549
+"5: NBS",2016,"Agriculture",43.6860010029903
+"5: NBS",2016,"Peatlands",21.6286128825099
+"5: NBS",2016,"Woodlands (etc.)",-21.7912755546402
+"5: NBS",2017,"Agriculture",43.6443022292911
+"5: NBS",2017,"Peatlands",21.6286128825099
+"5: NBS",2017,"Woodlands (etc.)",-18.5799369257605
+"5: NBS",2018,"Agriculture",43.6025353748745
+"5: NBS",2018,"Peatlands",21.6286128825099
+"5: NBS",2018,"Woodlands (etc.)",-18.1426812922702
+"5: NBS",2019,"Agriculture",43.5606540501874
+"5: NBS",2019,"Peatlands",21.6286128825099
+"5: NBS",2019,"Woodlands (etc.)",-17.4724005387993
+"5: NBS",2020,"Agriculture",43.5186275245974
+"5: NBS",2020,"Peatlands",21.6286128825099
+"5: NBS",2020,"Woodlands (etc.)",-16.2832686118365
+"5: NBS",2021,"Agriculture",43.247364809175
+"5: NBS",2021,"Peatlands",20.9088969100232
+"5: NBS",2021,"Woodlands (etc.)",-15.1694953621508
+"5: NBS",2022,"Agriculture",42.3736659902252
+"5: NBS",2022,"Peatlands",20.1891809375366
+"5: NBS",2022,"Woodlands (etc.)",-14.8573035130665
+"5: NBS",2023,"Agriculture",41.5147444909992
+"5: NBS",2023,"Peatlands",19.4694649650499
+"5: NBS",2023,"Woodlands (etc.)",-14.4609926245981
+"5: NBS",2024,"Agriculture",40.6704559516257
+"5: NBS",2024,"Peatlands",18.7497489925633
+"5: NBS",2024,"Woodlands (etc.)",-14.2115810378452
+"5: NBS",2025,"Agriculture",39.6907631322274
+"5: NBS",2025,"Peatlands",18.0300330200766
+"5: NBS",2025,"Woodlands (etc.)",-13.8987578858525
+"5: NBS",2026,"Agriculture",38.6296943630673
+"5: NBS",2026,"Peatlands",17.3115536822539
+"5: NBS",2026,"Woodlands (etc.)",-13.6931037532988
+"5: NBS",2027,"Agriculture",37.9522372604266
+"5: NBS",2027,"Peatlands",16.5930743444312
+"5: NBS",2027,"Woodlands (etc.)",-13.9397459534527
+"5: NBS",2028,"Agriculture",37.2823691794394
+"5: NBS",2028,"Peatlands",15.8745950066085
+"5: NBS",2028,"Woodlands (etc.)",-13.6636207931145
+"5: NBS",2029,"Agriculture",36.6200551247983
+"5: NBS",2029,"Peatlands",15.1561156687858
+"5: NBS",2029,"Woodlands (etc.)",-13.5944592952859
+"5: NBS",2030,"Agriculture",35.9050442112559
+"5: NBS",2030,"Peatlands",14.437636330963
+"5: NBS",2030,"Woodlands (etc.)",-13.3971425616584
+"5: NBS",2031,"Agriculture",35.1473251616255
+"5: NBS",2031,"Peatlands",13.7207045092523
+"5: NBS",2031,"Woodlands (etc.)",-13.6353959112126
+"5: NBS",2032,"Agriculture",34.4844724925254
+"5: NBS",2032,"Peatlands",13.0037726875415
+"5: NBS",2032,"Woodlands (etc.)",-13.6930926838273
+"5: NBS",2033,"Agriculture",33.8299574878415
+"5: NBS",2033,"Peatlands",12.2868408658308
+"5: NBS",2033,"Woodlands (etc.)",-13.7485684541478
+"5: NBS",2034,"Agriculture",33.1837161744209
+"5: NBS",2034,"Peatlands",11.56990904412
+"5: NBS",2034,"Woodlands (etc.)",-14.0144322011373
+"5: NBS",2035,"Agriculture",32.7115993016435
+"5: NBS",2035,"Peatlands",10.8529772224093
+"5: NBS",2035,"Woodlands (etc.)",-14.2450779501044
+"5: NBS",2036,"Agriculture",32.2047642606854
+"5: NBS",2036,"Peatlands",10.1866127463536
+"5: NBS",2036,"Woodlands (etc.)",-14.92130702467
+"5: NBS",2037,"Agriculture",31.7006934966285
+"5: NBS",2037,"Peatlands",9.52024827101748
+"5: NBS",2037,"Woodlands (etc.)",-16.7884964179053
+"5: NBS",2038,"Agriculture",31.1993860079999
+"5: NBS",2038,"Peatlands",8.85388379568136
+"5: NBS",2038,"Woodlands (etc.)",-17.7669673688455
+"5: NBS",2039,"Agriculture",30.7008418554681
+"5: NBS",2039,"Peatlands",8.18751932034523
+"5: NBS",2039,"Woodlands (etc.)",-19.071648938919
+"5: NBS",2040,"Agriculture",30.2539671288577
+"5: NBS",2040,"Peatlands",7.52115484500911
+"5: NBS",2040,"Woodlands (etc.)",-19.2229134077128
+"5: NBS",2041,"Agriculture",29.8414994145647
+"5: NBS",2041,"Peatlands",7.35119998068675
+"5: NBS",2041,"Woodlands (etc.)",-19.8077817373887
+"5: NBS",2042,"Agriculture",29.4301061626696
+"5: NBS",2042,"Peatlands",7.1812451163644
+"5: NBS",2042,"Woodlands (etc.)",-20.9033491526907
+"5: NBS",2043,"Agriculture",29.0197846425641
+"5: NBS",2043,"Peatlands",7.01129025204204
+"5: NBS",2043,"Woodlands (etc.)",-21.8982427297449
+"5: NBS",2044,"Agriculture",28.6105311455631
+"5: NBS",2044,"Peatlands",6.84133538771968
+"5: NBS",2044,"Woodlands (etc.)",-23.1708615012544
+"5: NBS",2045,"Agriculture",28.2023422372905
+"5: NBS",2045,"Peatlands",6.67138052339733
+"5: NBS",2045,"Woodlands (etc.)",-24.5242389995814
+"5: NBS",2046,"Agriculture",27.8039893559823
+"5: NBS",2046,"Peatlands",6.60775968209528
+"5: NBS",2046,"Woodlands (etc.)",-25.3422733734636
+"5: NBS",2047,"Agriculture",27.4069474659151
+"5: NBS",2047,"Peatlands",6.54413884079324
+"5: NBS",2047,"Woodlands (etc.)",-27.5586622508853
+"5: NBS",2048,"Agriculture",27.0112130576033
+"5: NBS",2048,"Peatlands",6.48051799949119
+"5: NBS",2048,"Woodlands (etc.)",-28.7071120175328
+"5: NBS",2049,"Agriculture",26.6167818735846
+"5: NBS",2049,"Peatlands",6.41689715818914
+"5: NBS",2049,"Woodlands (etc.)",-30.1419102292299
+"5: NBS",2050,"Agriculture",26.3018333185508
+"5: NBS",2050,"Peatlands",6.3532763168871
+"5: NBS",2050,"Woodlands (etc.)",-32.0970141020913
+"5: NBS",2051,"Agriculture",26.3018333185508
+"5: NBS",2051,"Peatlands",6.3532763168871
+"5: NBS",2051,"Woodlands (etc.)",-33.5852804345968
+"5: NBS",2052,"Agriculture",26.3018333185508
+"5: NBS",2052,"Peatlands",6.3532763168871
+"5: NBS",2052,"Woodlands (etc.)",-34.9392799474249
+"5: NBS",2053,"Agriculture",26.3018333185508
+"5: NBS",2053,"Peatlands",6.3532763168871
+"5: NBS",2053,"Woodlands (etc.)",-36.3516524104396
+"5: NBS",2054,"Agriculture",26.3018333185508
+"5: NBS",2054,"Peatlands",6.3532763168871
+"5: NBS",2054,"Woodlands (etc.)",-37.9017991056616
+"5: NBS",2055,"Agriculture",26.3018333185508
+"5: NBS",2055,"Peatlands",6.3532763168871
+"5: NBS",2055,"Woodlands (etc.)",-39.3600849425259
+"5: NBS",2056,"Agriculture",26.3018333185508
+"5: NBS",2056,"Peatlands",6.3532763168871
+"5: NBS",2056,"Woodlands (etc.)",-39.2303928525042
+"5: NBS",2057,"Agriculture",26.3018333185508
+"5: NBS",2057,"Peatlands",6.3532763168871
+"5: NBS",2057,"Woodlands (etc.)",-41.0741446079886
+"5: NBS",2058,"Agriculture",26.3018333185508
+"5: NBS",2058,"Peatlands",6.3532763168871
+"5: NBS",2058,"Woodlands (etc.)",-41.7890972328523
+"5: NBS",2059,"Agriculture",26.3018333185508
+"5: NBS",2059,"Peatlands",6.3532763168871
+"5: NBS",2059,"Woodlands (etc.)",-42.6392923368524
+"5: NBS",2060,"Agriculture",26.3018333185508
+"5: NBS",2060,"Peatlands",6.3532763168871
+"5: NBS",2060,"Woodlands (etc.)",-40.5360254736285
+"5: NBS",2061,"Agriculture",26.3018333185508
+"5: NBS",2061,"Peatlands",6.3532763168871
+"5: NBS",2061,"Woodlands (etc.)",-39.9635347629592
+"5: NBS",2062,"Agriculture",26.3018333185508
+"5: NBS",2062,"Peatlands",6.3532763168871
+"5: NBS",2062,"Woodlands (etc.)",-39.0814126275433
+"5: NBS",2063,"Agriculture",26.3018333185508
+"5: NBS",2063,"Peatlands",6.3532763168871
+"5: NBS",2063,"Woodlands (etc.)",-38.4947922494626
+"5: NBS",2064,"Agriculture",26.3018333185508
+"5: NBS",2064,"Peatlands",6.3532763168871
+"5: NBS",2064,"Woodlands (etc.)",-37.9653638742101
+"5: NBS",2065,"Agriculture",26.3018333185508
+"5: NBS",2065,"Peatlands",6.3532763168871
+"5: NBS",2065,"Woodlands (etc.)",-35.9994329778482
+"5: NBS",2066,"Agriculture",26.3018333185508
+"5: NBS",2066,"Peatlands",6.3532763168871
+"5: NBS",2066,"Woodlands (etc.)",-34.7149057245561
+"5: NBS",2067,"Agriculture",26.3018333185508
+"5: NBS",2067,"Peatlands",6.3532763168871
+"5: NBS",2067,"Woodlands (etc.)",-35.7365011392575
+"5: NBS",2068,"Agriculture",26.3018333185508
+"5: NBS",2068,"Peatlands",6.3532763168871
+"5: NBS",2068,"Woodlands (etc.)",-34.7226511293083
+"5: NBS",2069,"Agriculture",26.3018333185508
+"5: NBS",2069,"Peatlands",6.3532763168871
+"5: NBS",2069,"Woodlands (etc.)",-33.8688932055993
+"5: NBS",2070,"Agriculture",26.3018333185508
+"5: NBS",2070,"Peatlands",6.3532763168871
+"5: NBS",2070,"Woodlands (etc.)",-32.7565472408893
+"5: NBS",2071,"Agriculture",26.3018333185508
+"5: NBS",2071,"Peatlands",6.3532763168871
+"5: NBS",2071,"Woodlands (etc.)",-29.6749922098194
+"5: NBS",2072,"Agriculture",26.3018333185508
+"5: NBS",2072,"Peatlands",6.3532763168871
+"5: NBS",2072,"Woodlands (etc.)",-28.6279427165132
+"5: NBS",2073,"Agriculture",26.3018333185508
+"5: NBS",2073,"Peatlands",6.3532763168871
+"5: NBS",2073,"Woodlands (etc.)",-27.3488121908383
+"5: NBS",2074,"Agriculture",26.3018333185508
+"5: NBS",2074,"Peatlands",6.3532763168871
+"5: NBS",2074,"Woodlands (etc.)",-26.2851402169266
+"5: NBS",2075,"Agriculture",26.3018333185508
+"5: NBS",2075,"Peatlands",6.3532763168871
+"5: NBS",2075,"Woodlands (etc.)",-24.8202185970166
+"5: NBS",2076,"Agriculture",26.3018333185508
+"5: NBS",2076,"Peatlands",6.3532763168871
+"5: NBS",2076,"Woodlands (etc.)",-21.5219033542493
+"5: NBS",2077,"Agriculture",26.3018333185508
+"5: NBS",2077,"Peatlands",6.3532763168871
+"5: NBS",2077,"Woodlands (etc.)",-21.6521460304672
+"5: NBS",2078,"Agriculture",26.3018333185508
+"5: NBS",2078,"Peatlands",6.3532763168871
+"5: NBS",2078,"Woodlands (etc.)",-20.235348206797
+"5: NBS",2079,"Agriculture",26.3018333185508
+"5: NBS",2079,"Peatlands",6.3532763168871
+"5: NBS",2079,"Woodlands (etc.)",-19.0190404996978
+"5: NBS",2080,"Agriculture",26.3018333185508
+"5: NBS",2080,"Peatlands",6.3532763168871
+"5: NBS",2080,"Woodlands (etc.)",-15.6111646522375
+"5: NBS",2081,"Agriculture",26.3018333185508
+"5: NBS",2081,"Peatlands",6.3532763168871
+"5: NBS",2081,"Woodlands (etc.)",-10.1900719419246
+"5: NBS",2082,"Agriculture",26.3018333185508
+"5: NBS",2082,"Peatlands",6.3532763168871
+"5: NBS",2082,"Woodlands (etc.)",-8.82226428906669
+"5: NBS",2083,"Agriculture",26.3018333185508
+"5: NBS",2083,"Peatlands",6.3532763168871
+"5: NBS",2083,"Woodlands (etc.)",-6.75915303327221
+"5: NBS",2084,"Agriculture",26.3018333185508
+"5: NBS",2084,"Peatlands",6.3532763168871
+"5: NBS",2084,"Woodlands (etc.)",-5.02280299498642
+"5: NBS",2085,"Agriculture",26.3018333185508
+"5: NBS",2085,"Peatlands",6.3532763168871
+"5: NBS",2085,"Woodlands (etc.)",-3.25521119378125
+"5: NBS",2086,"Agriculture",26.3018333185508
+"5: NBS",2086,"Peatlands",6.3532763168871
+"5: NBS",2086,"Woodlands (etc.)",-3.31028106949609
+"5: NBS",2087,"Agriculture",26.3018333185508
+"5: NBS",2087,"Peatlands",6.3532763168871
+"5: NBS",2087,"Woodlands (etc.)",-2.34561728654202
+"5: NBS",2088,"Agriculture",26.3018333185508
+"5: NBS",2088,"Peatlands",6.3532763168871
+"5: NBS",2088,"Woodlands (etc.)",-1.3737404749004
+"5: NBS",2089,"Agriculture",26.3018333185508
+"5: NBS",2089,"Peatlands",6.3532763168871
+"5: NBS",2089,"Woodlands (etc.)",-0.459328817338355
+"5: NBS",2090,"Agriculture",26.3018333185508
+"5: NBS",2090,"Peatlands",6.3532763168871
+"5: NBS",2090,"Woodlands (etc.)",0.501880450950834
+"5: NBS",2091,"Agriculture",26.3018333185508
+"5: NBS",2091,"Peatlands",6.3532763168871
+"5: NBS",2091,"Woodlands (etc.)",0.969007607937355
+"5: NBS",2092,"Agriculture",26.3018333185508
+"5: NBS",2092,"Peatlands",6.3532763168871
+"5: NBS",2092,"Woodlands (etc.)",1.38685986485652
+"5: NBS",2093,"Agriculture",26.3018333185508
+"5: NBS",2093,"Peatlands",6.3532763168871
+"5: NBS",2093,"Woodlands (etc.)",2.38398915872106
+"5: NBS",2094,"Agriculture",26.3018333185508
+"5: NBS",2094,"Peatlands",6.3532763168871
+"5: NBS",2094,"Woodlands (etc.)",3.45600347891788
+"5: NBS",2095,"Agriculture",26.3018333185508
+"5: NBS",2095,"Peatlands",6.3532763168871
+"5: NBS",2095,"Woodlands (etc.)",2.26883215337231
+"5: NBS",2096,"Agriculture",26.3018333185508
+"5: NBS",2096,"Peatlands",6.3532763168871
+"5: NBS",2096,"Woodlands (etc.)",3.17554116144055
+"5: NBS",2097,"Agriculture",26.3018333185508
+"5: NBS",2097,"Peatlands",6.3532763168871
+"5: NBS",2097,"Woodlands (etc.)",3.11878052747884
+"5: NBS",2098,"Agriculture",26.3018333185508
+"5: NBS",2098,"Peatlands",6.3532763168871
+"5: NBS",2098,"Woodlands (etc.)",2.91374001667377
+"5: NBS",2099,"Agriculture",26.3018333185508
+"5: NBS",2099,"Peatlands",6.3532763168871
+"5: NBS",2099,"Woodlands (etc.)",3.19877189524944
+"5: NBS",2100,"Agriculture",26.3018333185508
+"5: NBS",2100,"Peatlands",6.3532763168871
+"5: NBS",2100,"Woodlands (etc.)",1.22466106133208
+"6: NBS with biomass crops",2015,"Agriculture",43.7276629604311
+"6: NBS with biomass crops",2015,"Peatlands",21.6286128825099
+"6: NBS with biomass crops",2015,"Woodlands (etc.)",-22.3427885566549
+"6: NBS with biomass crops",2016,"Agriculture",43.6860010029903
+"6: NBS with biomass crops",2016,"Peatlands",21.6286128825099
+"6: NBS with biomass crops",2016,"Woodlands (etc.)",-21.7912755546402
+"6: NBS with biomass crops",2017,"Agriculture",43.6443022292911
+"6: NBS with biomass crops",2017,"Peatlands",21.6286128825099
+"6: NBS with biomass crops",2017,"Woodlands (etc.)",-18.5799369257605
+"6: NBS with biomass crops",2018,"Agriculture",43.6025353748745
+"6: NBS with biomass crops",2018,"Peatlands",21.6286128825099
+"6: NBS with biomass crops",2018,"Woodlands (etc.)",-18.1426812922702
+"6: NBS with biomass crops",2019,"Agriculture",43.5606540501874
+"6: NBS with biomass crops",2019,"Peatlands",21.6286128825099
+"6: NBS with biomass crops",2019,"Woodlands (etc.)",-17.4724005387993
+"6: NBS with biomass crops",2020,"Agriculture",43.5186275245974
+"6: NBS with biomass crops",2020,"Peatlands",21.6286128825099
+"6: NBS with biomass crops",2020,"Woodlands (etc.)",-16.2854663201699
+"6: NBS with biomass crops",2021,"Agriculture",43.2436384464435
+"6: NBS with biomass crops",2021,"Peatlands",20.9088969100232
+"6: NBS with biomass crops",2021,"Woodlands (etc.)",-15.17988069331
+"6: NBS with biomass crops",2022,"Agriculture",42.3663216951424
+"6: NBS with biomass crops",2022,"Peatlands",20.1891809375366
+"6: NBS with biomass crops",2022,"Woodlands (etc.)",-14.8745143419942
+"6: NBS with biomass crops",2023,"Agriculture",41.5038895231105
+"6: NBS with biomass crops",2023,"Peatlands",19.4694649650499
+"6: NBS with biomass crops",2023,"Woodlands (etc.)",-14.4841439693421
+"6: NBS with biomass crops",2024,"Agriculture",40.6561964037019
+"6: NBS with biomass crops",2024,"Peatlands",18.7497489925633
+"6: NBS with biomass crops",2024,"Woodlands (etc.)",-14.2398970237653
+"6: NBS with biomass crops",2025,"Agriculture",39.6732253995643
+"6: NBS with biomass crops",2025,"Peatlands",18.0300330200766
+"6: NBS with biomass crops",2025,"Woodlands (etc.)",-13.9399922232075
+"6: NBS with biomass crops",2026,"Agriculture",38.5959181651409
+"6: NBS with biomass crops",2026,"Peatlands",17.3115536822539
+"6: NBS with biomass crops",2026,"Woodlands (etc.)",-13.769646991596
+"6: NBS with biomass crops",2027,"Agriculture",37.9023511130602
+"6: NBS with biomass crops",2027,"Peatlands",16.5930743444312
+"6: NBS with biomass crops",2027,"Woodlands (etc.)",-14.0458479663068
+"6: NBS with biomass crops",2028,"Agriculture",37.2166441821124
+"6: NBS with biomass crops",2028,"Peatlands",15.8745950066085
+"6: NBS with biomass crops",2028,"Woodlands (etc.)",-13.7954269981475
+"6: NBS with biomass crops",2029,"Agriculture",36.5387620977409
+"6: NBS with biomass crops",2029,"Peatlands",15.1561156687858
+"6: NBS with biomass crops",2029,"Woodlands (etc.)",-13.7485903323794
+"6: NBS with biomass crops",2030,"Agriculture",35.8084949523385
+"6: NBS with biomass crops",2030,"Peatlands",14.437636330963
+"6: NBS with biomass crops",2030,"Woodlands (etc.)",-13.5783399664354
+"6: NBS with biomass crops",2031,"Agriculture",35.0242859476476
+"6: NBS with biomass crops",2031,"Peatlands",13.7207045092523
+"6: NBS with biomass crops",2031,"Woodlands (etc.)",-13.8620604036063
+"6: NBS with biomass crops",2032,"Agriculture",34.3353104094311
+"6: NBS with biomass crops",2032,"Peatlands",13.0037726875415
+"6: NBS with biomass crops",2032,"Woodlands (etc.)",-13.9581719882179
+"6: NBS with biomass crops",2033,"Agriculture",33.655116437458
+"6: NBS with biomass crops",2033,"Peatlands",12.2868408658308
+"6: NBS with biomass crops",2033,"Woodlands (etc.)",-14.0469637162184
+"6: NBS with biomass crops",2034,"Agriculture",32.9836390941389
+"6: NBS with biomass crops",2034,"Peatlands",11.56990904412
+"6: NBS with biomass crops",2034,"Woodlands (etc.)",-14.3416731921471
+"6: NBS with biomass crops",2035,"Agriculture",32.4864316703983
+"6: NBS with biomass crops",2035,"Peatlands",10.8529772224093
+"6: NBS with biomass crops",2035,"Woodlands (etc.)",-14.5972401568089
+"6: NBS with biomass crops",2036,"Agriculture",31.9548956732256
+"6: NBS with biomass crops",2036,"Peatlands",10.1866127463536
+"6: NBS with biomass crops",2036,"Woodlands (etc.)",-15.2949397786854
+"6: NBS with biomass crops",2037,"Agriculture",31.4264977369467
+"6: NBS with biomass crops",2037,"Peatlands",9.52024827101748
+"6: NBS with biomass crops",2037,"Woodlands (etc.)",-17.1805907507967
+"6: NBS with biomass crops",2038,"Agriculture",30.9012367909062
+"6: NBS with biomass crops",2038,"Peatlands",8.85388379568136
+"6: NBS with biomass crops",2038,"Woodlands (etc.)",-18.1748845197793
+"6: NBS with biomass crops",2039,"Agriculture",30.3791128265662
+"6: NBS with biomass crops",2039,"Peatlands",8.18751932034523
+"6: NBS with biomass crops",2039,"Woodlands (etc.)",-19.4930754735853
+"6: NBS with biomass crops",2040,"Agriculture",29.9088831391552
+"6: NBS with biomass crops",2040,"Peatlands",7.52115484500911
+"6: NBS with biomass crops",2040,"Woodlands (etc.)",-19.6561758417636
+"6: NBS with biomass crops",2041,"Agriculture",29.4733984575154
+"6: NBS with biomass crops",2041,"Peatlands",7.35119998068675
+"6: NBS with biomass crops",2041,"Woodlands (etc.)",-20.2511074672201
+"6: NBS with biomass crops",2042,"Agriculture",29.0393403137465
+"6: NBS with biomass crops",2042,"Peatlands",7.1812451163644
+"6: NBS with biomass crops",2042,"Woodlands (etc.)",-21.3548252844679
+"6: NBS with biomass crops",2043,"Agriculture",28.6067059776534
+"6: NBS with biomass crops",2043,"Peatlands",7.01129025204204
+"6: NBS with biomass crops",2043,"Woodlands (etc.)",-22.3565017026681
+"6: NBS with biomass crops",2044,"Agriculture",28.1754917410065
+"6: NBS with biomass crops",2044,"Peatlands",6.84133538771968
+"6: NBS with biomass crops",2044,"Woodlands (etc.)",-23.6347043578301
+"6: NBS with biomass crops",2045,"Agriculture",27.7456941699083
+"6: NBS with biomass crops",2045,"Peatlands",6.67138052339733
+"6: NBS with biomass crops",2045,"Woodlands (etc.)",-24.993970109244
+"6: NBS with biomass crops",2046,"Agriculture",27.326055853214
+"6: NBS with biomass crops",2046,"Peatlands",6.60775968209528
+"6: NBS with biomass crops",2046,"Woodlands (etc.)",-25.8169766844575
+"6: NBS with biomass crops",2047,"Agriculture",26.9080810167154
+"6: NBS with biomass crops",2047,"Peatlands",6.54413884079324
+"6: NBS with biomass crops",2047,"Woodlands (etc.)",-28.0361750868859
+"6: NBS with biomass crops",2048,"Agriculture",26.491766151462
+"6: NBS with biomass crops",2048,"Peatlands",6.48051799949119
+"6: NBS with biomass crops",2048,"Woodlands (etc.)",-29.1867252418073
+"6: NBS with biomass crops",2049,"Agriculture",26.0771070005814
+"6: NBS with biomass crops",2049,"Peatlands",6.41689715818914
+"6: NBS with biomass crops",2049,"Woodlands (etc.)",-30.6230021328202
+"6: NBS with biomass crops",2050,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2050,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2050,"Woodlands (etc.)",-32.5619414724386
+"6: NBS with biomass crops",2051,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2051,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2051,"Woodlands (etc.)",-33.9835940964071
+"6: NBS with biomass crops",2052,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2052,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2052,"Woodlands (etc.)",-35.2806881901748
+"6: NBS with biomass crops",2053,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2053,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2053,"Woodlands (etc.)",-36.6431709673949
+"6: NBS with biomass crops",2054,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2054,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2054,"Woodlands (etc.)",-38.1495787570825
+"6: NBS with biomass crops",2055,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2055,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2055,"Woodlands (etc.)",-39.569517285718
+"6: NBS with biomass crops",2056,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2056,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2056,"Woodlands (etc.)",-39.4062055285463
+"6: NBS with biomass crops",2057,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2057,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2057,"Woodlands (etc.)",-41.2204832663172
+"6: NBS with biomass crops",2058,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2058,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2058,"Woodlands (etc.)",-41.9095956547482
+"6: NBS with biomass crops",2059,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2059,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2059,"Woodlands (etc.)",-42.7371363033769
+"6: NBS with biomass crops",2060,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2060,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2060,"Woodlands (etc.)",-40.6143610184034
+"6: NBS with biomass crops",2061,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2061,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2061,"Woodlands (etc.)",-40.0248105557103
+"6: NBS with biomass crops",2062,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2062,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2062,"Woodlands (etc.)",-39.1274224274503
+"6: NBS with biomass crops",2063,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2063,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2063,"Woodlands (etc.)",-38.5274181643387
+"6: NBS with biomass crops",2064,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2064,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2064,"Woodlands (etc.)",-37.9862559712894
+"6: NBS with biomass crops",2065,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2065,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2065,"Woodlands (etc.)",-36.0113917088077
+"6: NBS with biomass crops",2066,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2066,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2066,"Woodlands (etc.)",-34.71919937168
+"6: NBS with biomass crops",2067,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2067,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2067,"Woodlands (etc.)",-35.7328878040425
+"6: NBS with biomass crops",2068,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2068,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2068,"Woodlands (etc.)",-34.7121056447305
+"6: NBS with biomass crops",2069,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2069,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2069,"Woodlands (etc.)",-33.8522702198046
+"6: NBS with biomass crops",2070,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2070,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2070,"Woodlands (etc.)",-32.7328900652395
+"6: NBS with biomass crops",2071,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2071,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2071,"Woodlands (etc.)",-29.6449577479122
+"6: NBS with biomass crops",2072,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2072,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2072,"Woodlands (etc.)",-28.5938128531246
+"6: NBS with biomass crops",2073,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2073,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2073,"Woodlands (etc.)",-27.3110918382401
+"6: NBS with biomass crops",2074,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2074,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2074,"Woodlands (etc.)",-26.2442720379617
+"6: NBS with biomass crops",2075,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2075,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2075,"Woodlands (etc.)",-24.7765898117431
+"6: NBS with biomass crops",2076,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2076,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2076,"Woodlands (etc.)",-21.4758542042222
+"6: NBS with biomass crops",2077,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2077,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2077,"Woodlands (etc.)",-21.6039756776128
+"6: NBS with biomass crops",2078,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2078,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2078,"Woodlands (etc.)",-20.1853181691478
+"6: NBS with biomass crops",2079,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2079,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2079,"Woodlands (etc.)",-18.9673800533525
+"6: NBS with biomass crops",2080,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2080,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2080,"Woodlands (etc.)",-15.5584278262938
+"6: NBS with biomass crops",2081,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2081,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2081,"Woodlands (etc.)",-10.1364349636344
+"6: NBS with biomass crops",2082,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2082,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2082,"Woodlands (etc.)",-8.76752863914317
+"6: NBS with biomass crops",2083,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2083,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2083,"Woodlands (etc.)",-6.70345416431811
+"6: NBS with biomass crops",2084,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2084,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2084,"Woodlands (etc.)",-4.96625965997652
+"6: NBS with biomass crops",2085,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2085,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2085,"Woodlands (etc.)",-3.19928132221237
+"6: NBS with biomass crops",2086,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2086,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2086,"Woodlands (etc.)",-3.25505593782717
+"6: NBS with biomass crops",2087,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2087,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2087,"Woodlands (etc.)",-2.28982310068249
+"6: NBS with biomass crops",2088,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2088,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2088,"Woodlands (etc.)",-1.31744739218293
+"6: NBS with biomass crops",2089,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2089,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2089,"Woodlands (etc.)",-0.402598345565538
+"6: NBS with biomass crops",2090,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2090,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2090,"Woodlands (etc.)",0.56070035638104
+"6: NBS with biomass crops",2091,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2091,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2091,"Woodlands (etc.)",1.02986967061416
+"6: NBS with biomass crops",2092,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2092,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2092,"Woodlands (etc.)",1.44801666771046
+"6: NBS with biomass crops",2093,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2093,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2093,"Woodlands (etc.)",2.44540436393933
+"6: NBS with biomass crops",2094,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2094,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2094,"Woodlands (etc.)",3.51764522868986
+"6: NBS with biomass crops",2095,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2095,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2095,"Woodlands (etc.)",2.33067338550085
+"6: NBS with biomass crops",2096,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2096,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2096,"Woodlands (etc.)",3.23755738922839
+"6: NBS with biomass crops",2097,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2097,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2097,"Woodlands (etc.)",3.18094941519511
+"6: NBS with biomass crops",2098,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2098,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2098,"Woodlands (etc.)",2.97604274324036
+"6: NBS with biomass crops",2099,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2099,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2099,"Woodlands (etc.)",3.261191959994
+"6: NBS with biomass crops",2100,"Agriculture",25.7381468857211
+"6: NBS with biomass crops",2100,"Peatlands",6.3532763168871
+"6: NBS with biomass crops",2100,"Woodlands (etc.)",1.286830978009
+"7: NBS with organic farming",2015,"Agriculture",43.7276629604311
+"7: NBS with organic farming",2015,"Peatlands",21.6286128825099
+"7: NBS with organic farming",2015,"Woodlands (etc.)",-22.3427885566549
+"7: NBS with organic farming",2016,"Agriculture",43.6860010029903
+"7: NBS with organic farming",2016,"Peatlands",21.6286128825099
+"7: NBS with organic farming",2016,"Woodlands (etc.)",-21.7912755546402
+"7: NBS with organic farming",2017,"Agriculture",43.6443022292911
+"7: NBS with organic farming",2017,"Peatlands",21.6286128825099
+"7: NBS with organic farming",2017,"Woodlands (etc.)",-18.5799369257605
+"7: NBS with organic farming",2018,"Agriculture",43.6025353748745
+"7: NBS with organic farming",2018,"Peatlands",21.6286128825099
+"7: NBS with organic farming",2018,"Woodlands (etc.)",-18.1426812922702
+"7: NBS with organic farming",2019,"Agriculture",43.5606540501874
+"7: NBS with organic farming",2019,"Peatlands",21.6286128825099
+"7: NBS with organic farming",2019,"Woodlands (etc.)",-17.4724005387993
+"7: NBS with organic farming",2020,"Agriculture",43.5186275245974
+"7: NBS with organic farming",2020,"Peatlands",21.6286128825099
+"7: NBS with organic farming",2020,"Woodlands (etc.)",-16.2832686118365
+"7: NBS with organic farming",2021,"Agriculture",43.1235429442005
+"7: NBS with organic farming",2021,"Peatlands",20.9088969100232
+"7: NBS with organic farming",2021,"Woodlands (etc.)",-15.1694953621508
+"7: NBS with organic farming",2022,"Agriculture",42.1326937577092
+"7: NBS with organic farming",2022,"Peatlands",20.1891809375366
+"7: NBS with organic farming",2022,"Woodlands (etc.)",-14.8573035130665
+"7: NBS with organic farming",2023,"Agriculture",41.1631199392195
+"7: NBS with organic farming",2023,"Peatlands",19.4694649650499
+"7: NBS with organic farming",2023,"Woodlands (etc.)",-14.4609926245981
+"7: NBS with organic farming",2024,"Agriculture",40.2145048780052
+"7: NBS with organic farming",2024,"Peatlands",18.7497489925633
+"7: NBS with organic farming",2024,"Woodlands (etc.)",-14.2115810378452
+"7: NBS with organic farming",2025,"Agriculture",39.1370229389368
+"7: NBS with organic farming",2025,"Peatlands",18.0300330200766
+"7: NBS with organic farming",2025,"Woodlands (etc.)",-13.8987578858525
+"7: NBS with organic farming",2026,"Agriculture",37.9755878003016
+"7: NBS with organic farming",2026,"Peatlands",17.3115536822539
+"7: NBS with organic farming",2026,"Woodlands (etc.)",-13.6931037532988
+"7: NBS with organic farming",2027,"Agriculture",37.1971442045578
+"7: NBS with organic farming",2027,"Peatlands",16.5930743444312
+"7: NBS with organic farming",2027,"Woodlands (etc.)",-13.9397459534527
+"7: NBS with organic farming",2028,"Agriculture",36.4307330200855
+"7: NBS with organic farming",2028,"Peatlands",15.8745950066085
+"7: NBS with organic farming",2028,"Woodlands (etc.)",-13.6636207931145
+"7: NBS with organic farming",2029,"Agriculture",35.6762900450041
+"7: NBS with organic farming",2029,"Peatlands",15.1561156687858
+"7: NBS with organic farming",2029,"Woodlands (etc.)",-13.5944592952859
+"7: NBS with organic farming",2030,"Agriculture",34.873773845786
+"7: NBS with organic farming",2030,"Peatlands",14.437636330963
+"7: NBS with organic farming",2030,"Woodlands (etc.)",-13.3971425616584
+"7: NBS with organic farming",2031,"Agriculture",34.0318999154548
+"7: NBS with organic farming",2031,"Peatlands",13.7207045092523
+"7: NBS with organic farming",2031,"Woodlands (etc.)",-13.6353959112126
+"7: NBS with organic farming",2032,"Agriculture",33.2734333110221
+"7: NBS with organic farming",2032,"Peatlands",13.0037726875415
+"7: NBS with organic farming",2032,"Woodlands (etc.)",-13.6930926838273
+"7: NBS with organic farming",2033,"Agriculture",32.5251503416557
+"7: NBS with organic farming",2033,"Peatlands",12.2868408658308
+"7: NBS with organic farming",2033,"Woodlands (etc.)",-13.7485684541478
+"7: NBS with organic farming",2034,"Agriculture",31.7869848384135
+"7: NBS with organic farming",2034,"Peatlands",11.56990904412
+"7: NBS with organic farming",2034,"Woodlands (etc.)",-14.0144322011373
+"7: NBS with organic farming",2035,"Agriculture",31.223558099398
+"7: NBS with organic farming",2035,"Peatlands",10.8529772224093
+"7: NBS with organic farming",2035,"Woodlands (etc.)",-14.2450779501044
+"7: NBS with organic farming",2036,"Agriculture",30.74418725036
+"7: NBS with organic farming",2036,"Peatlands",10.1866127463536
+"7: NBS with organic farming",2036,"Woodlands (etc.)",-14.92130702467
+"7: NBS with organic farming",2037,"Agriculture",30.2673942870911
+"7: NBS with organic farming",2037,"Peatlands",9.52024827101748
+"7: NBS with organic farming",2037,"Woodlands (etc.)",-16.7884964179053
+"7: NBS with organic farming",2038,"Agriculture",29.7931782796974
+"7: NBS with organic farming",2038,"Peatlands",8.85388379568136
+"7: NBS with organic farming",2038,"Woodlands (etc.)",-17.7669673688455
+"7: NBS with organic farming",2039,"Agriculture",29.3215393599014
+"7: NBS with organic farming",2039,"Peatlands",8.18751932034523
+"7: NBS with organic farming",2039,"Woodlands (etc.)",-19.071648938919
+"7: NBS with organic farming",2040,"Agriculture",28.9011133874877
+"7: NBS with organic farming",2040,"Peatlands",7.52115484500911
+"7: NBS with organic farming",2040,"Woodlands (etc.)",-19.2229134077128
+"7: NBS with organic farming",2041,"Agriculture",28.514086640273
+"7: NBS with organic farming",2041,"Peatlands",7.35119998068675
+"7: NBS with organic farming",2041,"Woodlands (etc.)",-19.8077817373887
+"7: NBS with organic farming",2042,"Agriculture",28.1279829437029
+"7: NBS with organic farming",2042,"Peatlands",7.1812451163644
+"7: NBS with organic farming",2042,"Woodlands (etc.)",-20.9033491526907
+"7: NBS with organic farming",2043,"Agriculture",27.7427995688153
+"7: NBS with organic farming",2043,"Peatlands",7.01129025204204
+"7: NBS with organic farming",2043,"Woodlands (etc.)",-21.8982427297449
+"7: NBS with organic farming",2044,"Agriculture",27.358532809056
+"7: NBS with organic farming",2044,"Peatlands",6.84133538771968
+"7: NBS with organic farming",2044,"Woodlands (etc.)",-23.1708615012544
+"7: NBS with organic farming",2045,"Agriculture",26.9751792319931
+"7: NBS with organic farming",2045,"Peatlands",6.67138052339733
+"7: NBS with organic farming",2045,"Woodlands (etc.)",-24.5242389995814
+"7: NBS with organic farming",2046,"Agriculture",26.6023825679246
+"7: NBS with organic farming",2046,"Peatlands",6.60775968209528
+"7: NBS with organic farming",2046,"Woodlands (etc.)",-25.3422733734636
+"7: NBS with organic farming",2047,"Agriculture",26.2307129664001
+"7: NBS with organic farming",2047,"Peatlands",6.54413884079324
+"7: NBS with organic farming",2047,"Woodlands (etc.)",-27.5586622508853
+"7: NBS with organic farming",2048,"Agriculture",25.8601669199974
+"7: NBS with organic farming",2048,"Peatlands",6.48051799949119
+"7: NBS with organic farming",2048,"Woodlands (etc.)",-28.7071120175328
+"7: NBS with organic farming",2049,"Agriculture",25.4907401736711
+"7: NBS with organic farming",2049,"Peatlands",6.41689715818914
+"7: NBS with organic farming",2049,"Woodlands (etc.)",-30.1419102292299
+"7: NBS with organic farming",2050,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2050,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2050,"Woodlands (etc.)",-32.0970141020913
+"7: NBS with organic farming",2051,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2051,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2051,"Woodlands (etc.)",-33.5852804345968
+"7: NBS with organic farming",2052,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2052,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2052,"Woodlands (etc.)",-34.9392799474249
+"7: NBS with organic farming",2053,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2053,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2053,"Woodlands (etc.)",-36.3516524104396
+"7: NBS with organic farming",2054,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2054,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2054,"Woodlands (etc.)",-37.9017991056616
+"7: NBS with organic farming",2055,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2055,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2055,"Woodlands (etc.)",-39.3600849425259
+"7: NBS with organic farming",2056,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2056,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2056,"Woodlands (etc.)",-39.2303928525042
+"7: NBS with organic farming",2057,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2057,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2057,"Woodlands (etc.)",-41.0741446079886
+"7: NBS with organic farming",2058,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2058,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2058,"Woodlands (etc.)",-41.7890972328523
+"7: NBS with organic farming",2059,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2059,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2059,"Woodlands (etc.)",-42.6392923368524
+"7: NBS with organic farming",2060,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2060,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2060,"Woodlands (etc.)",-40.5360254736285
+"7: NBS with organic farming",2061,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2061,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2061,"Woodlands (etc.)",-39.9635347629592
+"7: NBS with organic farming",2062,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2062,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2062,"Woodlands (etc.)",-39.0814126275433
+"7: NBS with organic farming",2063,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2063,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2063,"Woodlands (etc.)",-38.4947922494626
+"7: NBS with organic farming",2064,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2064,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2064,"Woodlands (etc.)",-37.9653638742101
+"7: NBS with organic farming",2065,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2065,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2065,"Woodlands (etc.)",-35.9994329778482
+"7: NBS with organic farming",2066,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2066,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2066,"Woodlands (etc.)",-34.7149057245561
+"7: NBS with organic farming",2067,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2067,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2067,"Woodlands (etc.)",-35.7365011392575
+"7: NBS with organic farming",2068,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2068,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2068,"Woodlands (etc.)",-34.7226511293083
+"7: NBS with organic farming",2069,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2069,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2069,"Woodlands (etc.)",-33.8688932055993
+"7: NBS with organic farming",2070,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2070,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2070,"Woodlands (etc.)",-32.7565472408893
+"7: NBS with organic farming",2071,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2071,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2071,"Woodlands (etc.)",-29.6749922098194
+"7: NBS with organic farming",2072,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2072,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2072,"Woodlands (etc.)",-28.6279427165132
+"7: NBS with organic farming",2073,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2073,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2073,"Woodlands (etc.)",-27.3488121908383
+"7: NBS with organic farming",2074,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2074,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2074,"Woodlands (etc.)",-26.2851402169266
+"7: NBS with organic farming",2075,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2075,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2075,"Woodlands (etc.)",-24.8202185970166
+"7: NBS with organic farming",2076,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2076,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2076,"Woodlands (etc.)",-21.5219033542493
+"7: NBS with organic farming",2077,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2077,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2077,"Woodlands (etc.)",-21.6521460304672
+"7: NBS with organic farming",2078,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2078,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2078,"Woodlands (etc.)",-20.235348206797
+"7: NBS with organic farming",2079,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2079,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2079,"Woodlands (etc.)",-19.0190404996978
+"7: NBS with organic farming",2080,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2080,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2080,"Woodlands (etc.)",-15.6111646522375
+"7: NBS with organic farming",2081,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2081,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2081,"Woodlands (etc.)",-10.1900719419246
+"7: NBS with organic farming",2082,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2082,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2082,"Woodlands (etc.)",-8.82226428906669
+"7: NBS with organic farming",2083,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2083,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2083,"Woodlands (etc.)",-6.75915303327221
+"7: NBS with organic farming",2084,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2084,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2084,"Woodlands (etc.)",-5.02280299498642
+"7: NBS with organic farming",2085,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2085,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2085,"Woodlands (etc.)",-3.25521119378125
+"7: NBS with organic farming",2086,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2086,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2086,"Woodlands (etc.)",-3.31028106949609
+"7: NBS with organic farming",2087,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2087,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2087,"Woodlands (etc.)",-2.34561728654202
+"7: NBS with organic farming",2088,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2088,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2088,"Woodlands (etc.)",-1.3737404749004
+"7: NBS with organic farming",2089,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2089,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2089,"Woodlands (etc.)",-0.459328817338355
+"7: NBS with organic farming",2090,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2090,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2090,"Woodlands (etc.)",0.501880450950834
+"7: NBS with organic farming",2091,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2091,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2091,"Woodlands (etc.)",0.969007607937354
+"7: NBS with organic farming",2092,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2092,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2092,"Woodlands (etc.)",1.38685986485652
+"7: NBS with organic farming",2093,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2093,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2093,"Woodlands (etc.)",2.38398915872106
+"7: NBS with organic farming",2094,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2094,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2094,"Woodlands (etc.)",3.45600347891788
+"7: NBS with organic farming",2095,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2095,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2095,"Woodlands (etc.)",2.26883215337231
+"7: NBS with organic farming",2096,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2096,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2096,"Woodlands (etc.)",3.17554116144055
+"7: NBS with organic farming",2097,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2097,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2097,"Woodlands (etc.)",3.11878052747884
+"7: NBS with organic farming",2098,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2098,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2098,"Woodlands (etc.)",2.91374001667377
+"7: NBS with organic farming",2099,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2099,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2099,"Woodlands (etc.)",3.19877189524944
+"7: NBS with organic farming",2100,"Agriculture",25.1901912372366
+"7: NBS with organic farming",2100,"Peatlands",6.3532763168871
+"7: NBS with organic farming",2100,"Woodlands (etc.)",1.22466106133208
+"8: NBS extra",2015,"Agriculture",43.7276629604311
+"8: NBS extra",2015,"Peatlands",21.6286128825099
+"8: NBS extra",2015,"Woodlands (etc.)",-22.3427885566549
+"8: NBS extra",2016,"Agriculture",43.6860010029903
+"8: NBS extra",2016,"Peatlands",21.6286128825099
+"8: NBS extra",2016,"Woodlands (etc.)",-21.7912755546402
+"8: NBS extra",2017,"Agriculture",43.6443022292911
+"8: NBS extra",2017,"Peatlands",21.6286128825099
+"8: NBS extra",2017,"Woodlands (etc.)",-18.5799369257605
+"8: NBS extra",2018,"Agriculture",43.6025353748745
+"8: NBS extra",2018,"Peatlands",21.6286128825099
+"8: NBS extra",2018,"Woodlands (etc.)",-18.1426812922702
+"8: NBS extra",2019,"Agriculture",43.5606540501874
+"8: NBS extra",2019,"Peatlands",21.6286128825099
+"8: NBS extra",2019,"Woodlands (etc.)",-17.4724005387993
+"8: NBS extra",2020,"Agriculture",43.5186275245974
+"8: NBS extra",2020,"Peatlands",21.6286128825099
+"8: NBS extra",2020,"Woodlands (etc.)",-16.2632624946504
+"8: NBS extra",2021,"Agriculture",43.208919748204
+"8: NBS extra",2021,"Peatlands",20.9088969100232
+"8: NBS extra",2021,"Woodlands (etc.)",-15.1609460749264
+"8: NBS extra",2022,"Agriculture",42.2979161155743
+"8: NBS extra",2022,"Peatlands",20.1891809375366
+"8: NBS extra",2022,"Woodlands (etc.)",-14.8600820668286
+"8: NBS extra",2023,"Agriculture",41.4028081366341
+"8: NBS extra",2023,"Peatlands",19.4694649650499
+"8: NBS extra",2023,"Woodlands (etc.)",-14.4749727498864
+"8: NBS extra",2024,"Agriculture",40.5234297219762
+"8: NBS extra",2024,"Peatlands",18.7497489925633
+"8: NBS extra",2024,"Woodlands (etc.)",-14.236639124702
+"8: NBS extra",2025,"Agriculture",39.5497068491681
+"8: NBS extra",2025,"Peatlands",18.0300330200766
+"8: NBS extra",2025,"Woodlands (etc.)",-13.9347469905241
+"8: NBS extra",2026,"Agriculture",38.4648628426117
+"8: NBS extra",2026,"Peatlands",17.3115536822539
+"8: NBS extra",2026,"Woodlands (etc.)",-13.7418838133637
+"8: NBS extra",2027,"Agriculture",37.7624295871236
+"8: NBS extra",2027,"Peatlands",16.5930743444312
+"8: NBS extra",2027,"Woodlands (etc.)",-14.001200741029
+"8: NBS extra",2028,"Agriculture",37.0682442770295
+"8: NBS extra",2028,"Peatlands",15.8745950066085
+"8: NBS extra",2028,"Woodlands (etc.)",-13.7376365181369
+"8: NBS extra",2029,"Agriculture",36.3822693794748
+"8: NBS extra",2029,"Peatlands",15.1561156687858
+"8: NBS extra",2029,"Woodlands (etc.)",-13.6809245518296
+"8: NBS extra",2030,"Agriculture",35.6447845695084
+"8: NBS extra",2030,"Peatlands",14.437636330963
+"8: NBS extra",2030,"Woodlands (etc.)",-13.4959049353002
+"8: NBS extra",2031,"Agriculture",34.8564425217775
+"8: NBS extra",2031,"Peatlands",13.7207045092523
+"8: NBS extra",2031,"Woodlands (etc.)",-13.7525440158381
+"8: NBS extra",2032,"Agriculture",34.1625125589168
+"8: NBS extra",2032,"Peatlands",13.0037726875415
+"8: NBS extra",2032,"Woodlands (etc.)",-13.828521837768
+"8: NBS extra",2033,"Agriculture",33.4776115132634
+"8: NBS extra",2033,"Peatlands",12.2868408658308
+"8: NBS extra",2033,"Woodlands (etc.)",-13.9021761582043
+"8: NBS extra",2034,"Agriculture",32.8016689429006
+"8: NBS extra",2034,"Peatlands",11.56990904412
+"8: NBS extra",2034,"Woodlands (etc.)",-14.1861180906499
+"8: NBS extra",2035,"Agriculture",32.2976628986913
+"8: NBS extra",2035,"Peatlands",10.8529772224093
+"8: NBS extra",2035,"Woodlands (etc.)",-14.430635804414
+"8: NBS extra",2036,"Agriculture",31.7567027740047
+"8: NBS extra",2036,"Peatlands",10.1866127463536
+"8: NBS extra",2036,"Woodlands (etc.)",-15.137385752869
+"8: NBS extra",2037,"Agriculture",31.2187424359151
+"8: NBS extra",2037,"Peatlands",9.52024827101748
+"8: NBS extra",2037,"Woodlands (etc.)",-17.0350022047921
+"8: NBS extra",2038,"Agriculture",30.6837803989355
+"8: NBS extra",2038,"Peatlands",8.85388379568136
+"8: NBS extra",2038,"Woodlands (etc.)",-18.0438083441475
+"8: NBS extra",2039,"Agriculture",30.151816239742
+"8: NBS extra",2039,"Peatlands",8.18751932034523
+"8: NBS extra",2039,"Woodlands (etc.)",-19.3787351346853
+"8: NBS extra",2040,"Agriculture",29.6705253645686
+"8: NBS extra",2040,"Peatlands",7.52115484500911
+"8: NBS extra",2040,"Woodlands (etc.)",-19.5601065105301
+"8: NBS extra",2041,"Agriculture",29.2269916073799
+"8: NBS extra",2041,"Peatlands",7.35119998068675
+"8: NBS extra",2041,"Woodlands (etc.)",-20.1895258418042
+"8: NBS extra",2042,"Agriculture",28.7846160237011
+"8: NBS extra",2042,"Peatlands",7.1812451163644
+"8: NBS extra",2042,"Woodlands (etc.)",-21.3295592648344
+"8: NBS extra",2043,"Agriculture",28.3433958827563
+"8: NBS extra",2043,"Peatlands",7.01129025204204
+"8: NBS extra",2043,"Woodlands (etc.)",-22.3688356070178
+"8: NBS extra",2044,"Agriculture",27.9033274756597
+"8: NBS extra",2044,"Peatlands",6.84133538771968
+"8: NBS extra",2044,"Woodlands (etc.)",-23.6857556140662
+"8: NBS extra",2045,"Agriculture",27.4644073678178
+"8: NBS extra",2045,"Peatlands",6.67138052339733
+"8: NBS extra",2045,"Woodlands (etc.)",-25.0833789433183
+"8: NBS extra",2046,"Agriculture",27.0363572272413
+"8: NBS extra",2046,"Peatlands",6.60775968209528
+"8: NBS extra",2046,"Woodlands (etc.)",-25.9421477112613
+"8: NBS extra",2047,"Agriculture",26.609700753235
+"8: NBS extra",2047,"Peatlands",6.54413884079324
+"8: NBS extra",2047,"Woodlands (etc.)",-28.1991946817172
+"8: NBS extra",2048,"Agriculture",26.1844344361071
+"8: NBS extra",2048,"Peatlands",6.48051799949119
+"8: NBS extra",2048,"Woodlands (etc.)",-29.3882278014303
+"8: NBS extra",2049,"Agriculture",25.7605540181477
+"8: NBS extra",2049,"Peatlands",6.41689715818914
+"8: NBS extra",2049,"Woodlands (etc.)",-30.8635361532825
+"8: NBS extra",2050,"Agriculture",25.4149924093994
+"8: NBS extra",2050,"Peatlands",6.3532763168871
+"8: NBS extra",2050,"Woodlands (etc.)",-32.8791269179786
+"8: NBS extra",2051,"Agriculture",25.4149924093994
+"8: NBS extra",2051,"Peatlands",6.3532763168871
+"8: NBS extra",2051,"Woodlands (etc.)",-34.3876498560764
+"8: NBS extra",2052,"Agriculture",25.4149924093994
+"8: NBS extra",2052,"Peatlands",6.3532763168871
+"8: NBS extra",2052,"Woodlands (etc.)",-35.7619662562699
+"8: NBS extra",2053,"Agriculture",25.4149924093994
+"8: NBS extra",2053,"Peatlands",6.3532763168871
+"8: NBS extra",2053,"Woodlands (etc.)",-37.1947145666464
+"8: NBS extra",2054,"Agriculture",25.4149924093994
+"8: NBS extra",2054,"Peatlands",6.3532763168871
+"8: NBS extra",2054,"Woodlands (etc.)",-38.7652947770971
+"8: NBS extra",2055,"Agriculture",25.4149924093994
+"8: NBS extra",2055,"Peatlands",6.3532763168871
+"8: NBS extra",2055,"Woodlands (etc.)",-40.2440735955702
+"8: NBS extra",2056,"Agriculture",25.4149924093994
+"8: NBS extra",2056,"Peatlands",6.3532763168871
+"8: NBS extra",2056,"Woodlands (etc.)",-40.1266644112899
+"8: NBS extra",2057,"Agriculture",25.4149924093994
+"8: NBS extra",2057,"Peatlands",6.3532763168871
+"8: NBS extra",2057,"Woodlands (etc.)",-41.9826959953266
+"8: NBS extra",2058,"Agriculture",25.4149924093994
+"8: NBS extra",2058,"Peatlands",6.3532763168871
+"8: NBS extra",2058,"Woodlands (etc.)",-42.7099826577921
+"8: NBS extra",2059,"Agriculture",25.4149924093994
+"8: NBS extra",2059,"Peatlands",6.3532763168871
+"8: NBS extra",2059,"Woodlands (etc.)",-43.5725627859742
+"8: NBS extra",2060,"Agriculture",25.4149924093994
+"8: NBS extra",2060,"Peatlands",6.3532763168871
+"8: NBS extra",2060,"Woodlands (etc.)",-41.4817331197579
+"8: NBS extra",2061,"Agriculture",25.4149924093994
+"8: NBS extra",2061,"Peatlands",6.3532763168871
+"8: NBS extra",2061,"Woodlands (etc.)",-40.9085833795844
+"8: NBS extra",2062,"Agriculture",25.4149924093994
+"8: NBS extra",2062,"Peatlands",6.3532763168871
+"8: NBS extra",2062,"Woodlands (etc.)",-40.025960886091
+"8: NBS extra",2063,"Agriculture",25.4149924093994
+"8: NBS extra",2063,"Peatlands",6.3532763168871
+"8: NBS extra",2063,"Woodlands (etc.)",-39.4388845451609
+"8: NBS extra",2064,"Agriculture",25.4149924093994
+"8: NBS extra",2064,"Peatlands",6.3532763168871
+"8: NBS extra",2064,"Woodlands (etc.)",-38.9090465830068
+"8: NBS extra",2065,"Agriculture",25.4149924093994
+"8: NBS extra",2065,"Peatlands",6.3532763168871
+"8: NBS extra",2065,"Woodlands (etc.)",-36.9469072970325
+"8: NBS extra",2066,"Agriculture",25.4149924093994
+"8: NBS extra",2066,"Peatlands",6.3532763168871
+"8: NBS extra",2066,"Woodlands (etc.)",-35.6465007213729
+"8: NBS extra",2067,"Agriculture",25.4149924093994
+"8: NBS extra",2067,"Peatlands",6.3532763168871
+"8: NBS extra",2067,"Woodlands (etc.)",-36.6524217946379
+"8: NBS extra",2068,"Agriculture",25.4149924093994
+"8: NBS extra",2068,"Peatlands",6.3532763168871
+"8: NBS extra",2068,"Woodlands (etc.)",-35.6229359053036
+"8: NBS extra",2069,"Agriculture",25.4149924093994
+"8: NBS extra",2069,"Peatlands",6.3532763168871
+"8: NBS extra",2069,"Woodlands (etc.)",-34.7535859230009
+"8: NBS extra",2070,"Agriculture",25.4149924093994
+"8: NBS extra",2070,"Peatlands",6.3532763168871
+"8: NBS extra",2070,"Woodlands (etc.)",-33.6257145246211
+"8: NBS extra",2071,"Agriculture",25.4149924093994
+"8: NBS extra",2071,"Peatlands",6.3532763168871
+"8: NBS extra",2071,"Woodlands (etc.)",-30.5128421490685
+"8: NBS extra",2072,"Agriculture",25.4149924093994
+"8: NBS extra",2072,"Peatlands",6.3532763168871
+"8: NBS extra",2072,"Woodlands (etc.)",-29.4341813903217
+"8: NBS extra",2073,"Agriculture",25.4149924093994
+"8: NBS extra",2073,"Peatlands",6.3532763168871
+"8: NBS extra",2073,"Woodlands (etc.)",-28.1234861384121
+"8: NBS extra",2074,"Agriculture",25.4149924093994
+"8: NBS extra",2074,"Peatlands",6.3532763168871
+"8: NBS extra",2074,"Woodlands (etc.)",-27.0282896507283
+"8: NBS extra",2075,"Agriculture",25.4149924093994
+"8: NBS extra",2075,"Peatlands",6.3532763168871
+"8: NBS extra",2075,"Woodlands (etc.)",-25.5321753867962
+"8: NBS extra",2076,"Agriculture",25.4149924093994
+"8: NBS extra",2076,"Peatlands",6.3532763168871
+"8: NBS extra",2076,"Woodlands (etc.)",-22.2025077673608
+"8: NBS extra",2077,"Agriculture",25.4149924093994
+"8: NBS extra",2077,"Peatlands",6.3532763168871
+"8: NBS extra",2077,"Woodlands (etc.)",-22.3015686814291
+"8: NBS extra",2078,"Agriculture",25.4149924093994
+"8: NBS extra",2078,"Peatlands",6.3532763168871
+"8: NBS extra",2078,"Woodlands (etc.)",-20.8536177129088
+"8: NBS extra",2079,"Agriculture",25.4149924093994
+"8: NBS extra",2079,"Peatlands",6.3532763168871
+"8: NBS extra",2079,"Woodlands (etc.)",-19.6061864928063
+"8: NBS extra",2080,"Agriculture",25.4149924093994
+"8: NBS extra",2080,"Peatlands",6.3532763168871
+"8: NBS extra",2080,"Woodlands (etc.)",-16.1673226502039
+"8: NBS extra",2081,"Agriculture",25.4149924093994
+"8: NBS extra",2081,"Peatlands",6.3532763168871
+"8: NBS extra",2081,"Woodlands (etc.)",-10.7229812132794
+"8: NBS extra",2082,"Agriculture",25.4149924093994
+"8: NBS extra",2082,"Peatlands",6.3532763168871
+"8: NBS extra",2082,"Woodlands (etc.)",-9.33170181185996
+"8: NBS extra",2083,"Agriculture",25.4149924093994
+"8: NBS extra",2083,"Peatlands",6.3532763168871
+"8: NBS extra",2083,"Woodlands (etc.)",-7.24515308563203
+"8: NBS extra",2084,"Agriculture",25.4149924093994
+"8: NBS extra",2084,"Peatlands",6.3532763168871
+"8: NBS extra",2084,"Woodlands (etc.)",-5.48538444872328
+"8: NBS extra",2085,"Agriculture",25.4149924093994
+"8: NBS extra",2085,"Peatlands",6.3532763168871
+"8: NBS extra",2085,"Woodlands (etc.)",-3.69402546052851
+"8: NBS extra",2086,"Agriculture",25.4149924093994
+"8: NBS extra",2086,"Peatlands",6.3532763168871
+"8: NBS extra",2086,"Woodlands (etc.)",-3.72940187477924
+"8: NBS extra",2087,"Agriculture",25.4149924093994
+"8: NBS extra",2087,"Peatlands",6.3532763168871
+"8: NBS extra",2087,"Woodlands (etc.)",-2.74530821638827
+"8: NBS extra",2088,"Agriculture",25.4149924093994
+"8: NBS extra",2088,"Peatlands",6.3532763168871
+"8: NBS extra",2088,"Woodlands (etc.)",-1.75401841097996
+"8: NBS extra",2089,"Agriculture",25.4149924093994
+"8: NBS extra",2089,"Peatlands",6.3532763168871
+"8: NBS extra",2089,"Woodlands (etc.)",-0.820228372400826
+"8: NBS extra",2090,"Agriculture",25.4149924093994
+"8: NBS extra",2090,"Peatlands",6.3532763168871
+"8: NBS extra",2090,"Woodlands (etc.)",0.160426059901126
+"8: NBS extra",2091,"Agriculture",25.4149924093994
+"8: NBS extra",2091,"Peatlands",6.3532763168871
+"8: NBS extra",2091,"Woodlands (etc.)",0.642114980135794
+"8: NBS extra",2092,"Agriculture",25.4149924093994
+"8: NBS extra",2092,"Peatlands",6.3532763168871
+"8: NBS extra",2092,"Woodlands (etc.)",1.07450560893327
+"8: NBS extra",2093,"Agriculture",25.4149924093994
+"8: NBS extra",2093,"Peatlands",6.3532763168871
+"8: NBS extra",2093,"Woodlands (etc.)",2.08615734200053
+"8: NBS extra",2094,"Agriculture",25.4149924093994
+"8: NBS extra",2094,"Peatlands",6.3532763168871
+"8: NBS extra",2094,"Woodlands (etc.)",3.1726205630269
+"8: NBS extra",2095,"Agriculture",25.4149924093994
+"8: NBS extra",2095,"Peatlands",6.3532763168871
+"8: NBS extra",2095,"Woodlands (etc.)",1.99988602568917
+"8: NBS extra",2096,"Agriculture",25.4149924093994
+"8: NBS extra",2096,"Peatlands",6.3532763168871
+"8: NBS extra",2096,"Woodlands (etc.)",2.91688262843455
+"8: NBS extra",2097,"Agriculture",25.4149924093994
+"8: NBS extra",2097,"Peatlands",6.3532763168871
+"8: NBS extra",2097,"Woodlands (etc.)",2.87038591613841
+"8: NBS extra",2098,"Agriculture",25.4149924093994
+"8: NBS extra",2098,"Peatlands",6.3532763168871
+"8: NBS extra",2098,"Woodlands (etc.)",2.67558486976942
+"8: NBS extra",2099,"Agriculture",25.4149924093994
+"8: NBS extra",2099,"Peatlands",6.3532763168871
+"8: NBS extra",2099,"Woodlands (etc.)",2.97093521028362
+"8: NBS extra",2100,"Agriculture",25.4149924093994
+"8: NBS extra",2100,"Peatlands",6.3532763168871
+"8: NBS extra",2100,"Woodlands (etc.)",1.00701107584653
